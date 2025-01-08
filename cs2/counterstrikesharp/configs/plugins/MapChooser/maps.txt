@@ -1699,13 +1699,6 @@
 		"filename"		"ze_mars_escape_xmas"
 		"updatedname"		"ze_mars_escape_xmas"
 	}
-	"ze_FFVII_Mako_Reactor_v5_3"
-	{
-		"workshop_id"		"3400128277"
-		"enabled"		"1"
-		"filename"		"ze_FFVII_Mako_v5_3"
-		"updatedname"		"ze_FFVII_Mako_Reactor_v5_3"
-	}
 	"ze_skzroom"
 	{
 		"workshop_id"		"3291260013"
@@ -2988,5 +2981,12 @@
 		"filename"		"ze_obj_goosestep_v1"
 		"updatedname"		"ze_obj_goosestep_v1"
 		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
+	}
+	"ze_ffvii_mako_reactor_v5_3"
+	{
+		"workshop_id"		"3400128277"
+		"enabled"		"1"
+		"filename"		"ze_mako_reactor_v5_3"
+		"updatedname"		"ze_ffvii_mako_reactor_v5_3"
 	}
 }
