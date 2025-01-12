@@ -61,7 +61,7 @@
   },
   {
     "MapName": "ze_grau_p",
-    "WorkshopId": "3246171131"
+    "WorkshopId": "3400136962"
   },
   {
     "MapName": "ze_mist_p",
@@ -1718,5 +1718,17 @@
   {
     "MapName": "ze_survivors_mountain",
     "WorkshopId": "3396065042"
+  },
+  {
+    "MapName": "ze_something_ordinary",
+    "WorkshopId": "3400553142"
+  },
+  {
+    "MapName": "ze_obj_redemption",
+    "WorkshopId": "3383451059"
+  },
+  {
+    "MapName": "ze_obj_goosestep_v1",
+    "WorkshopId": "3402037855"
   }
 ]
