@@ -2014,7 +2014,7 @@
 	"ze_LOTR_Minas_Tirith_p"
 	{
 		"workshop_id"		"3314560349"
-		"enabled"		"0"
+		"enabled"		"1"
 		"filename"		"ze_lotr_minas_tirith_p"
 		"updatedname"		"ze_LOTR_Minas_Tirith_p"
 		"search"		"米那斯;魔戒3"
@@ -2756,7 +2756,7 @@
 	"ze_lotr_minas_tirith_recompile"
 	{
 		"workshop_id"		"3353505696"
-		"enabled"		"1"
+		"enabled"		"0"
 		"filename"		"ze_lotr_minas_tirith"
 		"updatedname"		"ze_lotr_minas_tirith_recompile"
 	}
@@ -2988,5 +2988,13 @@
 		"enabled"		"1"
 		"filename"		"ze_mako_reactor_v5_3"
 		"updatedname"		"ze_ffvii_mako_reactor_v5_3"
+	}
+	"ze_biohazard2_sewer_004"
+	{
+		"workshop_id"		"3404397288"
+		"enabled"		"1"
+		"filename"		"ze_biohazard2_sewer_004"
+		"updatedname"		"ze_biohazard2_sewer_004"
+		"search"		"生化危机2;下水道"
 	}
 }
