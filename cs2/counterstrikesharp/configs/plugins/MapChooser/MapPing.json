@@ -1730,5 +1730,45 @@
   {
     "MapName": "ze_obj_goosestep_v1",
     "WorkshopId": "3402037855"
+  },
+  {
+    "MapName": "ze_hidden_temple",
+    "WorkshopId": "3389448043"
+  },
+  {
+    "MapName": "ze_biohazard2_sewer_004",
+    "WorkshopId": "3404397288"
+  },
+  {
+    "MapName": "ze_thelostworld_redux_p",
+    "WorkshopId": "3389333194"
+  },
+  {
+    "MapName": "ze_paradise_t",
+    "WorkshopId": "3404515839"
+  },
+  {
+    "MapName": "ze_dnd_hydra_z",
+    "WorkshopId": "3406009899"
+  },
+  {
+    "MapName": "ze_surf_auv",
+    "WorkshopId": "3410416437"
+  },
+  {
+    "MapName": "ze_parking_p",
+    "WorkshopId": "3405314470"
+  },
+  {
+    "MapName": "ze_santassination_for_god_players",
+    "WorkshopId": "3412262982"
+  },
+  {
+    "MapName": "ze_sele",
+    "WorkshopId": "3411145443"
+  },
+  {
+    "MapName": "ze_obj_ember",
+    "WorkshopId": "3408908971"
   }
 ]
