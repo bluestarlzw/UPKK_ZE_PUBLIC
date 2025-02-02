@@ -1,9 +1,9 @@
 [
   {
-    "Name": "奶",
-    "ShortName": "奶",
+    "Name": "灭火器",
+    "ShortName": "灭火器",
     "Color": "{default}",
-    "HammerID": 134,
+    "HammerID": 394,
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -14,22 +14,22 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "Item_Heal_Button",
-        "ButtonID": 139,
-        "ButtonClass": "func_physbox",
-        "Filter": "heal:1",
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "fireman",
         "Chat_Uses": true,
-        "Mode": 2,
+        "Mode": 0,
         "MaxUses": 0,
-        "CoolDown": 45
+        "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "黑洞",
-    "ShortName": "黑洞",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
-    "HammerID": 147,
+    "HammerID": 410,
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -40,14 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "Item_Gravity_Button",
-        "ButtonID": 153,
-        "ButtonClass": "func_physbox",
-        "Filter": "gravity:1",
+        "Name": "item_heal_button",
+        "ButtonID": 422,
+        "ButtonClass": "func_button",
+        "Filter": "healer:1",
         "Chat_Uses": true,
-        "Mode": 2,
+        "Mode": 7,
         "MaxUses": 0,
-        "CoolDown": 75
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 11652,
+        "MathNameFix": false,
+        "MathFindSpawned": true,
+        "MathDontShowMax": true
       }
     ]
   }

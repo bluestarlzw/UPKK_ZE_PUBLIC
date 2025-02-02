@@ -1770,5 +1770,17 @@
   {
     "MapName": "ze_obj_ember",
     "WorkshopId": "3408908971"
+  },
+  {
+    "MapName": "ze_jurassicpark_escape_p",
+    "WorkshopId": "3397749308"
+  },
+  {
+    "MapName": "ze_bioluminescent",
+    "WorkshopId": "3412129855"
+  },
+  {
+    "MapName": "ze_radio_building",
+    "WorkshopId": "3400976371"
   }
 ]
