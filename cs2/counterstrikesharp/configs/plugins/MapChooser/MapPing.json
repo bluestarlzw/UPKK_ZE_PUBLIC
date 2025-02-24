@@ -1782,5 +1782,173 @@
   {
     "MapName": "ze_radio_building",
     "WorkshopId": "3400976371"
+  },
+  {
+    "MapName": "ze_contradiction_spiral",
+    "WorkshopId": "3421435070"
+  },
+  {
+    "MapName": "zm_biochemical_hotel",
+    "WorkshopId": "3223106683"
+  },
+  {
+    "MapName": "zm_gorodok_cs2_v1",
+    "WorkshopId": "3100743780"
+  },
+  {
+    "MapName": "zm_hardzm",
+    "WorkshopId": "3273722705"
+  },
+  {
+    "MapName": "zm_mediumzm",
+    "WorkshopId": "3283778158"
+  },
+  {
+    "MapName": "zm_challenge_zm",
+    "WorkshopId": "3316874500"
+  },
+  {
+    "MapName": "zm_minecraftvillage",
+    "WorkshopId": "3078372624"
+  },
+  {
+    "MapName": "ze_rabanastre_royal",
+    "WorkshopId": "3425595150"
+  },
+  {
+    "MapName": "ze_genso_of_last_v3",
+    "WorkshopId": "3421130358"
+  },
+  {
+    "MapName": "ze_verdant",
+    "WorkshopId": "3422693128"
+  },
+  {
+    "MapName": "ze_emiya",
+    "WorkshopId": "3369548103"
+  },
+  {
+    "MapName": "ze_sorrento_escape_2016_p",
+    "WorkshopId": "3424789775"
+  },
+  {
+    "MapName": "ze_v0u0v_p",
+    "WorkshopId": "3416293909"
+  },
+  {
+    "MapName": "zm_shenghuajinzita",
+    "WorkshopId": "3375265592"
+  },
+  {
+    "MapName": "ze_apprehended",
+    "WorkshopId": "3386454337"
+  },
+  {
+    "MapName": "ze_honkai_impact_3rd_nagazoracity_z",
+    "WorkshopId": "3423221710"
+  },
+  {
+    "MapName": "zm_13haodiqu",
+    "WorkshopId": "3332089012"
+  },
+  {
+    "MapName": "ze_floating_rocks_survival",
+    "WorkshopId": "3422599395"
+  },
+  {
+    "MapName": "zm_bakapark",
+    "WorkshopId": "3221576305"
+  },
+  {
+    "MapName": "zm_dust2_rebuild_b1_p",
+    "WorkshopId": "3326291211"
+  },
+  {
+    "MapName": "zm_crazycity",
+    "WorkshopId": "3192909622"
+  },
+  {
+    "MapName": "zm_abyss1_v1",
+    "WorkshopId": "3371877417"
+  },
+  {
+    "MapName": "zm_dazzling_p",
+    "WorkshopId": "3270806256"
+  },
+  {
+    "MapName": "ze_alien_shooter",
+    "WorkshopId": "3410639236"
+  },
+  {
+    "MapName": "ze_kage_cs2",
+    "WorkshopId": "3126748848"
+  },
+  {
+    "MapName": "ze_lotr_minas_tiret_p",
+    "WorkshopId": "3418753441"
+  },
+  {
+    "MapName": "ze_flowering",
+    "WorkshopId": "3425902946"
+  },
+  {
+    "MapName": "zm_ice_cave_v1_p",
+    "WorkshopId": "3324914139"
+  },
+  {
+    "MapName": "ze_minecraft_dragon_castle",
+    "WorkshopId": "3427386217"
+  },
+  {
+    "MapName": "zm_battleforce_remake_v3_4a",
+    "WorkshopId": "3163617750"
+  },
+  {
+    "MapName": "zm_420_office_p",
+    "WorkshopId": "3164948364"
+  },
+  {
+    "MapName": "zm_yemushanzhuang",
+    "WorkshopId": "3343346303"
+  },
+  {
+    "MapName": "zm_carpediem_p",
+    "WorkshopId": "3333740726"
+  },
+  {
+    "MapName": "ze_surf_happy_2_newbie_village",
+    "WorkshopId": "3428262134"
+  },
+  {
+    "MapName": "ze_skyline",
+    "WorkshopId": "3429593650"
+  },
+  {
+    "MapName": "ze_blood_castle",
+    "WorkshopId": "3429597811"
+  },
+  {
+    "MapName": "zm_cubeworld_v3_p",
+    "WorkshopId": "3329031517"
+  },
+  {
+    "MapName": "zm_1nfern0_dawn_halloween_p",
+    "WorkshopId": "3265658249"
+  },
+  {
+    "MapName": "zm_abyss3_v2_p",
+    "WorkshopId": "3262125075"
+  },
+  {
+    "MapName": "ze_bh3rd_cyberpunk_z",
+    "WorkshopId": "3427624001"
+  },
+  {
+    "MapName": "ze_sandle_pdd",
+    "WorkshopId": "3412262982"
+  },
+  {
+    "MapName": "zm_abyss2_v2_2_p",
+    "WorkshopId": "3261657893"
   }
 ]
