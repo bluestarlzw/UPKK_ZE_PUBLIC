@@ -1760,10 +1760,6 @@
     "WorkshopId": "3405314470"
   },
   {
-    "MapName": "ze_santassination_for_god_players",
-    "WorkshopId": "3412262982"
-  },
-  {
     "MapName": "ze_sele",
     "WorkshopId": "3411145443"
   },
@@ -1950,5 +1946,101 @@
   {
     "MapName": "zm_abyss2_v2_2_p",
     "WorkshopId": "3261657893"
+  },
+  {
+    "MapName": "ze_miside",
+    "WorkshopId": "3432667287"
+  },
+  {
+    "MapName": "ze_surf_shonyudo_v1_cs2",
+    "WorkshopId": "3248498691"
+  },
+  {
+    "MapName": "ze_firstone_x",
+    "WorkshopId": "3425744076"
+  },
+  {
+    "MapName": "ze_sunkentemple",
+    "WorkshopId": "3418758157"
+  },
+  {
+    "MapName": "ze_neochrome",
+    "WorkshopId": "3433035996"
+  },
+  {
+    "MapName": "zm_vents_remake_m",
+    "WorkshopId": "3174849019"
+  },
+  {
+    "MapName": "zm_mirage",
+    "WorkshopId": "3347415049"
+  },
+  {
+    "MapName": "zm_inferno_v1_3_p",
+    "WorkshopId": "3339834870"
+  },
+  {
+    "MapName": "ze_empirecity_p",
+    "WorkshopId": "3420276708"
+  },
+  {
+    "MapName": "ze_ffxiv_pharos_sirius",
+    "WorkshopId": "3435645851"
+  },
+  {
+    "MapName": "ze_neko_canyon_p",
+    "WorkshopId": "3432325232"
+  },
+  {
+    "MapName": "ze_blood_castle_z",
+    "WorkshopId": "3434987752"
+  },
+  {
+    "MapName": "ze_melong_dow_learjet_p",
+    "WorkshopId": "3420245755"
+  },
+  {
+    "MapName": "ze_obj_ouroboros_ragnarok",
+    "WorkshopId": "3407901941"
+  },
+  {
+    "MapName": "zm_summer_house_night",
+    "WorkshopId": "3430766349"
+  },
+  {
+    "MapName": "zm_minecraft_chunk",
+    "WorkshopId": "3243458604"
+  },
+  {
+    "MapName": "ze_bh3rd_nagazoracity_z",
+    "WorkshopId": "3423221710"
+  },
+  {
+    "MapName": "zm_river_city",
+    "WorkshopId": "3334365154"
+  },
+  {
+    "MapName": "ze_abandoned_project_p",
+    "WorkshopId": "3418927662"
+  },
+  {
+    "MapName": "zm_purification",
+    "WorkshopId": "3336580992"
+  },
+  {
+    "MapName": "zm_zone13_p",
+    "WorkshopId": "3329186483"
+  },
+  {
+    "MapName": "ze_bh3rd_babel_z",
+    "WorkshopId": "3399954774"
+  },
+  {
+    "MapName": "ze_rush_a",
+    "WorkshopId": "3207572850"
+  },
+  {
+    "MapName": "zm_mutation_prison_v0_3_p",
+    "WorkshopId": "3277728636"
   }
 ]
