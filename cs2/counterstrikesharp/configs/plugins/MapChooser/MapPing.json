@@ -2042,5 +2042,77 @@
   {
     "MapName": "zm_mutation_prison_v0_3_p",
     "WorkshopId": "3277728636"
+  },
+  {
+    "MapName": "zm_vendetta_cs2",
+    "WorkshopId": "3189946391"
+  },
+  {
+    "MapName": "zm_minecraft_bkx_v2_p",
+    "WorkshopId": "3333679087"
+  },
+  {
+    "MapName": "ze_surf_outside",
+    "WorkshopId": "3439001340"
+  },
+  {
+    "MapName": "ze_skill_escape_cs2",
+    "WorkshopId": "3439492135"
+  },
+  {
+    "MapName": "ze_ocarina_of_time",
+    "WorkshopId": "3443889075"
+  },
+  {
+    "MapName": "ze_legend_of_astrum_z",
+    "WorkshopId": "3444378464"
+  },
+  {
+    "MapName": "zm_training_dust_v1_e_p",
+    "WorkshopId": "3268105919"
+  },
+  {
+    "MapName": "ze_stalker_ultimate_v23",
+    "WorkshopId": "3444132875"
+  },
+  {
+    "MapName": "ze_lemonysnickets_p",
+    "WorkshopId": "3440619332"
+  },
+  {
+    "MapName": "ze_ashen_keep_p",
+    "WorkshopId": "3445829396"
+  },
+  {
+    "MapName": "ze_collective_z",
+    "WorkshopId": "3446613986"
+  },
+  {
+    "MapName": "ze_outlast",
+    "WorkshopId": "3443559594"
+  },
+  {
+    "MapName": "ze_madness",
+    "WorkshopId": "3444189983"
+  },
+  {
+    "MapName": "zm_zed_school",
+    "WorkshopId": "3312849284"
+  },
+  {
+    "MapName": "zm_meltdown_v1_2_p",
+    "WorkshopId": "3324860120"
+  },
+  {
+    "MapName": "zm_wxc",
+    "WorkshopId": "3325100844"
+  },
+  {
+    "MapName": "zm_lostcities_classic_p",
+    "WorkshopId": "3336947614"
+  },
+  {
+    "MapName": "ze_barrage_p",
+    "WorkshopId": "3451195984"
   }
 ]
