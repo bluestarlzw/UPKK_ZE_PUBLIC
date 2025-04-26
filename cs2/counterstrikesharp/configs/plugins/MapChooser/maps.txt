@@ -403,6 +403,7 @@
 		"filename"		"ze_otakuroom_pt"
 		"updatedname"		"ze_otakuroom"
 		"search"		"御宅房"
+		"DisableServerInPerfectWorld" "1"
 	}
 	"ze_abandoned_industry_p"
 	{
@@ -674,7 +675,7 @@
 	"ze_oneiros_p"
 	{
 		"workshop_id"		"3111583269"
-		"enabled"		"1"
+		"enabled"		"0"
 		"filename"		"ze_oneiros_p"
 		"updatedname"		"ze_oneiros_p"
 		"OnlyNominate"		"1"
@@ -2648,6 +2649,7 @@
 		"search"		"狮子王"
 		"OnlyNominate"		"1"
 		"RestrictedTimes"	"00:00-08:00"
+		"DisableServerInPerfectWorld" "1"
 	}
 	"ze_rooftop_rogue_ws"
 	{
@@ -3735,6 +3737,7 @@
 		"filename"		"ze_sandle_pdd"
 		"updatedname"		"ze_sandle_pdd"
 		"OnlyNominate"		"1"
+		"DisableServerInPerfectWorld" "1"
 	}
 	"ze_LOTR_Minas_Tiret_p"
 	{
@@ -4018,12 +4021,12 @@
 		"updatedname"		"ze_ashen_keep_p"
 		"OnlyNominate"		"1"
 	}
-	"ze_collective_z"
+	"ze_prisonbreak_rescue"
 	{
-		"workshop_id"		"3446613986"
-		"enabled"		"0"
-		"filename"		"ze_collective_z"
-		"updatedname"		"ze_collective_z"
+		"workshop_id"		"3448333943"
+		"enabled"		"1"
+		"filename"		"ze_prisonbreak_rescue"
+		"updatedname"		"ze_prisonbreak_rescue"
 		"OnlyNominate"		"1"
 	}
 	"ze_barrage_p"
@@ -4033,6 +4036,14 @@
 		"filename"		"ze_barrage_p"
 		"updatedname"		"ze_barrage_p"
 	}
+	"ze_gris_re"
+	{
+		"workshop_id"		"3451216035"
+		"enabled"		"1"
+		"filename"		"ze_gris_re"
+		"updatedname"		"ze_gris_re"
+		"OnlyNominate"		"1"
+	}
 	"ze_ffxiv_wanderers_palace"
 	{
 		"workshop_id"		"3453060884"
@@ -4041,12 +4052,122 @@
 		"updatedname"		"ze_ffxiv_wanderers_palace"
 		"OnlyNominate"		"1"
 	}
-	"ze_gris_re"
+	"ze_titanic_escape_p"
 	{
-		"workshop_id"		"3451216035"
+		"workshop_id"		"3453518918"
 		"enabled"		"1"
-		"filename"		"ze_gris_re"
-		"updatedname"		"ze_gris_re"
+		"filename"		"ze_titanic_escape_p"
+		"updatedname"		"ze_titanic_escape_p"
+	}
+	"ze_temple_escape_p"
+	{
+		"workshop_id"		"3454138717"
+		"enabled"		"1"
+		"filename"		"ze_temple_escape_p"
+		"updatedname"		"ze_temple_escape_p"
 		"OnlyNominate"		"1"
+	}
+	"ze_2012_p"
+	{
+		"workshop_id"		"3455547830"
+		"enabled"		"1"
+		"filename"		"ze_2012_p"
+		"updatedname"		"ze_2012_p"
+	}
+	"ze_mountain_escape_p"
+	{
+		"workshop_id"		"3456054673"
+		"enabled"		"1"
+		"filename"		"ze_mountain_escape_p"
+		"updatedname"		"ze_mountain_escape_p"
+	}
+	"ze_Obf_Rampage_v24"
+	{
+		"workshop_id"		"3456114547"
+		"enabled"		"1"
+		"filename"		"ze_obf_rampage_v24"
+		"updatedname"		"ze_obf_rampage_v24"
+		"OnlyNominate"		"1"
+		"RestrictedTimes"	"00:00-08:00"
+	}
+	"ze_black_lion_p"
+	{
+		"workshop_id"		"3456691074"
+		"enabled"		"1"
+		"filename"		"ze_black_lion_p"
+		"updatedname"		"ze_black_lion_p"
+	}
+	"ze_best_korea"
+	{
+		"workshop_id"		"3446613986"
+		"enabled"		"1"
+		"filename"		"ze_best_korea"
+		"updatedname"		"ze_best_korea"
+		"OnlyNominate"		"1"
+		"DisableServerInPerfectWorld" "1"
+	}
+	"ze_thriller_escape_p"
+	{
+		"workshop_id"		"3457205872"
+		"enabled"		"1"
+		"filename"		"ze_thriller_escape_p"
+		"updatedname"		"ze_thriller_escape_p"
+	}
+	"ze_FFXIV_Wanderers_Palace_v6_2"
+	{
+		"workshop_id"		"3459109250"
+		"enabled"		"1"
+		"filename"		"ze_ffxiv_wanderers_v62"
+		"updatedname"		"ze_ffxiv_wanderers_palace_v6_2"
+		"OnlyNominate"		"1"
+	}
+	"ze_re_creation"
+	{
+		"workshop_id"		"3462082136"
+		"enabled"		"1"
+		"filename"		"ze_re_creation"
+		"updatedname"		"ze_re_creation"
+		"OnlyNominate"		"1"
+	}
+	"ze_deathinvain_palace"
+	{
+		"workshop_id"		"3461956041"
+		"enabled"		"1"
+		"filename"		"ze_deathinvain_palace"
+		"updatedname"		"ze_deathinvain_palace"
+		"OnlyNominate"		"1"
+	}
+	"ze_FFVII_Malgo_Reactor"
+	{
+		"workshop_id"		"3463705720"
+		"enabled"		"1"
+		"filename"		"ze_ffvii_malgo_reactor"
+		"updatedname"		"ze_ffvii_malgo_reactor"
+		"OnlyNominate"		"1"
+	}
+	"ze_surf_daybreak"
+	{
+		"workshop_id"		"3460219997"
+		"enabled"		"1"
+		"filename"		"ze_surf_daybreak"
+		"updatedname"		"ze_surf_daybreak"
+		"OnlyNominate"		"1"
+		"RestrictedTimes"	"00:00-08:00;19:00-23:59"
+	}
+	"ze_hypnotize_me_baby_p"
+	{
+		"workshop_id"		"3454959636"
+		"enabled"		"1"
+		"filename"		"ze_hypnotize_me_baby_p"
+		"updatedname"		"ze_hypnotize_me_baby_p"
+		"OnlyNominate"		"1"
+	}
+	"ze_Minecraft_Universe"
+	{
+		"workshop_id"		"3467141649"
+		"enabled"		"1"
+		"filename"		"ze_Minecraft_Universe"
+		"updatedname"		"ze_Minecraft_Universe"
+		"OnlyNominate"		"0"
 	}
 }

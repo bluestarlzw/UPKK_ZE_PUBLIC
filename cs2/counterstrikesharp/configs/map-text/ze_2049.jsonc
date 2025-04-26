@@ -1,32 +1,102 @@
 {
   "| 10 |": {
-    "translation": "| 10秒 |"
+    "translation": "| 10秒 |",
+    "MultiLang": {
+      "US": "| 10 |",
+      "JP": "| 10 |",
+      "CN": "| 10秒 |",
+      "KR": "| 10 |",
+      "TW": "| 10 |"
+    }
   },
   "| 15 |": {
-    "translation": "| 15秒 |"
+    "translation": "| 15秒 |",
+    "MultiLang": {
+      "US": "| 15 |",
+      "JP": "| 15 |",
+      "CN": "| 15秒 |",
+      "KR": "| 15 |",
+      "TW": "| 15 |"
+    }
   },
   "| 20 |": {
-    "translation": "| 20秒 |"
+    "translation": "| 20秒 |",
+    "MultiLang": {
+      "US": "| 20 |",
+      "JP": "| 20 |",
+      "CN": "| 20秒 |",
+      "KR": "| 20 |",
+      "TW": "| 二十 |"
+    }
   },
   "| 25 |": {
-    "translation": "| 25秒 |"
+    "translation": "| 25秒 |",
+    "MultiLang": {
+      "US": "| 25 |",
+      "JP": "| 25 |",
+      "CN": "| 25秒 |",
+      "KR": "| 25 |",
+      "TW": "| 二十五 |"
+    }
   },
   "| 30 |": {
-    "translation": "| 30秒 |"
+    "translation": "| 30秒 |",
+    "MultiLang": {
+      "US": "| 30 |",
+      "JP": "| 30 |",
+      "CN": "| 30秒 |",
+      "KR": "| 30 |",
+      "TW": "| 30 |"
+    }
   },
   "| 5 |": {
-    "translation": "| 5秒 |"
+    "translation": "| 5秒 |",
+    "MultiLang": {
+      "US": "| 5 |",
+      "JP": "| 5 |",
+      "CN": "| 5秒 |",
+      "KR": "| 5 |",
+      "TW": "| 5 |"
+    }
   },
   "| BEAM |": {
-    "translation": "| 激光 |"
+    "translation": "| 激光 |",
+    "MultiLang": {
+      "US": "| BEAM |",
+      "JP": "",
+      "CN": "| 激光 |",
+      "KR": "| 레이미 |",
+      "TW": "| 電beam |"
+    }
   },
   "| CONE |": {
-    "translation": "| 圆锥 |"
+    "translation": "| 圆锥 |",
+    "MultiLang": {
+      "US": "| CONE |",
+      "JP": "| コーナー |",
+      "CN": "| 圆锥 |",
+      "KR": "",
+      "TW": "| 圖鑑 |"
+    }
   },
   "| HEAL |": {
-    "translation": "| 奶 |"
+    "translation": "| 奶 |",
+    "MultiLang": {
+      "US": "| HEAL |",
+      "JP": "| ヘイル |",
+      "CN": "| 奶 |",
+      "KR": "|\"HEAL\"|",
+      "TW": "| 治癒 |"
+    }
   },
   "| SLOW BALL |": {
-    "translation": "| 减速球 |"
+    "translation": "| 减速球 |",
+    "MultiLang": {
+      "US": "| SLOW BALL |",
+      "JP": "| ダイナメティックボール |",
+      "CN": "| 减速球 |",
+      "KR": "| 느린 공 |",
+      "TW": "| 慢速球 |"
+    }
   }
 }

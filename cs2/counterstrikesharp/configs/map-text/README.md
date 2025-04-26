@@ -1,18 +1,31 @@
 # CS2-MapText
 ## 配置
 ``` 
-{   
-	"地图原始文本":{
-		"translation": "翻译文本不翻译请留空"
-	},
-	"[NORMAL MODE]":{
-		"translation": "**普通难度[NORMAL]**"
-	},
-	"** Defend untill the guards open the airport. **":{
-		"translation": "**坚守至守卫将机场开放**",
-		"Blocked": true
-	}
+{
+  "** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **",
+      "JP": "** メガウルトラテリビリネーター破壊モード **",
+      "CN": "** 超极毁灭模式 **",
+      "KR": "** 메가울트라테리빌리네이터 파괴 모드 **",
+      "TW": "** 超極毀滅模式 **"
+    }
+  },
+  "** Turning on:... **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Turning on:... **",
+      "JP": "** 起動中：... **",
+      "CN": "** 启动中：... **",
+      "KR": "** 작동 중:... **",
+      "TW": "** 啟動中：... **"
+    }
+  }
 }
+
+
+
 ```
 ## 可选参数
 | 关键词 | 默认值|说明                                                                       |
@@ -22,3 +35,5 @@
 | ClearTimer  | false |设置成true则在输出本文本时清空现有倒计时(可用于限时打死BOSS 打死BOSS后倒计时还在计时)  |
 ---
 
+## 说明
+translation 没有的情况下 默认会选择 原始文本 translation 已经不再需要它只是为了兼容旧的地图文本而存在 只需填充 MultiLang

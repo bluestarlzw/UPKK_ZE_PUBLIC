@@ -2114,5 +2114,93 @@
   {
     "MapName": "ze_barrage_p",
     "WorkshopId": "3451195984"
+  },
+  {
+    "MapName": "ze_ffxiv_wanderers_palace",
+    "WorkshopId": "3453060884"
+  },
+  {
+    "MapName": "ze_best_korea",
+    "WorkshopId": "3446613986"
+  },
+  {
+    "MapName": "ze_obf_rampage_v24",
+    "WorkshopId": "3456114547"
+  },
+  {
+    "MapName": "ze_black_lion_p",
+    "WorkshopId": "3456691074"
+  },
+  {
+    "MapName": "zm_return_to_berlin_b3_p",
+    "WorkshopId": "3269596425"
+  },
+  {
+    "MapName": "zm_random_crouch",
+    "WorkshopId": "3361422502"
+  },
+  {
+    "MapName": "ze_2012_p",
+    "WorkshopId": "3455547830"
+  },
+  {
+    "MapName": "ze_titanic_escape_p",
+    "WorkshopId": "3453518918"
+  },
+  {
+    "MapName": "ze_thriller_escape_p",
+    "WorkshopId": "3457205872"
+  },
+  {
+    "MapName": "ze_temple_escape_p",
+    "WorkshopId": "3454138717"
+  },
+  {
+    "MapName": "ze_mountain_escape_p",
+    "WorkshopId": "3456054673"
+  },
+  {
+    "MapName": "ze_ffxiv_wanderers_palace_v6_2",
+    "WorkshopId": "3459109250"
+  },
+  {
+    "MapName": "ze_surf_daybreak",
+    "WorkshopId": "3460219997"
+  },
+  {
+    "MapName": "ze_anzalone_bridge_rewind",
+    "WorkshopId": "3113561170"
+  },
+  {
+    "MapName": "ze_hypnotize_me_baby_p",
+    "WorkshopId": "3454959636"
+  },
+  {
+    "MapName": "ze_re_creation",
+    "WorkshopId": "3462082136"
+  },
+  {
+    "MapName": "ze_prisonbreak_rescue",
+    "WorkshopId": "3448333943"
+  },
+  {
+    "MapName": "ze_ffvii_malgo_reactor",
+    "WorkshopId": "3463705720"
+  },
+  {
+    "MapName": "zm_office_glass_lb_v1_p",
+    "WorkshopId": "3327784914"
+  },
+  {
+    "MapName": "zm_ratatouille",
+    "WorkshopId": "3265053469"
+  },
+  {
+    "MapName": "ze_minecraft_universe",
+    "WorkshopId": "3467141649"
+  },
+  {
+    "MapName": "ze_deathinvain_palace",
+    "WorkshopId": "3461956041"
   }
 ]
