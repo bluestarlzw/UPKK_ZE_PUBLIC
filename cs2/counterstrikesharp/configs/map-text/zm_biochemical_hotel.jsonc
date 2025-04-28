@@ -2,20 +2,20 @@
   "** 终极时刻20秒后到来 **": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "** Ultimate Moment arriving in 20 seconds **",
+      "JP": "** 终极时刻20秒後に到来 **",
       "CN": "",
-      "KR": "",
+      "KR": "** 최종 순간 20초 후에 도래 **",
       "TW": ""
     }
   },
   "** 终极时刻15秒后到来 **": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "*** The Ultimate Moment arrives in 15 seconds ***",
       "JP": "",
       "CN": "",
-      "KR": "",
+      "KR": "** 최후의 기회 15초 후에 도래 **",
       "TW": ""
     }
   }

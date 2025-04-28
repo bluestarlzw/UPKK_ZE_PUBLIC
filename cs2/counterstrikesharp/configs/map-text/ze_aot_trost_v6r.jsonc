@@ -2,11 +2,11 @@
   "调查兵团战败": {
     "translation": "调查兵团战败",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Investment Corps Defeated",
+      "JP": "調査兵団敗北",
       "CN": "调查兵团战败",
-      "KR": "",
-      "TW": ""
+      "KR": "수사부대 패배",
+      "TW": "調查戰隊戰敗"
     }
   }
 }

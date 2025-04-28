@@ -5,7 +5,7 @@
       "US": "",
       "JP": "",
       "CN": "*** 干得好 ***",
-      "KR": "",
+      "KR": "*** 잘했어요 ***",
       "TW": ""
     }
   },
@@ -13,19 +13,19 @@
     "translation": "*** 僵尸将在15秒后传送 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ゾンビTP15秒後に進む***",
       "CN": "*** 僵尸将在15秒后传送 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 좀비 TP 진격 중 15초 후 ***",
+      "TW": "***殭屍TP進攻倒數15秒***"
     }
   },
   "***1 REMAINING***": {
     "translation": "*** 剩余 1 个 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***1 余っている***",
       "CN": "*** 剩余 1 个 ***",
-      "KR": "",
+      "KR": "***1 남아있는***",
       "TW": ""
     }
   },
@@ -35,7 +35,7 @@
       "US": "",
       "JP": "",
       "CN": "*** 20 秒后传送 ***",
-      "KR": "",
+      "KR": "***20초_TELEPORT***",
       "TW": ""
     }
   },
@@ -45,8 +45,8 @@
       "US": "",
       "JP": "",
       "CN": "*** 5 秒后传送 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "***5초간 이동 가능***",
+      "TW": "5 秒鐘 TELEPORT"
     }
   },
   "***5 SECONDS***": {
@@ -55,7 +55,7 @@
       "US": "",
       "JP": "",
       "CN": "*** 5 秒 ***",
-      "KR": "",
+      "KR": "***5 초***",
       "TW": ""
     }
   },
@@ -63,19 +63,19 @@
     "translation": "*** 摧毁发电机 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***POWER GENERATORS を破壊する***",
       "CN": "*** 摧毁发电机 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "***전력 발생기 파괴하기***",
+      "TW": "***摧毁電力發電機***"
     }
   },
   "***Escape through the tunnel!!***": {
     "translation": "*** 通过隧道逃生！！ ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***トンネルから脱出!!***",
       "CN": "*** 通过隧道逃生！！ ***",
-      "KR": "",
+      "KR": "***터널을 통해 탈출!!***",
       "TW": ""
     }
   },
@@ -85,7 +85,7 @@
       "US": "",
       "JP": "",
       "CN": "*** 抵抗 20 秒 ***",
-      "KR": "",
+      "KR": "***항기전 20초***",
       "TW": ""
     }
   },
@@ -105,7 +105,7 @@
       "US": "",
       "JP": "",
       "CN": "*** 快跑 ***",
-      "KR": "",
+      "KR": "***런***",
       "TW": ""
     }
   },
@@ -113,9 +113,9 @@
     "translation": "*** 僵尸将在 5 秒内被传送 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ゾンビは5秒後にテレポートされます***",
       "CN": "*** 僵尸将在 5 秒内被传送 ***",
-      "KR": "",
+      "KR": "***좀비들이 5초 후에 텔레포트될 거예요***",
       "TW": ""
     }
   },
@@ -123,90 +123,90 @@
     "translation": "10 秒后围栏就会被打破",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "10秒までで柵崩れる",
       "CN": "10 秒后围栏就会被打破",
-      "KR": "",
-      "TW": ""
+      "KR": "10초 후补贴篱笆破壞",
+      "TW": "10秒後圍欄 BREAK"
     }
   },
   "Contact me at obscuri@obsmail.tk": {
     "translation": "联系作者：obscuri@obsmail.tk",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "CONTACT ME AT obscuri@obsmail.tk",
       "CN": "联系作者：obscuri@obsmail.tk",
-      "KR": "",
-      "TW": ""
+      "KR": "연락처 : obscuri@obsmail.tk",
+      "TW": "聯繫我於obscuri@obsmail.tk"
     }
   },
   "DEFEND THESE CRATES, FINAL HOLD": {
     "translation": "保卫这些板条箱，最后守住",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "これらのボックスを守れ，最終防衛",
       "CN": "保卫这些板条箱，最后守住",
-      "KR": "",
-      "TW": ""
+      "KR": "이 Crate을 지켜라, 마지막 방어",
+      "TW": "保護這些箱子，最後防守"
     }
   },
   "Explosion of the nuclear plant imminent !": {
     "translation": "核电站即将爆炸！",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Nuclear plant explosion imminent!",
+      "JP": "原子力発電所が爆発の危機に瀕している！",
       "CN": "核电站即将爆炸！",
-      "KR": "",
-      "TW": ""
+      "KR": "핵발전소 폭발 임박 !!",
+      "TW": "核電廠即將爆炸！"
     }
   },
   "Please wait 20 seconds before the door opening": {
     "translation": "请等待 20 秒，门才会打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "扉が開く前に20秒待ってください",
       "CN": "请等待 20 秒，门才会打开",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 열릴przed 20초간 기다려 주세요",
+      "TW": "請等待20秒再開門"
     }
   },
   "Second way open !": {
     "translation": "第二种方式打开！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "第二方式开启！",
       "CN": "第二种方式打开！",
-      "KR": "",
-      "TW": ""
+      "KR": "두 번째 방법 열렸습니다!",
+      "TW": "第2Way開放！"
     }
   },
   "Special thanks to centran and LeGrem": {
     "translation": "特别感谢 centran 和 LeGrem",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "特別感谢centran和LeGrem",
       "CN": "特别感谢 centran 和 LeGrem",
-      "KR": "",
-      "TW": ""
+      "KR": "특별 감사의 인사를 전해 Centran와 LeGrem에게",
+      "TW": "特別感謝centran和LeGrem"
     }
   },
   "Warning! Overloading of reactor.": {
     "translation": "警告！反应堆超载。",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Warning! Reactor overloading.",
+      "JP": "警告！反応堆過載。",
       "CN": "警告！反应堆超载。",
-      "KR": "",
-      "TW": ""
+      "KR": "경고! 반응堆超载。",
+      "TW": "警告！反應堆過載。"
     }
   },
   "Welcome ! Map made by Valve and zombified by Obscuri": {
     "translation": "欢迎！地图由 Valve 制作并由 Obscuri 修改 翻译：Ayanami♪",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "歡迎！マップはValveによって作成され、Obscuriによってゾンビ化されています。",
       "CN": "欢迎！地图由 Valve 制作并由 Obscuri 修改 翻译：Ayanami♪",
-      "KR": "",
-      "TW": ""
+      "KR": "환영 !*** 맵은 Valve가 만들고 Obscuri가 좀비화시켰습니다.",
+      "TW": "歡迎！地圖由Valve製作並由Obscuri改造成 Zombies 地圖"
     }
   }
 }

@@ -3,9 +3,9 @@
     "translation": "- 爆发 -",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "発動 -",
       "CN": "- 爆发 -",
-      "KR": "",
+      "KR": "- 폭발 -",
       "TW": ""
     }
   },
@@ -13,19 +13,19 @@
     "translation": "- 分裂 -",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "- 分割 -",
       "CN": "- 分裂 -",
-      "KR": "",
-      "TW": ""
+      "KR": "- 분할 -",
+      "TW": "- 分割 -"
     }
   },
   "- Impact -": {
     "translation": "- 冲击 -",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "- ダメージ -",
       "CN": "- 冲击 -",
-      "KR": "",
+      "KR": "-_impact-_",
       "TW": ""
     }
   },
@@ -33,40 +33,40 @@
     "translation": "- 入侵 -",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "侵入 -",
       "CN": "- 入侵 -",
       "KR": "",
-      "TW": ""
+      "TW": "入侵 -"
     }
   },
   "- Merge -": {
     "translation": "- 合并 -",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "合体 -",
       "CN": "- 合并 -",
-      "KR": "",
-      "TW": ""
+      "KR": "- 합치기 -",
+      "TW": "合併 -"
     }
   },
   "- Preview -": {
     "translation": "- 预览 -",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "- 預告 -",
       "CN": "- 预览 -",
-      "KR": "",
-      "TW": ""
+      "KR": "- 预览 -",
+      "TW": "- 預覽 -"
     }
   },
   "20 seconds": {
     "translation": "20 秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "20秒",
       "CN": "20 秒",
-      "KR": "",
-      "TW": ""
+      "KR": "20 초",
+      "TW": "20秒"
     }
   },
   "25 sceonds": {
@@ -83,10 +83,10 @@
     "translation": "25 秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "25秒",
       "CN": "25 秒",
-      "KR": "",
-      "TW": ""
+      "KR": "25 초",
+      "TW": "25 秒"
     }
   },
   "30 sceonds": {
@@ -96,67 +96,67 @@
       "JP": "",
       "CN": "30 秒",
       "KR": "",
-      "TW": ""
+      "TW": "30秒"
     }
   },
   "30 seconds": {
     "translation": "30 秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "30秒",
       "CN": "30 秒",
-      "KR": "",
-      "TW": ""
+      "KR": "30 초",
+      "TW": "30 秒鐘"
     }
   },
   "40 seconds": {
     "translation": "40 秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "40秒",
       "CN": "40 秒",
-      "KR": "",
-      "TW": ""
+      "KR": "40 초",
+      "TW": "40 秒"
     }
   },
   "5 seconds": {
     "translation": "5 秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "5秒",
       "CN": "5 秒",
-      "KR": "",
-      "TW": ""
+      "KR": "5 초",
+      "TW": "5 秒鐘"
     }
   },
   "> Get to the top <": {
     "translation": "> 到达顶部 <",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "＞最上部まで行こう<",
       "CN": "> 到达顶部 <",
-      "KR": "",
-      "TW": ""
+      "KR": ">顶端으로 가세요<",
+      "TW": "> 到達頂端<"
     }
   },
   "> Keep going down <": {
     "translation": "> 继续向下 <",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "＞下に進む<<",
       "CN": "> 继续向下 <",
-      "KR": "",
-      "TW": ""
+      "KR": "계속 아래로 내려가세요 >",
+      "TW": "继续往下走"
     }
   },
   "> Left <": {
     "translation": "> 左 <",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> 左侧 <<-",
       "CN": "> 左 <",
-      "KR": "",
-      "TW": ""
+      "KR": "> 왼쪽 <",
+      "TW": "> 左边 <"
     }
   },
   "> Middle <": {
@@ -165,58 +165,58 @@
       "US": "",
       "JP": "",
       "CN": "> 中 <",
-      "KR": "",
-      "TW": ""
+      "KR": "> 중간 <",
+      "TW": "> 中間 <"
     }
   },
   "> Right <": {
     "translation": "> 右 <",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "> 右 <>",
       "CN": "> 右 <",
-      "KR": "",
-      "TW": ""
+      "KR": "> 오른쪽 <",
+      "TW": "> 右"
     }
   },
   ">How about helping me escape?<": {
     "translation": "> 帮我逃出去怎么样？<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>助けてくれないか？<",
       "CN": "> 帮我逃出去怎么样？<",
-      "KR": "",
-      "TW": ""
+      "KR": "> HELP ME ESCAPE?<",
+      "TW": ">幫我逃出去如何？<"
     }
   },
   ">I've been trapped in this place for a long time<": {
     "translation": "> 我被困在这个地方很久了<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">私はこの場所に長時間 confinement されてきた<",
       "CN": "> 我被困在这个地方很久了<",
-      "KR": "",
-      "TW": ""
+      "KR": "이곳에서 오랫동안 갇혀 있었어",
+      "TW": "我已被困在此地很久了>"
     }
   },
   ">Now you finally found me<": {
     "translation": "> 现在你终于找到我了<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>今あなたは最後に私を発見したよ<",
       "CN": "> 现在你终于找到我了<",
-      "KR": "",
-      "TW": ""
+      "KR": ">你现在终于找到我了<",
+      "TW": ">>現在你終於找到我<<"
     }
   },
   "It ended?": {
     "translation": "结束了吗？",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "終了吗？",
       "CN": "结束了吗？",
-      "KR": "",
-      "TW": ""
+      "KR": "이미 끝났나?",
+      "TW": "結束了？"
     }
   },
   "Maybe I should follow her": {
@@ -225,7 +225,7 @@
       "US": "",
       "JP": "",
       "CN": "也许我应该跟着它",
-      "KR": "",
+      "KR": "возможно, я должен следовать за ней",
       "TW": ""
     }
   },
@@ -233,10 +233,10 @@
     "translation": "这是我的第一张地图，感谢游玩",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "このマップが初回です、プレイしていただき感謝します",
       "CN": "这是我的第一张地图，感谢游玩",
-      "KR": "",
-      "TW": ""
+      "KR": "이MAP是我的第一次,谢谢参与>> <<",
+      "TW": "這是我第1張地圖，感謝-playing"
     }
   },
   "ZMtp enabled ": {
@@ -245,8 +245,8 @@
       "US": "",
       "JP": "",
       "CN": "僵尸传送点已启用",
-      "KR": "",
-      "TW": ""
+      "KR": "ZMtp 활성화",
+      "TW": "ZMtp启用"
     }
   },
   "[...SACRIFICE...]": {
@@ -255,8 +255,8 @@
       "US": "",
       "JP": "",
       "CN": "[...牺牲...]",
-      "KR": "",
-      "TW": ""
+      "KR": "[... sacrfice...]",
+      "TW": "[... Sacrifice...]"
     }
   },
   "[ESCAPED]": {
@@ -266,17 +266,17 @@
       "JP": "",
       "CN": "[逃脱]",
       "KR": "",
-      "TW": ""
+      "TW": "[逃脫]"
     }
   },
   "something changed...": {
     "translation": "有些东西变了...",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "何か変化が起こった...",
       "CN": "有些东西变了...",
       "KR": "",
-      "TW": ""
+      "TW": "有些事情改變了..."
     }
   }
 }

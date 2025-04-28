@@ -3,19 +3,19 @@
     "translation": "!!!阻挡僵尸的墙壁将在8秒后爆炸！！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "!!! ズミブロックが8秒後に爆発します !!!",
       "CN": "!!!阻挡僵尸的墙壁将在8秒后爆炸！！！",
-      "KR": "",
-      "TW": ""
+      "KR": "!!! 장벽이 블라이즈를 억지할 시간은 8초 남았습니다!!!",
+      "TW": "!!! 僵屍阻挡牆将在8秒後爆破 !!!"
     }
   },
   "!!! ZOMBIES CAN NOW JUMP TO THE BOSS PLATFORM !!!": {
     "translation": "!!!僵尸现在可以跳到BOSS平台上！！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "\" to match common Japanese punctuation for emphasis.)",
       "CN": "!!!僵尸现在可以跳到BOSS平台上！！！",
-      "KR": "",
+      "KR": "!!! Zombie 가 이제 보스 플랫폼으로ジャン跳现在可以跳跃了!!!",
       "TW": ""
     }
   },
@@ -23,40 +23,40 @@
     "translation": "!!!僵尸将在5秒后传送！！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "!!! ゾンビが5秒後にテレポートします !!!",
       "CN": "!!!僵尸将在5秒后传送！！！",
-      "KR": "",
-      "TW": ""
+      "KR": "!!!!! Zombies teleport in 5 seconds !!!!!",
+      "TW": "!!! Zombies Teleport In 5 Seconds !!!"
     }
   },
   "!!! ZOMBIES TELEPORT IN 8 SECONDS !!!": {
     "translation": "!!!僵尸将在8秒后传送！！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "!!!ゾンビがテレポートするまで8秒!!!",
       "CN": "!!!僵尸将在8秒后传送！！！",
-      "KR": "",
-      "TW": ""
+      "KR": "!!! Zombies Teleport In 8 Seconds !!!",
+      "TW": "!!!丧屍瞬移出現倒數8秒!!!"
     }
   },
   "!!! ZOMBIES TELEPORT INSIDE IN 5 SECONDS !!!": {
     "translation": "!!!僵尸将在5秒后传送到内部！！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "!!! ズムズが5秒後にテレポートします !!!",
       "CN": "!!!僵尸将在5秒后传送到内部！！！",
-      "KR": "",
-      "TW": ""
+      "KR": "!!! Zombies teleport inside in 5 seconds !!!",
+      "TW": "!!! Zombie 噴射入內 IN 5 SECONDS !!!"
     }
   },
   ">>> BOAT LEAVES IN 25 SECONDS <<<": {
     "translation": ">>>船将在25秒内离开<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> 船在25秒后离开 <<<",
       "CN": ">>>船将在25秒内离开<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 배가 25 초 후에 출발합니다 <<<",
+      "TW": ">>> 船将在25秒后离开 <<<"
     }
   },
   ">>> CRATES BREAK IN 15 SECONDS <<<": {
@@ -73,70 +73,70 @@
     "translation": ">>>箱子将在20秒后爆炸<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> クレーンが20秒後に爆発します <<<",
       "CN": ">>>箱子将在20秒后爆炸<<<",
       "KR": "",
-      "TW": ""
+      "TW": ">>> 箱子在20秒後爆炸 <<<"
     }
   },
   ">>> DOORS OPEN IN 5 SECONDS <<<": {
     "translation": ">>>门将在5秒后打开<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> ドアが5秒後に開きます <<<",
       "CN": ">>>门将在5秒后打开<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 문이 5초 후에 열립니다 <<<",
+      "TW": ">>> 門raits 打開於 5 秒後 <<<"
     }
   },
   ">>> GATE OPENS IN 20 SECONDS <<<": {
     "translation": ">>>大门将在20秒后打开<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> ドアが開くまで20秒 <<<",
       "CN": ">>>大门将在20秒后打开<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 문이 20초 후에 열립니다 <<<",
+      "TW": ">>> 門在20秒後打開 <<<"
     }
   },
   ">>> SHEET BLOWS UP IN 15 SECONDS <<<": {
     "translation": ">>>床单将在15秒后爆炸<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> ペーパーが15秒後に爆発します <<<",
       "CN": ">>>床单将在15秒后爆炸<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 시트 15초 후 폭발 <<<",
+      "TW": ">>> 胶卷在15秒後爆炸 <<<"
     }
   },
   ">>> THE DOOR OPENS IN 20 SECONDS <<<": {
     "translation": ">>>门将在20秒后打开<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> ドアが開くまで20秒 <<<",
       "CN": ">>>门将在20秒后打开<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 문이 20초 후에 열립니다 <<<",
+      "TW": ">>> 门在20秒後開啟 <<<"
     }
   },
   "DOOR CLOSES IN 15 SECONDS": {
     "translation": "门将在15秒后关闭",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアが15秒後に閉鎖されます",
       "CN": "门将在15秒后关闭",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 15초 후에 닫힙니다",
+      "TW": "門在15秒後關閉"
     }
   },
   "ELEVATOR LEAVES IN 10 SECONDS": {
     "translation": "电梯将在10秒后离开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "エレベーターは10秒後に departします",
       "CN": "电梯将在10秒后离开",
-      "KR": "",
-      "TW": ""
+      "KR": "승강기 10초 후 출발",
+      "TW": "電梯10秒後离开"
     }
   },
   "GET OUT OF HERE, STALKER": {
@@ -165,7 +165,7 @@
       "US": "",
       "JP": "",
       "CN": "地图作者：MIDRAN KIDRAN 翻译：Asteri3m",
-      "KR": "",
+      "KR": "맵_by_Midran_Kidran",
       "TW": ""
     }
   },
@@ -183,30 +183,30 @@
     "translation": "BOSS5秒后可以受到伤害",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "BOSSは5秒後にダメージを受けられます",
       "CN": "BOSS5秒后可以受到伤害",
-      "KR": "",
-      "TW": ""
+      "KR": "BOSS는 5초 후에 피해를 받을 수 있습니다 >>",
+      "TW": "BOSS將於5秒後可受到傷害"
     }
   },
   ">>> DOORS OPEN IN 8 SECONDS <<<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">>> ドアが開くのは8秒後 <<<",
+      "CN": ">>> 门将在8秒后开启 <<<",
+      "KR": ">>> 문이 8초 후에 열립니다 <<<",
+      "TW": ">>> 門在8秒後打開 <<<"
     }
   },
   ">>> GATE OPENS in 10 SECONDS <<<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">>> ゴート开店10セカンド <<<",
+      "CN": ">>> 门将在10秒后打开 <<<",
+      "KR": ">>> 문이 열립니다. 10 초 후 <<<",
+      "TW": ">>> 大門開啟倒數中 10 秒<<<"
     }
   },
   ">>> SHEET BLOWS UP IN 7 SECONDS <<<": {
@@ -214,9 +214,9 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": ">>> 薄片在7秒后爆炸 <<<",
+      "KR": ">>> 시트가 7초 후 폭발 <<<",
+      "TW": ">>> 胖墩爆掉還剩 7 秒 <<<"
     }
   },
   ">>> CRATES EXPLODE IN 25 SECONDS <<<": {
@@ -224,19 +224,19 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
+      "CN": ">>> 箱子将在25秒后爆炸 <<<",
       "KR": "",
-      "TW": ""
+      "TW": ">>> 箱子在25秒後爆炸 <<<"
     }
   },
   "!!! WATCH OUT, IT'S GOING TO BLOW !!!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "!!! 注意！要爆炸了！！!",
+      "CN": "!!! 注意了，要爆炸了 !!!",
+      "KR": "!!! 주의!, 폭발할 것 같아!!!",
+      "TW": "!!! 注意了，要爆炸了 !!!"
     }
   }
 }

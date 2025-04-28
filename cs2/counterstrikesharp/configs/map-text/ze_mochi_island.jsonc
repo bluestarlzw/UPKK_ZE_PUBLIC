@@ -3,10 +3,10 @@
     "translation": ":::管理员房间：第一关 翻译：Asteri3m:::",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "::: 管理室 Lv_1 :::",
       "CN": ":::管理员房间：第一关 翻译：Asteri3m:::",
-      "KR": "",
-      "TW": ""
+      "KR": "::: 관리자 방 Lv_1 :::",
+      "TW": "::: 管理室 Lv_1 :::"
     }
   },
   "::: Admin Room Lv_2 :::": {
@@ -15,17 +15,17 @@
       "US": "",
       "JP": "",
       "CN": ":::管理员房间：第二关 翻译：Asteri3m:::",
-      "KR": "",
-      "TW": ""
+      "KR": "::: 관리자 방 Lv_2 :::",
+      "TW": "::: 管理室 Lv_2 :::"
     }
   },
   "::: Admin Room WarmupRound :::": {
     "translation": ":::管理员房间：热身回合 翻译：Asteri3m:::",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "::: 管理室 ワarmupRound :::",
       "CN": ":::管理员房间：热身回合 翻译：Asteri3m:::",
-      "KR": "",
+      "KR": "::: 관리자실 워밍업라운드 :::",
       "TW": ""
     }
   },
@@ -33,119 +33,119 @@
     "translation": "门将在15秒后关闭，保持防守！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアが15秒後に閉鎖されます。保持住！",
       "CN": "门将在15秒后关闭，保持防守！",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 15초 후에 닫힙니다. 잡继续保持!",
+      "TW": "門在15秒後關閉。請繼續按-held!"
     }
   },
   "DOOR CLOSES IN 5 SECONDS .": {
     "translation": "门将在5秒后关闭",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアが5秒後に閉まります。",
       "CN": "门将在5秒后关闭",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 5 초 후에 닫힙니다.",
+      "TW": "門在5秒後關閉。"
     }
   },
   "DOOR CLOSES IN 5 SECONDS . KEEP HOLDING !!": {
     "translation": "门将在5秒后关闭，保持防守！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアが5秒後に閉じます。持続させ続けて！！",
       "CN": "门将在5秒后关闭，保持防守！！",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 5초 후에 닫힙니다. 놓치지 마세요!!",
+      "TW": "Door closes in 5 seconds. Keep holding!!"
     }
   },
   "DOOR OPENS IN 10 SECONDS .": {
     "translation": "门将在10秒后开启",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアが10秒後に開きます。",
       "CN": "门将在10秒后开启",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 10초 후에 열립니다.",
+      "TW": "門在10秒後打開。"
     }
   },
   "DOOR OPENS IN 5 SECONDS .": {
     "translation": "门将在5秒后开启",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアが5秒後に開きます。",
       "CN": "门将在5秒后开启",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 5초 후에 열립니다.",
+      "TW": "Door opens in 5 seconds ."
     }
   },
   "DOOR OPENS IN 7 SECONDS .": {
     "translation": "门将在7秒后开启",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアが7秒後開きます。",
       "CN": "门将在7秒后开启",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 7초 후에 열립니다.",
+      "TW": "門開啟於7秒後。"
     }
   },
   "Door opens in 12 seconds .": {
     "translation": "门将在12秒后开启",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアが開くまで12秒 。",
       "CN": "门将在12秒后开启",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 12초 후에 열립니다.",
+      "TW": "門在12秒後打開。"
     }
   },
   "Door opens in 15 seconds .": {
     "translation": "门将在15秒后开启",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアが15秒後に開きます。",
       "CN": "门将在15秒后开启",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 15초 후에 열립니다.",
+      "TW": "門将在15秒後開啟。"
     }
   },
   "Door opens in 25 seconds .": {
     "translation": "门将在25秒后开启",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアが開くまで25秒。",
       "CN": "门将在25秒后开启",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 25 초 후에 열립니다.",
+      "TW": "門開啟於25秒後。"
     }
   },
   "GATE WILL BE AVAILABLE IN 5 SECONDS KEEP HOLDING !": {
     "translation": "大门将在5秒后开启，保持防守！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Gate will be available in 5 seconds keep holding!",
       "CN": "大门将在5秒后开启，保持防守！",
-      "KR": "",
-      "TW": ""
+      "KR": "문은 5초 후 열립니다!继续保持！",
+      "TW": "門将在5秒後開啟 請繼續按持！"
     }
   },
   "Gate will be available in 20 seconds keep holding !": {
     "translation": "大门将在20秒后开启，保持防守！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゲートは20秒後に開きます！ HOLD ON !",
       "CN": "大门将在20秒后开启，保持防守！",
-      "KR": "",
-      "TW": ""
+      "KR": "_gate를 20초 후에 사용하려면继续保持！_",
+      "TW": "閘門將在20秒後開啟 請繼續按 HOLD !"
     }
   },
   "PATH WILL BE OPEN IN 12 SECONDS .": {
     "translation": "路将在12秒后开启",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "パスは12秒後に開きます。",
       "CN": "路将在12秒后开启",
-      "KR": "",
+      "KR": "경로가 열리는 시간은 12초 후입니다.",
       "TW": ""
     }
   },
@@ -153,9 +153,9 @@
     "translation": "路将在5秒后开启",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "パスは5秒後に開きます。",
       "CN": "路将在5秒后开启",
-      "KR": "",
+      "KR": "경로가 5초 후에 열립니다.",
       "TW": ""
     }
   },
@@ -165,7 +165,7 @@
       "US": "",
       "JP": "",
       "CN": "路将在7秒后开启",
-      "KR": "",
+      "KR": "경로가 7초 후에 열립니다.",
       "TW": ""
     }
   },
@@ -173,29 +173,29 @@
     "translation": "路将在15秒后开启",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "パスは15秒後 openings",
       "CN": "路将在15秒后开启",
-      "KR": "",
-      "TW": ""
+      "KR": "경로가 15초 후에 열립니다.",
+      "TW": "路径将在15秒后開放。"
     }
   },
   "Path will be open in 20 seconds .": {
     "translation": "路将在20秒后开启",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "パスは20秒後に開きます。",
       "CN": "路将在20秒后开启",
-      "KR": "",
-      "TW": ""
+      "KR": "길이 열리기 20초 후입니다.",
+      "TW": "通路将在20秒後開啟。"
     }
   },
   "Path will be open in 25 seconds .": {
     "translation": "路将在25秒后开启",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "パスは25秒後に開く。",
       "CN": "路将在25秒后开启",
-      "KR": "",
+      "KR": "경로가 열리는 시간은 25초 남음.",
       "TW": ""
     }
   },
@@ -203,40 +203,40 @@
     "translation": "桥将在10秒后破裂",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ブリッジは10秒後で崩れる。",
       "CN": "桥将在10秒后破裂",
-      "KR": "",
-      "TW": ""
+      "KR": "다리를 이루는 것이 10 초 후에 깨집니다.",
+      "TW": "橋在10秒後崩塌。"
     }
   },
   "There are 10 seconds left until the wagon departs.": {
     "translation": "距离货车出发还有10秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "車いんずが発車するまでに残り10秒です。",
       "CN": "距离货车出发还有10秒",
-      "KR": "",
-      "TW": ""
+      "KR": "우편차가 출발하기까지 10 초 남음.",
+      "TW": "wagon 驚 departure 前還剩 10 秒。"
     }
   },
   "We'll be leaving in 7 seconds.": {
     "translation": "我们将在7秒后离开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "7秒後に離席します。",
       "CN": "我们将在7秒后离开",
-      "KR": "",
-      "TW": ""
+      "KR": "7초 후에 떠나게 될 것이다.",
+      "TW": "我們將在7秒後離開。"
     }
   },
   "admun slay please :3": {
     "translation": "管理员，请重开:3",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ADMUN Slayer please :3",
       "CN": "管理员，请重开:3",
-      "KR": "",
-      "TW": ""
+      "KR": "암ünün Slayer pleas :3",
+      "TW": "admun sla 请 :3"
     }
   }
 }

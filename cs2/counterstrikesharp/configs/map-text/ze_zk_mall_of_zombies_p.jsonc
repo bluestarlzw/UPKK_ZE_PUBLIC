@@ -35,7 +35,7 @@
       "US": "",
       "JP": "",
       "CN": "*** 轰 ***",
-      "KR": "",
+      "KR": "***Boom***",
       "TW": ""
     }
   },
@@ -43,30 +43,30 @@
     "translation": "*** 电梯门将在15秒内关闭 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***エレベーターの扉が15秒後に閉まります***",
       "CN": "*** 电梯门将在15秒内关闭 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 엘리베이터 문이 15초 후에 닫힙니다 ***",
+      "TW": "***電梯門在15秒後關閉***"
     }
   },
   "*** Elevator doors opens in 30 sec ***": {
     "translation": "*** 电梯门将在30秒内打开 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***エレベーターの Doors open 30 sec ***",
       "CN": "*** 电梯门将在30秒内打开 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 엘리베이터 문이 30sec 후에 열립니다 ***",
+      "TW": "***電梯門在30秒後開啟***"
     }
   },
   "*** Elevator is activated ***": {
     "translation": "*** 电梯已激活 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***エレベーターが動きます***",
       "CN": "*** 电梯已激活 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 엘리베이터가 작동開始翻译***",
+      "TW": "***電梯已啟動***"
     }
   },
   "*** GO GO GO ***": {
@@ -83,59 +83,59 @@
     "translation": "*** 梯网将在10秒内断裂 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 梯子網格将在10秒后断裂 ***",
       "CN": "*** 梯网将在10秒内断裂 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 계단 격자 sẽ 깨지는 10 초 후 ***",
+      "TW": "*** 梯形格子将在10秒后破裂 ***"
     }
   },
   "*** Last elevator is leaving in 20 seconds ***": {
     "translation": "*** 最后一部电梯将在20秒内离开 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 最後のエレベーターは20秒後に発車します ***",
       "CN": "*** 最后一部电梯将在20秒内离开 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "마지막 엘리베이터는 20초 후에 출발합니다 ***",
+      "TW": "*** 最後1班電梯 20 秒鐘後离开 ***"
     }
   },
   "*** Map created by dAllas ***": {
     "translation": "*** 地图由 dAllas 制作，翻译：Asteri3m ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** マップを作成した dAllas ***",
       "CN": "*** 地图由 dAllas 制作，翻译：Asteri3m ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 맵을 생성한 dAllas ***",
+      "TW": "*** 圖譯由dAllas製作 ***"
     }
   },
   "*** Stair grid is now accessible ***": {
     "translation": "*** 梯网现在可进入 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***階段グリッドは現在利用可能***",
       "CN": "*** 梯网现在可进入 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 계단 그리드 이제 사용 가능 ***",
+      "TW": "*** 梯形格子現在可使用 ***"
     }
   },
   "*** TIPS and HELP from Kim [pF] and Mikey-Muse  ***": {
     "translation": "*** 来自 Kim [pF] 和 Mikey-Muse 的提示和帮助 ***",
     "MultiLang": {
-      "US": "",
+      "US": "*** TIPS AND HELP FROM Kim [pF] AND Mikey-Muse ***",
       "JP": "",
       "CN": "*** 来自 Kim [pF] 和 Mikey-Muse 的提示和帮助 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** TIPS and HELP từ Kim [pF] và Mikey-Muse  ***",
+      "TW": "*** TIPS 和 HELP 從 Kim [pF] 和 Mikey-Muse 3是***"
     }
   },
   "*** The TNT will blow in 40 seconds ***": {
     "translation": "*** 炸药将在40秒内引爆 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** テンテノ explosive は40秒後に爆発します ***",
       "CN": "*** 炸药将在40秒内引爆 ***",
-      "KR": "",
+      "KR": "*** TNT이 40초 후에 폭발할 것입니다 ***",
       "TW": ""
     }
   },
@@ -143,40 +143,40 @@
     "translation": "*** 火车将在30秒内出发 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 列車は30秒後に発車します ***",
       "CN": "*** 火车将在30秒内出发 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 열차는 30초 후에 출발합니다 ***",
+      "TW": "*** 列車將於30秒後出發 ***"
     }
   },
   "*** The backend door will open in 30 seconds ***": {
     "translation": "*** 后门将在30秒内打开 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** バックドアは30秒後に開きます ***",
       "CN": "*** 后门将在30秒内打开 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 뒷문이 30초 후에 열립니다 ***",
+      "TW": "*** 后端門将在30秒后开启 ***"
     }
   },
   "*** The blast door will close after 30 seconds ***": {
     "translation": "*** 防爆门将在30秒后关闭 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** バlast doorは30秒後に閉鎖されます ***",
       "CN": "*** 防爆门将在30秒后关闭 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 폭발문은 30초 후에 닫힙니다 ***",
+      "TW": "*** 30秒後門將關閉 ***"
     }
   },
   "*** The fence will break when the door is fully closed! ***": {
     "translation": "*** 当门完全关闭时，栅栏将断裂！ ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** もとの扉が完全に閉じられると柵が破壊されます！***",
       "CN": "*** 当门完全关闭时，栅栏将断裂！ ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 칸막이가 문이 완전히 닫힐 때 깨집니다! ***",
+      "TW": "***欄杆会在門完全關上時倒塌！***"
     }
   }
 }

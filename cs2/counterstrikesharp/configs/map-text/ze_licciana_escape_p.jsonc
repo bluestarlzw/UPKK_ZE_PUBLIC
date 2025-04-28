@@ -3,7 +3,7 @@
     "translation": "++ 还剩 30 秒到达安全地带：LICCIANA！！ ++",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "++ 30 SECONDS LEFT TO GET TO SAFE GROUNDS : リチーナ !! ++",
       "CN": "++ 还剩 30 秒到达安全地带：LICCIANA！！ ++",
       "KR": "",
       "TW": ""
@@ -15,7 +15,7 @@
       "US": "",
       "JP": "",
       "CN": "++ 逃生电梯 1 已到达 ++",
-      "KR": "",
+      "KR": "++ Escape Lift 1 Arrived ++",
       "TW": ""
     }
   },
@@ -113,9 +113,9 @@
     "translation": "++ GARGANTUA 的船正在离开！！ ++",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "++ガガンチュアの船は出発！！++",
       "CN": "++ GARGANTUA 的船正在离开！！ ++",
-      "KR": "",
+      "KR": "++ gargantua의 배는 떠나갑니다!! ++",
       "TW": ""
     }
   },
@@ -123,10 +123,10 @@
     "translation": "++ GARGANTUA 的船将在 3 秒内离开 ++",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "++ ガガントゥアの船3秒後に発着 ++",
       "CN": "++ GARGANTUA 的船将在 3 秒内离开 ++",
-      "KR": "",
-      "TW": ""
+      "KR": "++ gargantua의 배 떠나기 3초 후 ++",
+      "TW": "++ 加甘圖亞的船3秒後啟程++"
     }
   },
   "++ LIFT DOOR 1 OPENING UP ++": {
@@ -135,8 +135,8 @@
       "US": "",
       "JP": "",
       "CN": "++ 电梯门 1 正在打开 ++",
-      "KR": "",
-      "TW": ""
+      "KR": "++ 문 1 열리는 중 ++",
+      "TW": "++ 提升門1開啟中 ++"
     }
   },
   "++ LIFT DOOR 2 OPENING UP ++": {
@@ -145,38 +145,38 @@
       "US": "",
       "JP": "",
       "CN": "++ 电梯门 2 正在打开 ++",
-      "KR": "",
-      "TW": ""
+      "KR": "++ 문 열림 2개 +++",
+      "TW": "++ 提升門2開启中 ++"
     }
   },
   "++ SECRET LIFT IS LEAVING!! ++": {
     "translation": "++ 秘密电梯正在离开！！ ++",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "++ 秘密levator は発動!! ++",
       "CN": "++ 秘密电梯正在离开！！ ++",
-      "KR": "",
-      "TW": ""
+      "KR": "++ 비밀 승강기 가동!! ++",
+      "TW": "++秘密升降機即將啟動!!++"
     }
   },
   "++ TOXIC MINE GAS HAS BEEN RELEASED!! ++": {
     "translation": "++ 矿井已释放有毒气体！！ ++",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "++ 毒mineガスが放出されました!! ++",
       "CN": "++ 矿井已释放有毒气体！！ ++",
-      "KR": "",
-      "TW": ""
+      "KR": "++ 독성 지뢰가 방출되었습니다!! ++",
+      "TW": "++毒Mine气体已释Release放!! ++"
     }
   },
   "++ TOXIC MINE GAS IN AIR !! ++": {
     "translation": "++ 空气中弥漫着有毒气体！！ ++",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "++ 毒mineガスใน空！！ ++",
       "CN": "++ 空气中弥漫着有毒气体！！ ++",
-      "KR": "",
-      "TW": ""
+      "KR": "++ 독극물 함정 기체在现场直接显示为++",
+      "TW": "++ 毒 mine gas in air !! ++"
     }
   },
   "MAP MADE BY GARGANTUA": {
@@ -185,7 +185,7 @@
       "US": "",
       "JP": "",
       "CN": "地图作者：GARGANTUA 翻译：Ayanami♪",
-      "KR": "",
+      "KR": "맵 제작자: gargantua",
       "TW": ""
     }
   }

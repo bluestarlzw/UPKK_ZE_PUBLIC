@@ -3,20 +3,20 @@
     "translation": "***气闸门将在5秒后开启***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***空気locksdoors 開启中 5 秒後***",
       "CN": "***气闸门将在5秒后开启***",
-      "KR": "",
-      "TW": ""
+      "KR": "***공기막개 열림 5초 후***",
+      "TW": "***空氣locker門開启倒計時 5 秒***"
     }
   },
   "***Aux Door Opening In 15 Seconds***": {
     "translation": "***辅助门将在15秒后开启***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** Auxドア開き 15秒後***",
       "CN": "***辅助门将在15秒后开启***",
-      "KR": "",
-      "TW": ""
+      "KR": "***보조 문 열림까지 15초***",
+      "TW": "*** AUX 门開啟倒數中，15 秒鐘***"
     }
   },
   "***Outdoor Tram Starting in 30 Seconds***": {
@@ -25,8 +25,8 @@
       "US": "",
       "JP": "",
       "CN": "***户外电车将在30秒后启动***",
-      "KR": "",
-      "TW": ""
+      "KR": "***[outdoor tram starting in 30 seconds***",
+      "TW": "***室外電車30秒後啟動***"
     }
   },
   "***Outdoor Tram Starting in 45 Seconds***": {
@@ -35,8 +35,8 @@
       "US": "",
       "JP": "",
       "CN": "***户外电车将在45秒后启动***",
-      "KR": "",
-      "TW": ""
+      "KR": "***외부 트램 시작까지 45초***",
+      "TW": "***戶外有軌電車啟動倒計時 45 秒***"
     }
   },
   "***Outdoor Tram Starting in 5 Seconds***": {
@@ -45,27 +45,27 @@
       "US": "",
       "JP": "",
       "CN": "***户外电车将在5秒后启动***",
-      "KR": "",
+      "KR": "외부tram 시작 후 5초",
       "TW": ""
     }
   },
   "***Rocket Lift Leaving In 20 Seconds***": {
     "translation": "***火箭电梯将在20秒后离开***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "***Rocket Lift Off in 20 Seconds***",
+      "JP": "***ロケット発射離陸まで20秒***",
       "CN": "***火箭电梯将在20秒后离开***",
-      "KR": "",
-      "TW": ""
+      "KR": "***로켓 출발 20초 후***",
+      "TW": "***火箭起飛倒數計時 20 秒***"
     }
   },
   "***Tram Leaving Momentarily***": {
     "translation": "***电车即将离开***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "***Tram Leaving Soon***",
+      "JP": "***tram leaving momentarily***",
       "CN": "***电车即将离开***",
-      "KR": "",
+      "KR": "***tram leaving momentarily***",
       "TW": ""
     }
   },
@@ -73,29 +73,29 @@
     "translation": "***僵尸现在可以从火箭电梯的侧面爬上去***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ゾンビは今やロケットリフトの側面を登ることができます***",
       "CN": "***僵尸现在可以从火箭电梯的侧面爬上去***",
-      "KR": "",
-      "TW": ""
+      "KR": "***ゾンビは今やロケットリフトの側面を昇降できるようになりました***",
+      "TW": "***殭屍現在可以爬升火箭升降機的側面***"
     }
   },
   "<<<Map by Thatguyoverthere>>>": {
     "translation": "<<<地图作者：Thatguyoverthere 翻译：Asteri3m>>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<<マップ由Thatguyoverthere制作>>>",
       "CN": "<<<地图作者：Thatguyoverthere 翻译：Asteri3m>>>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<<지도 oleh Thatguyoverthere>>>)",
+      "TW": "<<<地圖由Thatguyoverthere繪製>>>"
     }
   },
   "<<ROCKET LAUNCHING>>": {
     "translation": "<<火箭发射>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<ロケット発射>>",
       "CN": "<<火箭发射>>",
-      "KR": "",
+      "KR": "<<로켓 발사>>",
       "TW": ""
     }
   },
@@ -103,9 +103,9 @@
     "translation": "<火箭将在10秒后发射>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<10秒後ロケット発射>",
       "CN": "<火箭将在10秒后发射>",
-      "KR": "",
+      "KR": "<10초 후 로켓 발사>",
       "TW": ""
     }
   },
@@ -113,9 +113,9 @@
     "translation": "<火箭将在20秒后发射>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<20秒后火箭发射>>",
       "CN": "<火箭将在20秒后发射>",
-      "KR": "",
+      "KR": "<로켓 발사 20초 후>",
       "TW": ""
     }
   },
@@ -123,20 +123,20 @@
     "translation": "<火箭将在30秒后发射>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<30秒後ロケット発射>",
       "CN": "<火箭将在30秒后发射>",
-      "KR": "",
-      "TW": ""
+      "KR": "<30초 후 로켓 발사>",
+      "TW": "<火箭發射倒計時 30 秒>"
     }
   },
   "<Rocket Launch In 5 Seconds>": {
     "translation": "<火箭将在5秒后发射>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<5秒後にロケット発射>",
       "CN": "<火箭将在5秒后发射>",
-      "KR": "",
-      "TW": ""
+      "KR": "<5초 후 로켓 발사>",
+      "TW": "<5秒後火箭發射>"
     }
   }
 }

@@ -2,41 +2,41 @@
   "-It is not good enough-": {
     "translation": "-这还不够好-",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "-Not good enough-",
+      "JP": "-充分不够-",
       "CN": "-这还不够好-",
-      "KR": "",
-      "TW": ""
+      "KR": "-충분히 좋은 것은 아닙니다-",
+      "TW": "-不足-"
     }
   },
   "-Map by oVo-": {
     "translation": "-地图作者：oVo 翻译：Asteri3m-",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "-マップ由oVo-",
       "CN": "-地图作者：oVo 翻译：Asteri3m-",
-      "KR": "",
-      "TW": ""
+      "KR": "-지도 oleh oVo-",
+      "TW": "-地圖由oVo製作-"
     }
   },
   "-Thank for playing this map-": {
     "translation": "-感谢游玩这张地图-",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "-このマップをプレイしていただきありがとうございます-",
       "CN": "-感谢游玩这张地图-",
-      "KR": "",
-      "TW": ""
+      "KR": "-이 맵을 플레이해 주셔서 감사합니다-",
+      "TW": "-感謝玩这个地图-"
     }
   },
   "-This is my first map-": {
     "translation": "-这是我的第一张地图-",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "-これは私の最初のマップ-",
       "CN": "-这是我的第一张地图-",
-      "KR": "",
-      "TW": ""
+      "KR": "-이것은 제 첫 맵입니다-",
+      "TW": "-這是我的第1張地圖-"
     }
   },
   "10s": {
@@ -55,7 +55,7 @@
       "US": "",
       "JP": "",
       "CN": "20秒",
-      "KR": "",
+      "KR": "20초",
       "TW": ""
     }
   },
@@ -63,7 +63,7 @@
     "translation": "5秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "5秒",
       "CN": "5秒",
       "KR": "",
       "TW": ""
@@ -73,30 +73,30 @@
     "translation": "我应该回去",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "私は戻って SHOULD GO Back",
       "CN": "我应该回去",
-      "KR": "",
-      "TW": ""
+      "KR": "나는 돌아가야 한다.",
+      "TW": "我應該回去"
     }
   },
   "It's locked": {
     "translation": "门锁上了",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ロックされています",
       "CN": "门锁上了",
-      "KR": "",
-      "TW": ""
+      "KR": "잠금되어 있습니다",
+      "TW": "它是 Locked"
     }
   },
   "The toilet is open": {
     "translation": "厕所是开的",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "トイレは開放中",
       "CN": "厕所是开的",
-      "KR": "",
-      "TW": ""
+      "KR": "WC 열려 있습니다",
+      "TW": "Toilet 是開放的"
     }
   },
   "nuke in 5s": {
@@ -105,8 +105,8 @@
       "US": "",
       "JP": "",
       "CN": "核弹5秒",
-      "KR": "",
-      "TW": ""
+      "KR": "핵무기 5초 후 발사",
+      "TW": "核武在5秒後投放"
     }
   },
   "run!": {
@@ -116,14 +116,14 @@
       "JP": "",
       "CN": "快跑！",
       "KR": "",
-      "TW": ""
+      "TW": "跑！"
     }
   },
   "喵~": {
     "translation": "喵~",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Meow~",
+      "JP": "びっくりしたね～",
       "CN": "喵~",
       "KR": "",
       "TW": ""

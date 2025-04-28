@@ -3,9 +3,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
+      "JP": "CS2 ポート由Johnny Rottyon",
+      "CN": "CS2 由 Johnny Rottyon 制作",
+      "KR": "CS2 포트.by Johnny Rottyon",
       "TW": ""
     }
   },
@@ -13,29 +13,29 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "CSGOポートby Truyn",
+      "CN": "CSGO港由Truyn建",
+      "KR": "CSGO 포트로 트루인",
+      "TW": "CSGO港由Truyn建造"
     }
   },
   "Thx original author": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "US": "Thanks original author",
+      "JP": "感謝原作者",
+      "CN": "感谢原创作者",
+      "KR": "谢谢原始作者",
+      "TW": "感謝原始作者"
     }
   },
   "** 终极时刻15秒后到来 **": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*** The Ultimate Moment arrives in 15 seconds ***",
+      "JP": "** 最終时刻15秒后到来 **",
       "CN": "",
-      "KR": "",
+      "KR": "** 최후의 기회 15초 후에 도래 **",
       "TW": ""
     }
   }

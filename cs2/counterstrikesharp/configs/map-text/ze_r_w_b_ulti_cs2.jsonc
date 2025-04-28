@@ -3,89 +3,89 @@
     "translation": "--四面八方--",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "-- 四方向及び上方 --",
       "CN": "--四面八方--",
-      "KR": "",
-      "TW": ""
+      "KR": "--- 네 방향과 위 ---",
+      "TW": "--- 4個方向和上方 ---"
     }
   },
   "-- Avoid Red --": {
     "translation": "--远离红色--",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "-- 紅色を避ける --",
       "CN": "--远离红色--",
-      "KR": "",
-      "TW": ""
+      "KR": "-- 붉은색 피하십시오 --",
+      "TW": "-- 避免紅色 --"
     }
   },
   "-- Avoid black --": {
     "translation": "--远离黑色--",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "-- 黒色を避ける --",
       "CN": "--远离黑色--",
-      "KR": "",
-      "TW": ""
+      "KR": "-- 黑色区域避免 --",
+      "TW": "-- 避開黑色 --"
     }
   },
   "-- Break The Cage Before The Song Ends! --": {
     "translation": "--在歌曲结束之前打破牢笼！--",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "---歌未终，破牢狱！---",
       "CN": "--在歌曲结束之前打破牢笼！--",
-      "KR": "",
-      "TW": ""
+      "KR": "-- 가锁歌未尽先破牢!--",
+      "TW": "-- 在歌曲結束前打破牢籠！--"
     }
   },
   "-- Get onto the glass --": {
     "translation": "--走上玻璃--",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "-- Jump on the glass --",
+      "JP": "-- グラスに乗れ --",
       "CN": "--走上玻璃--",
-      "KR": "",
-      "TW": ""
+      "KR": "-- 글ASS 위로 올라가세요 --",
+      "TW": "-- 上到玻璃上 --"
     }
   },
   "-- MAP by NK --": {
     "translation": "--地图作者：NK 翻译：Asteri3m--",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "-- 地図由NK制作 --",
       "CN": "--地图作者：NK 翻译：Asteri3m--",
       "KR": "",
-      "TW": ""
+      "TW": "-- 圖譯由NK提供 --"
     }
   },
   "-- glass will break in 100sec --": {
     "translation": "--玻璃将在100秒后破裂--",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "---ガラスは100sec後に破損---",
       "CN": "--玻璃将在100秒后破裂--",
-      "KR": "",
-      "TW": ""
+      "KR": "-- GLASS WILL BREAK IN 100SEC --",
+      "TW": "-- 玻璃將在100sec後破碎 --"
     }
   },
   "--Port by Creal --": {
     "translation": "--移植：Creal--",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "--Crealによる移植--",
       "CN": "--移植：Creal--",
-      "KR": "",
-      "TW": ""
+      "KR": "--포트.by Creal --",
+      "TW": "--Translated by Creal --"
     }
   },
   "-Stage-White-": {
     "translation": "-关卡-白色-",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "-ステージ-白-",
       "CN": "-关卡-白色-",
-      "KR": "",
+      "KR": "-스테이지-백-",
       "TW": ""
     }
   },
@@ -95,7 +95,7 @@
       "US": "",
       "JP": "",
       "CN": "-关卡-黑色-",
-      "KR": "",
+      "KR": "-스테이지-검정-",
       "TW": ""
     }
   },
@@ -105,7 +105,7 @@
       "US": "",
       "JP": "",
       "CN": "-关卡-红色-",
-      "KR": "",
+      "KR": "-스테이지-레드-",
       "TW": ""
     }
   },
@@ -113,70 +113,70 @@
     "translation": "平台将在30秒后升起",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "プラットフォームは30秒後に上昇します",
       "CN": "平台将在30秒后升起",
-      "KR": "",
-      "TW": ""
+      "KR": "플랫폼이 30sec 후에 떠오릅니다",
+      "TW": "平台將在30秒後上升"
     }
   },
   "Platform will rise in 75sec": {
     "translation": "平台将在75秒后升起",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "プラットフォームは75sec後に上昇します",
       "CN": "平台将在75秒后升起",
-      "KR": "",
-      "TW": ""
+      "KR": "플랫폼이 75sec 후에 상승합니다",
+      "TW": "平台將在75sec後上升"
     }
   },
   "The road will open in 25 sec": {
     "translation": "道路将在25秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ROAD OPEN IN 25 SEC",
       "CN": "道路将在25秒后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "로드 오픈将在 25 sec 后开放",
+      "TW": "道路將在 25 sec 開放"
     }
   },
   "Transfer to the boss room in 30 seconds": {
     "translation": "将在30秒后传送到Boss房间",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "30秒後にボスルームに移動してください",
       "CN": "将在30秒后传送到Boss房间",
-      "KR": "",
-      "TW": ""
+      "KR": "보스 방으로 이동하세요. 30초 후عراض",
+      "TW": "轉移到總 Vaults 房間於30秒後"
     }
   },
   "Wall will break in 15sec": {
     "translation": "墙将在15秒后破裂",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "WALLが15sec後に破壊されます",
       "CN": "墙将在15秒后破裂",
-      "KR": "",
-      "TW": ""
+      "KR": "월은 15초 후에 무너집니다",
+      "TW": "牆將在15sec後崩塌"
     }
   },
   "You can shoot after 5sec": {
     "translation": "5秒后可以射击",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "您可以在5sec後射擊",
       "CN": "5秒后可以射击",
-      "KR": "",
-      "TW": ""
+      "KR": "5sec 후에 발사 가능합니다",
+      "TW": "您可在5sec後射擊"
     }
   },
   "admin choice lv black": {
     "translation": "管理员选择关卡：黑色",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "管理選擇Lv黒",
       "CN": "管理员选择关卡：黑色",
-      "KR": "",
-      "TW": ""
+      "KR": "관리자 선택 레벨 黑色",
+      "TW": "管理員選擇Lv 黑色"
     }
   },
   "admin choice lv red": {
@@ -185,17 +185,17 @@
       "US": "",
       "JP": "",
       "CN": "管理员选择关卡：红色",
-      "KR": "",
-      "TW": ""
+      "KR": "관리자 선택 Lv 红",
+      "TW": "管理员選擇Lv紅"
     }
   },
   "admin choice lv white": {
     "translation": "管理员选择关卡：白色",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "管理者選択Lv 白",
       "CN": "管理员选择关卡：白色",
-      "KR": "",
+      "KR": "관리자의 선택 Lv 白",
       "TW": ""
     }
   },
@@ -205,68 +205,68 @@
       "US": "",
       "JP": "",
       "CN": "电梯将在25秒后移动",
-      "KR": "",
-      "TW": ""
+      "KR": "에스컬레이터는 25sec 후로 이동합니다",
+      "TW": "電梯將在25sec後移動"
     }
   },
   "final will open in 50 sec": {
     "translation": "最后的门将于50秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最終的な内容は50秒後に開きます",
       "CN": "最后的门将于50秒后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "최종 문장은 50sec 후에 열립니다",
+      "TW": "最終將開啟在 50 sec"
     }
   },
   "platform will move in 25sec": {
     "translation": "平台将在25秒后移动",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "プラットフォームは25sec後に動きます",
       "CN": "平台将在25秒后移动",
-      "KR": "",
-      "TW": ""
+      "KR": "플랫폼이 25sec 후에 움직일 것입니다",
+      "TW": "平台將在25sec移動"
     }
   },
   "platform will move in 30sec": {
     "translation": "平台将在30秒后移动",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "プラットフォームは30sec後に移動します",
       "CN": "平台将在30秒后移动",
-      "KR": "",
-      "TW": ""
+      "KR": "플랫폼이 30sec 후에 움직일 것입니다",
+      "TW": "平台將在30sec移動"
     }
   },
   "wall will break in 15 sec": {
     "translation": "墙将在15秒后破裂",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "壁が破壊されるまでに 15 sec",
       "CN": "墙将在15秒后破裂",
-      "KR": "",
-      "TW": ""
+      "KR": "벽이 15sec 후에 부REAK",
+      "TW": "牆將在15秒後破壞"
     }
   },
   "wall_1 will break in 20sec": {
     "translation": "墙1将在20秒后破裂",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "wall_1 は 20sec で崩れる",
       "CN": "墙1将在20秒后破裂",
       "KR": "",
-      "TW": ""
+      "TW": "牆_1 將在 20sec 溢出"
     }
   },
   "wall_2 will break in 20sec": {
     "translation": "墙2将在20秒后破裂",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "wall_2は20sec後に破壊されます",
       "CN": "墙2将在20秒后破裂",
-      "KR": "",
-      "TW": ""
+      "KR": ".wall_2 sẽ phá vỡ trong 20sec",
+      "TW": "牆_2将在20sec後破壞"
     }
   },
   "zm_tp in 8sec": {
@@ -276,7 +276,7 @@
       "JP": "",
       "CN": "僵尸将在8秒后传送",
       "KR": "",
-      "TW": ""
+      "TW": "zm_tp 在 8sec"
     }
   }
 }

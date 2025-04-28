@@ -3,30 +3,30 @@
     "translation": "地图作者：Airvulps",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "マップ by Airvulps",
       "CN": "地图作者：Airvulps",
-      "KR": "",
-      "TW": ""
+      "KR": "맵 제작者: Airvulps",
+      "TW": "地圖由Airvulps繪製"
     }
   },
   "map modify by 兎RB": {
     "translation": "地图修改：兎RB",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "マップを修改_by 兎RB",
       "CN": "地图修改：兎RB",
-      "KR": "",
-      "TW": ""
+      "KR": "맵 수정_by 兎RB",
+      "TW": "地圖修改由兔RB=\"<<>>\""
     }
   },
   "map port by SIRloin": {
     "translation": "地图移植：SIRloin",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "マップポート由SIRloin提供",
       "CN": "地图移植：SIRloin",
-      "KR": "",
-      "TW": ""
+      "KR": "맵 포트由SIRloin制作",
+      "TW": "地圖端口由SIRloin提供"
     }
   },
   "> STAGE - B <": {
@@ -35,8 +35,8 @@
       "US": "",
       "JP": "",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "> 스테이지 - B <",
+      "TW": "> 階段 - B <"
     }
   },
   "*** 40 ***": {
@@ -73,9 +73,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "> ステージ - C <",
       "CN": "",
-      "KR": "",
+      "KR": "> 스테이지 - C <",
       "TW": ""
     }
   },
@@ -83,9 +83,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "> ステージ - A <",
       "CN": "",
-      "KR": "",
+      "KR": "> 스테이지 - A <",
       "TW": ""
     }
   },
@@ -113,20 +113,20 @@
     "translation": "*** 僵尸进入电梯 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ゾンビがエレベーターに侵入しました***",
       "CN": "*** 僵尸进入电梯 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** Zombie got inside the lift ***",
+      "TW": "*** Zombies got inside the lift ***"
     }
   },
   "*** STAGE FAILED ***": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "*** ステージ失敗 ***",
+      "CN": "*** 关卡失败 ***",
+      "KR": "스테이지 실패 ***",
+      "TW": "*** 過關失敗 ***"
     }
   },
   "30": {
@@ -233,9 +233,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "> ステージ - D <",
       "CN": "",
-      "KR": "",
+      "KR": "> 스테이지 - D <",
       "TW": ""
     }
   },
@@ -253,10 +253,10 @@
     "translation": "> 启用 Stage Purple D! <",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> ステージパープルDを启用！<",
       "CN": "> 启用 Stage Purple D! <",
-      "KR": "",
-      "TW": ""
+      "KR": "> 활성화 스테이지 플루어 퍼플 D! <",
+      "TW": "> 启用紫色舞台 D！<"
     }
   },
   "*** END ***": {

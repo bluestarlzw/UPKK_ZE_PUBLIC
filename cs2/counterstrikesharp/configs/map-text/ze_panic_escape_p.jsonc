@@ -43,19 +43,19 @@
     "translation": "***杀死里面的僵尸***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ゾンビを殺しろ***",
       "CN": "***杀死里面的僵尸***",
-      "KR": "",
-      "TW": ""
+      "KR": "***내부의 좀비들을 처치하세요***",
+      "TW": "***殺死裡面的殭屍***"
     }
   },
   "***Modified by Reflelia***": {
     "translation": "***地图修改：Reflelia 翻译：Asteri3m***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***Reflelia によって修改***",
       "CN": "***地图修改：Reflelia 翻译：Asteri3m***",
-      "KR": "",
+      "KR": "수정-by Reflelia***",
       "TW": ""
     }
   },
@@ -63,9 +63,9 @@
     "translation": "地图作者：xXhamadryadesXx",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "マップ製作者 xXhamadryadesXx",
       "CN": "地图作者：xXhamadryadesXx",
-      "KR": "",
+      "KR": "맵 제작자 xXhamadryadesXx",
       "TW": ""
     }
   }

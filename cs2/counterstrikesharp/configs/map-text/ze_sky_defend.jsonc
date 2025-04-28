@@ -13,10 +13,10 @@
     "translation": "地图作者：Smurf 翻译：Ayanami♪",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "マップby スムール",
       "CN": "地图作者：Smurf 翻译：Ayanami♪",
-      "KR": "",
-      "TW": ""
+      "KR": "맵 제작자 Smurf",
+      "TW": "地圖由Smurf制作"
     }
   },
   "<BACK BACK BACK>": {
@@ -25,7 +25,7 @@
       "US": "",
       "JP": "",
       "CN": "<撤退 撤退 撤退>",
-      "KR": "",
+      "KR": "<백 백 백>",
       "TW": ""
     }
   },
@@ -33,17 +33,17 @@
     "translation": "<15 秒后僵尸传送到神庙>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<15秒後temple zm tpに戻る>",
       "CN": "<15 秒后僵尸传送到神庙>",
-      "KR": "",
-      "TW": ""
+      "KR": "<15초 후_temple zm tp로 되돌아가기>",
+      "TW": "回到Temple ZM後方可TP，15秒後生效>>"
     }
   },
   "<BOSS DEFEATED, INCOMING LASERS FROM THE ZOMBIES>": {
     "translation": "<BOSS 被击败，最后一波跳刀在僵尸方向>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボス defeat、ゾンビからの Laser 飛んできてる",
       "CN": "<BOSS 被击败，最后一波跳刀在僵尸方向>",
       "KR": "",
       "TW": ""
@@ -53,10 +53,10 @@
     "translation": "<BOSS 被击败>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボス倒しました>>",
       "CN": "<BOSS 被击败>",
-      "KR": "",
-      "TW": ""
+      "KR": "보스 물리č>",
+      "TW": "【Boss被擊敗】"
     }
   },
   "<CONGRATULATION, YOU BEAT THE MAP>": {
@@ -65,18 +65,18 @@
       "US": "",
       "JP": "",
       "CN": "<恭喜，你完成了地图>",
-      "KR": "",
-      "TW": ""
+      "KR": "<축하합니다, 지도를 완료했습니다>",
+      "TW": "<恭喜你打敗这个地图>"
     }
   },
   "<CROUCH>": {
     "translation": "<蹲下>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<蹲下>",
       "CN": "<蹲下>",
       "KR": "",
-      "TW": ""
+      "TW": "<蹲下>"
     }
   },
   "<DEFEND 30 SECONDS>": {
@@ -85,7 +85,7 @@
       "US": "",
       "JP": "",
       "CN": "<防守 30 秒>",
-      "KR": "",
+      "KR": "[30초간 방어]",
       "TW": ""
     }
   },
@@ -95,7 +95,7 @@
       "US": "",
       "JP": "",
       "CN": "<防守 40 秒>",
-      "KR": "",
+      "KR": "[40초 방어]",
       "TW": ""
     }
   },
@@ -105,7 +105,7 @@
       "US": "",
       "JP": "",
       "CN": "<防守 50 秒>",
-      "KR": "",
+      "KR": "[50초 방어]",
       "TW": ""
     }
   },
@@ -115,17 +115,17 @@
       "US": "",
       "JP": "",
       "CN": "<入口打开>",
-      "KR": "",
-      "TW": ""
+      "KR": "[입장 문 열림]",
+      "TW": "Entrance Opening"
     }
   },
   "<FOUNTAIN TP ENABLED>": {
     "translation": "<喷泉传送点 已启用>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Fountain TP Enabled",
       "CN": "<喷泉传送点 已启用>",
-      "KR": "",
+      "KR": "<포ЮNTERN TР 활성화됨>",
       "TW": ""
     }
   },
@@ -145,8 +145,8 @@
       "US": "",
       "JP": "",
       "CN": "<杀死跳刀 BOSS>",
-      "KR": "",
-      "TW": ""
+      "KR": "<레이저 보스 처치>",
+      "TW": "<擊敗激光BOSS>"
     }
   },
   "<LAST DEFEND 30 SEC>": {
@@ -173,9 +173,9 @@
     "translation": "<RTV THIS SHITMAP！！！！！！>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "RTV このshitmap!!!!!!!!",
       "CN": "<RTV THIS SHITMAP！！！！！！>",
-      "KR": "",
+      "KR": "<RTV 이_SHITMAP!!!!!!!!>",
       "TW": ""
     }
   },
@@ -183,9 +183,9 @@
     "translation": "<第二道门在 5 秒内打开>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "2秒後にセカンドゲートが開きます>>",
       "CN": "<第二道门在 5 秒内打开>",
-      "KR": "",
+      "KR": "두 번째 문이 5초 후 열립니다>",
       "TW": ""
     }
   },
@@ -193,19 +193,19 @@
     "translation": "<射击 BOSS>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボスを射殺する",
       "CN": "<射击 BOSS>",
-      "KR": "",
-      "TW": ""
+      "KR": "<보스 사격>",
+      "TW": "開炮擊殺BOSS>>"
     }
   },
   "<TEMPLE ENTRANCE BREAK IN 45 SECONDS>": {
     "translation": "<神庙入口在 45 秒内打开>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "神殿入口侵入倒计时45秒>",
       "CN": "<神庙入口在 45 秒内打开>",
-      "KR": "",
+      "KR": "전당 입구 침입 45초 후 시작",
       "TW": ""
     }
   },
@@ -235,18 +235,18 @@
       "US": "",
       "JP": "",
       "CN": "<墙壁被打破>",
-      "KR": "",
-      "TW": ""
+      "KR": "<벽이 무너짐>",
+      "TW": "<牆破了>"
     }
   },
   "<ZM SHORTCUT OPENED>": {
     "translation": "<僵尸捷径已打开>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<ZMショートカット開启>",
       "CN": "<僵尸捷径已打开>",
-      "KR": "",
-      "TW": ""
+      "KR": "<ZM 단축키가 열렸습니다>",
+      "TW": "<ZM快捷鍵開啟>"
     }
   },
   "<ZM TELEPORT 10 SEC>": {
@@ -263,9 +263,9 @@
     "translation": "<僵尸传送 15 秒后>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">ZMテレポインターIN 15 SEKONDOS>",
       "CN": "<僵尸传送 15 秒后>",
-      "KR": "",
+      "KR": "<ZM 텔레포트 15초 후에>",
       "TW": ""
     }
   },
@@ -285,7 +285,7 @@
       "US": "",
       "JP": "",
       "CN": "rot zakroj",
-      "KR": "",
+      "KR": "로트 Zakroj",
       "TW": ""
     }
   }

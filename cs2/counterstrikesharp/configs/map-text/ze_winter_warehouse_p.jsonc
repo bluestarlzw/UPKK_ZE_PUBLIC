@@ -3,70 +3,70 @@
     "translation": "*** 直升机由 AuroraF 制作 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** アクロラーフのヘリコプタープレハブ ***",
       "CN": "*** 直升机由 AuroraF 制作 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 헬리콥터 프리팹.by AuroraF ***",
+      "TW": "*** 舉ISTRIBUTOR 飛機炮台预制件 ***"
     }
   },
   "*** Map by w6a7z99  ***": {
     "translation": "*** 地图由 w6a7z99 制作 翻译：Asteri3m ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 地図由 w6a7z99 制作 ***",
       "CN": "*** 地图由 w6a7z99 制作 翻译：Asteri3m ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 맵由 w6a7z99 制作 ***",
+      "TW": "*** 圖譜由w6a7z99製作 ***"
     }
   },
   "*** Spawn Prefab by Dawnter ***": {
     "translation": "*** 出生点由 Dawnter 制作 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** ダウнтерによってスポーン Presbyterian ***",
       "CN": "*** 出生点由 Dawnter 制作 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** Dawnter에 의한スポーンプレハブ***",
+      "TW": "*** 出現預制物件由Dawnter ***"
     }
   },
   "TIP: Helicopter departs in 10 seconds!": {
     "translation": "提示：直升机将在10秒后起飞！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "TIP: ヘリコプターは10秒後に出発！",
       "CN": "提示：直升机将在10秒后起飞！",
-      "KR": "",
-      "TW": ""
+      "KR": "팁: 헬리콥터가 10초 후에 출발합니다!",
+      "TW": "提示：直升機10秒後起飛！"
     }
   },
   "TIP: Prepare to fall back. Helicopter leaves in 20 seconds.": {
     "translation": "提示：准备撤退，直升机将在20秒后起飞。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "TIP: 復帰準備をしろ。ヘリコプターは20秒後に離陸する。",
       "CN": "提示：准备撤退，直升机将在20秒后起飞。",
-      "KR": "",
-      "TW": ""
+      "KR": "TIP: 빠르게 후퇴 준비하십시오. 헬기 10초 후에 이륙합니다.",
+      "TW": "提示：準備撤退。直升機20秒後 departure。"
     }
   },
   "TIP: Roof entry is now open. Defend for 50 seconds!": {
     "translation": "提示：屋顶入口现在开放，防守50秒！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "TIP: 屋顶入口现已开放。坚守防御50秒！",
       "CN": "提示：屋顶入口现在开放，防守50秒！",
-      "KR": "",
-      "TW": ""
+      "KR": "팁: 지붕 진입이now 열렸습니다. 50초간 방어하세요!",
+      "TW": "提示：房頂入口已開放。守衛50秒！"
     }
   },
   "TIP: You should go to the roof in less than 30 seconds.": {
     "translation": "提示：你应该在30秒内到达屋顶。",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "TIP: Go to the roof in less than 30 seconds.",
+      "JP": "TIP: 屋顶に30秒以内で行かないと。",
       "CN": "提示：你应该在30秒内到达屋顶。",
-      "KR": "",
-      "TW": ""
+      "KR": "TIP: 30초以内去到屋顶。",
+      "TW": "提示：你應在少於30秒內去到屋頂。"
     }
   }
 }

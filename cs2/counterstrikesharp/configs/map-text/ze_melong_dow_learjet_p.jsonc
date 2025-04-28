@@ -3,40 +3,40 @@
     "translation": "核弹发射！大家都要完蛋了！！哈哈哈哈",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "@@ 原子 bomb 放出！所有人死掉！！ 哈哈哈 @@",
       "CN": "核弹发射！大家都要完蛋了！！哈哈哈哈",
-      "KR": "",
-      "TW": ""
+      "KR": "@@ 뉴키 발사! 모두 죽으라!! 하하하 @@",
+      "TW": "哈哈ahaha@@"
     }
   },
   "@@ no one on island!! @@": {
     "translation": "岛上没有人类！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "@@島zł上 nobody!! @@",
       "CN": "岛上没有人类！！",
-      "KR": "",
-      "TW": ""
+      "KR": "@@ 섬에 personne!! @@",
+      "TW": "@@Nobody on the island!!@@"
     }
   },
   "@@ no one pressed button!! @@": {
     "translation": "没有人按下按钮！！",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "@@ No one pressed the button!! @@",
+      "JP": "@@ nobody pressed the button!! @@",
       "CN": "没有人按下按钮！！",
-      "KR": "",
-      "TW": ""
+      "KR": "@@ 아무도 버튼을 눌러!! @@",
+      "TW": "@@ 沒有人按鈕!! @@"
     }
   },
   "@@ please wait a learjet!!!! @@": {
     "translation": "请等待飞机抵达！！！ 翻译：Asteri3m",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "@@ 请等一等 learjet!!!!! @@",
       "CN": "请等待飞机抵达！！！ 翻译：Asteri3m",
-      "KR": "",
-      "TW": ""
+      "KR": "@@ 잠시만 런제트!!!!! @@",
+      "TW": "@@ 請等1會兒!!!!! @@"
     }
   }
 }

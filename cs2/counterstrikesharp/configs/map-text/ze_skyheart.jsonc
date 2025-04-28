@@ -3,20 +3,20 @@
     "translation": "\"门将在15秒后打开\"",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドア開くまで15S",
       "CN": "\"门将在15秒后打开\"",
-      "KR": "",
-      "TW": ""
+      "KR": "문扉开启于15S",
+      "TW": "門開於15S"
     }
   },
   "\"Door open in 10S\"": {
     "translation": "\"门将在10秒后打开\"",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "「扉が開くまで10S」",
       "CN": "\"门将在10秒后打开\"",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 열리는 중입니다 (10S)",
+      "TW": "門開啟在10S"
     }
   },
   "\"TP in 30S\"": {
@@ -25,48 +25,48 @@
       "US": "",
       "JP": "",
       "CN": "\"传送将在30秒后进行\"",
-      "KR": "",
-      "TW": ""
+      "KR": "TP в 30S",
+      "TW": "TP在30S"
     }
   },
   "\"The other wall has disappeared\"": {
     "translation": "\"另一堵墙已经消失\"",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "別の壁は消えてしまった",
       "CN": "\"另一堵墙已经消失\"",
-      "KR": "",
-      "TW": ""
+      "KR": "벽은 사라졌습니다",
+      "TW": "牆壁已消失"
     }
   },
   "\"door open in 20S\"": {
     "translation": "\"门将在20秒后打开\"",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "「20S後にドア開く」",
       "CN": "\"门将在20秒后打开\"",
-      "KR": "",
-      "TW": ""
+      "KR": "문 열리기까지 20S",
+      "TW": "門開啟在20S"
     }
   },
   "\"push in CD600S\"": {
     "translation": "\"推力CD 600\"",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "推入CD600S",
       "CN": "\"推力CD 600\"",
-      "KR": "",
-      "TW": ""
+      "KR": "\"CD600S에 밀어넣기\"",
+      "TW": "推入CD600S"
     }
   },
   "\"used push\"": {
     "translation": "\"已使用推力\"",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "「使用推し」",
       "CN": "\"已使用推力\"",
-      "KR": "",
-      "TW": ""
+      "KR": "\"사용한 밀기\"",
+      "TW": "\"使用推進\""
     }
   },
   "\"zmobie  TP enable in 10S\"": {
@@ -83,9 +83,9 @@
     "translation": "\"僵尸将在20秒后传送\"",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "「zmobieは20S後にTPする」",
       "CN": "\"僵尸将在20秒后传送\"",
-      "KR": "",
+      "KR": "\"zmobieจะ TP เข้ามาใน 20S\"",
       "TW": ""
     }
   },
@@ -93,7 +93,7 @@
     "translation": "\"僵尸路将在10秒后打开\"",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "「10S後に入力してください」",
       "CN": "\"僵尸路将在10秒后打开\"",
       "KR": "",
       "TW": ""
@@ -102,11 +102,11 @@
   "\"地图由爱莉希雅的大护法所制作，地图是我第一张地图，主要作为技术积累，可能存在很多问题请反馈让我知道。特别感谢7ychu5，seth特效支持，并且感谢CSZEMAPPER的各位大佬的指导！\"": {
     "translation": "\"地图由爱莉希雅的大护法制作，这张地图是我第一张地图，主要作为技术积累，可能存在很多问题，请反馈让我知道。特别感谢7ychu5和Seth的特效支持，并感谢CSZEMAPPER的各位大佬的指导！翻译：Asteri3m\"",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Map created by Elie's chief guardian. This is my first map, mainly for technical积累, there may be many issues please feedback so I can know about them. Special thanks to 7ychu5, Seth effect support, and thank you to all the masters from CSZEMAPPER for your guidance!",
+      "JP": "「地図はエリーシャの大護法によって制作されました。これは私の初めての地図で、技術的な累積用に作成したものですが、多くの問題が含まれている可能性がありますのでフィードバックをお願いします。7ychu5さんとsethさんの効果サポートに特別感謝し、CSZEMAPPERの皆様のご指導にも心より感謝いたします！」",
       "CN": "\"地图由爱莉希雅的大护法制作，这张地图是我第一张地图，主要作为技术积累，可能存在很多问题，请反馈让我知道。特别感谢7ychu5和Seth的特效支持，并感谢CSZEMAPPER的各位大佬的指导！翻译：Asteri3m\"",
-      "KR": "",
-      "TW": ""
+      "KR": "지도는 에리체아의 대호법이 제작하였으며, 이는 제首款地图，主要是为了技术积累，可能存在很多问题请反馈让我知道。特别感謝7ychu5，seth特效支持，并且感谢CSZEMAPPER的各位大佬的指导！",
+      "TW": "\"地圖由愛莉希雅的大護法所制作，地圖是我第1張地圖，主要作為技術積累，可能存在很多問題請反饋讓我知道。特別感謝7ychu5，seth特效支持，并且感謝CSZEMAPPER的各位大牛的指導！\""
     }
   },
   "The wall has disappeared\"\"": {
@@ -115,48 +115,48 @@
       "US": "",
       "JP": "",
       "CN": "\"墙已消失\"",
-      "KR": "",
-      "TW": ""
+      "KR": "벽이 사라졌습니다\"",
+      "TW": "牆壁已消失\"\""
     }
   },
   "“BOSS enable in 30S”": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "BOSS启用前30S",
+      "CN": "“BOSS启用倒计时30S”",
+      "KR": "보스 활성화까지 30S",
+      "TW": "BOSS啟用於30S"
     }
   },
   "“Teleport in 5S”": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "TELEPORT IN 5S",
+      "CN": "传送中 5S",
+      "KR": "텔레포트 5S 후 시작",
+      "TW": "TELEPORT IN 5S"
     }
   },
   "\"The way to the BOSS area will be destroyed in 30 seconds\"": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "BOSSエリアへの道は30秒後に破壊されます",
+      "CN": "BOSS区域的路将在30秒后被摧毁",
+      "KR": "BOSS 지역으로 가는 길이 30초 후에 파괴됩니다",
+      "TW": "BOSS區域的道路將在30秒後被破壞"
     }
   },
   "\"laser in comming\"": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "レーザーインカming",
+      "CN": "激光正在锁定",
+      "KR": "레이저 오고 있습니다",
+      "TW": "雷射即到"
     }
   }
 }

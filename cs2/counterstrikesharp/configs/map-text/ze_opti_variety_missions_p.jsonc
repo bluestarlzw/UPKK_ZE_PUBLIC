@@ -3,10 +3,10 @@
     "translation": "*VR-任务1完成*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*VRミッション1ocomplete*",
       "CN": "*VR-任务1完成*",
-      "KR": "",
-      "TW": ""
+      "KR": "*VR-임무 1 완료*",
+      "TW": "* VR-使命 1 完成*"
     }
   },
   "* VR-Mission 1 START*": {
@@ -16,17 +16,17 @@
       "JP": "",
       "CN": "*VR-任务1开始*",
       "KR": "",
-      "TW": ""
+      "TW": "* VR-任務 1 START*"
     }
   },
   "* VR-Mission 2 Complete*": {
     "translation": "*VR-任务2完成*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*VRミッション2完成*",
       "CN": "*VR-任务2完成*",
-      "KR": "",
-      "TW": ""
+      "KR": "*VR-임무 2 완료*",
+      "TW": "*VR-任務 2 完成*"
     }
   },
   "* VR-Training complete*": {
@@ -35,8 +35,8 @@
       "US": "",
       "JP": "",
       "CN": "*VR-训练完成*",
-      "KR": "",
-      "TW": ""
+      "KR": "*VR-트레이닝 완료*",
+      "TW": "*VR-Training完整*"
     }
   },
   "*25 SECONDS TO NUKE*": {
@@ -45,7 +45,7 @@
       "US": "",
       "JP": "",
       "CN": "*核弹25秒*",
-      "KR": "",
+      "KR": "*25 초까지 핵공격!*",
       "TW": ""
     }
   },
@@ -53,30 +53,30 @@
     "translation": "*打破水晶*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*ブレイククリスタル*",
       "CN": "*打破水晶*",
-      "KR": "",
-      "TW": ""
+      "KR": "*brislerock_crystals*",
+      "TW": "擊破结晶"
     }
   },
   "*Don't delay! Hurry up with the objectives and get out of there!*": {
     "translation": "*不要拖延！快点完成目标并离开那里！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*遅らせないで！目的を遂行して早退 doGet out of there!*",
       "CN": "*不要拖延！快点完成目标并离开那里！*",
-      "KR": "",
-      "TW": ""
+      "KR": "*지체하지 말라! 목적을 달성하고 빨리 나가라!*",
+      "TW": "*不要延遲！快點完成目標然後離開!*"
     }
   },
   "*Map by Mr.Neko*": {
     "translation": "*地图作者：Mr.Neko 翻译：Asteri3m*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*マップ由Mr.Neko提供*",
       "CN": "*地图作者：Mr.Neko 翻译：Asteri3m*",
-      "KR": "",
-      "TW": ""
+      "KR": "*도면由Mr.Neko绘制*",
+      "TW": "*地圖由Mr.Neko繪製*"
     }
   },
   "*OBJECTIVE - Break crystals*": {
@@ -85,7 +85,7 @@
       "US": "",
       "JP": "",
       "CN": "*目标-打破水晶*",
-      "KR": "",
+      "KR": "*목표 - 결정체 파괴*",
       "TW": ""
     }
   },
@@ -93,20 +93,20 @@
     "translation": "*目标-摧毁绿色地板*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*OBJECTIVE - 緑色地面を破壊",
       "CN": "*目标-摧毁绿色地板*",
-      "KR": "",
-      "TW": ""
+      "KR": "*목표 - 초록색 바닥 파괴",
+      "TW": "目標 - 摧毀綠色地板"
     }
   },
   "*OBJECTIVE - Survive 45 sec*": {
     "translation": "*目标-生存45秒*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*OBJECTIVE - 45 sec 生存*",
       "CN": "*目标-生存45秒*",
-      "KR": "",
-      "TW": ""
+      "KR": "*목표 - 45sec 생존*",
+      "TW": "目標 - 生存 45 sec"
     }
   },
   "*VR-Mission 2 START*": {
@@ -116,17 +116,17 @@
       "JP": "",
       "CN": "*VR-任务2开始*",
       "KR": "",
-      "TW": ""
+      "TW": "*VR-任務 2 START*"
     }
   },
   "*VR-Mission 3 START*": {
     "translation": "*VR-任务3开始*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*VRミッション3 START*",
       "CN": "*VR-任务3开始*",
       "KR": "",
-      "TW": ""
+      "TW": "*VR-任務 3 START*"
     }
   }
 }

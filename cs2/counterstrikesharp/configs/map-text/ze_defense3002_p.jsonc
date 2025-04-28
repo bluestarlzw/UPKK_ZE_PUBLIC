@@ -3,19 +3,19 @@
     "translation": "*** 防守房子120s***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "屋を守って2分間持続する。",
       "CN": "*** 防守房子120s***",
-      "KR": "",
-      "TW": ""
+      "KR": "HOUSE 방어 2분 유지.",
+      "TW": "防守 HOUSE 2 分鐘。"
     }
   },
   "Doors will OPEN in 20 seconds.": {
     "translation": "*** 门将在20s内打开***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアは20秒後でOPENになります。",
       "CN": "*** 门将在20s内打开***",
-      "KR": "",
+      "KR": "문은 20초 후에 열립니다.",
       "TW": ""
     }
   },
@@ -23,10 +23,10 @@
     "translation": "*** 地图由warluthy制作 翻译：Asteri3m ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "マップを作成したwarluthy。",
       "CN": "*** 地图由warluthy制作 翻译：Asteri3m ***",
-      "KR": "",
-      "TW": ""
+      "KR": "맵을 만든 warluthy.",
+      "TW": "地圖由warluthy创建。"
     }
   },
   "Second Doors will OPEN in 50 seconds.": {
@@ -35,18 +35,18 @@
       "US": "",
       "JP": "",
       "CN": "*** 第二扇门将在50s内打开***",
-      "KR": "",
-      "TW": ""
+      "KR": "두 번째 문은 50초 후에 열립니다.",
+      "TW": "第2道門将在50秒後開啟。"
     }
   },
   "You will be teleported in 2 minutes.": {
     "translation": "*** 你将在120s内被传送***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "あなたは2分後にテレポーテーションされます。",
       "CN": "*** 你将在120s内被传送***",
-      "KR": "",
-      "TW": ""
+      "KR": "您将在2分钟后来到此处。",
+      "TW": "您將在2分鐘後被 TELEPORTED。"
     }
   }
 }

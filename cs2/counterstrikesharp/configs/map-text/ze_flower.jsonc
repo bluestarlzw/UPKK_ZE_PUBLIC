@@ -3,17 +3,17 @@
     "translation": "< 10秒 >",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "10 秒undos",
       "CN": "< 10秒 >",
       "KR": "",
-      "TW": ""
+      "TW": "10 秒鐘 >"
     }
   },
   "< 15  seconds >": {
     "translation": "< 15秒 >",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "15 秒",
       "CN": "< 15秒 >",
       "KR": "",
       "TW": ""
@@ -23,17 +23,17 @@
     "translation": "< 20秒 >",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "20 秒",
       "CN": "< 20秒 >",
       "KR": "",
-      "TW": ""
+      "TW": "20 秒"
     }
   },
   "< 25  seconds >": {
     "translation": "< 25秒 >",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "25 秒",
       "CN": "< 25秒 >",
       "KR": "",
       "TW": ""
@@ -43,9 +43,9 @@
     "translation": "< 30秒 >",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "30 秒",
       "CN": "< 30秒 >",
-      "KR": "",
+      "KR": "< 30  초 >",
       "TW": ""
     }
   },
@@ -53,17 +53,17 @@
     "translation": "< 32秒 >",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "< 32 秒 >",
       "CN": "< 32秒 >",
-      "KR": "",
-      "TW": ""
+      "KR": "< 32  초 >",
+      "TW": "[32秒]"
     }
   },
   "< 35  seconds >": {
     "translation": "< 35秒 >",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "< 35 秒 >",
       "CN": "< 35秒 >",
       "KR": "",
       "TW": ""

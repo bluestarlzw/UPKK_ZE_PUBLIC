@@ -2,21 +2,21 @@
   "***一楼的阀门已触发***": {
     "translation": "***一楼的阀门已触发***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "***The valve on the first floor has been triggered***",
+      "JP": "***1階の弁がTriggerされた***",
       "CN": "***一楼的阀门已触发***",
-      "KR": "",
-      "TW": ""
+      "KR": "***일층의 다포지가 활성화됨***",
+      "TW": "***1樓的閥門已觸發***"
     }
   },
   "***二楼的阀门已触发***": {
     "translation": "***二楼的阀门已触发***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "***The valve on the second floor has been triggered***",
+      "JP": "***2階の弁がTriggerされました***",
       "CN": "***二楼的阀门已触发***",
-      "KR": "",
-      "TW": ""
+      "KR": "두층의 배관이 작동되었습니다***",
+      "TW": "***2樓的閥門已觸發***"
     }
   },
   "-20s-": {

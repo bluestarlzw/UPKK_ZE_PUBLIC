@@ -2,11 +2,11 @@
   "*第一关*": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "*[First Level]*",
       "JP": "",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "*첫번째關*",
+      "TW": "*第1關*"
     }
   },
   ">>30S<<": {
@@ -22,11 +22,11 @@
   "\"僵尸获得了《毒池》\"": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Zombies acquired The Poison Pool",
+      "JP": "「ゾンビが『毒池』を獲得した」",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "\"좀비가 <<독나무>>을 획득함\"",
+      "TW": "殭屍獲得《毒池》_"
     }
   },
   ">>5S<<": {
@@ -42,231 +42,231 @@
   ">>> 一位人类习得了医疗魔法 <<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "US": ">> A human has learned healing magic <<",
+      "JP": ">>> 人類が医療魔法を習得した <<<",
+      "CN": ">>> 1位人类学会了治疗魔法 <<<",
+      "KR": ">>> 인간이 의술 마법을 습득했습니다 <<<",
+      "TW": ">>> 1位人類習得了醫療法術 <<<"
     }
   },
   "\"僵尸获得了《刀锋》\"": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Zombies obtained Blade Edge",
+      "JP": "「ゾンビに『刀锋』が獲得されました」",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "ゾンビに『刀锋』が Drop しました",
+      "TW": "殭尸獲得《刀鋒》"
     }
   },
   ">>> 一位人类习得了卡尔的智慧 <<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">> A human mastered Karl's wisdom <<",
+      "JP": ">>> 人类がカルの智恵を習得した <<<",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 인간이 칼의 지혜를 습득함 <<<",
+      "TW": ">>> 1位人類習得了卡尔的智慧 <<<"
     }
   },
   "*第一关通过*": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*First Level Passed*",
+      "JP": "※１章通過*",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "*첫 번째關通過*",
+      "TW": "*第1關通過*"
     }
   },
   "*第二关*": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "*Level 2*",
       "JP": "",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "*2라운드*",
+      "TW": "*第2關*"
     }
   },
   "\"僵尸获得了《收割》\"": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Zombies obtained The Harvest",
+      "JP": "ゾンビは「收割」を得た",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "\"ゾンビは《収穫》を獲得した\"",
+      "TW": "\"殭屍獲得《收割》\""
     }
   },
   ">>> 一位人类习得了罗生门 <<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">> A human mastered Rashomon <<Präsident",
+      "JP": ">>> 人類がロシングマムを習得 <<<",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 인간이 로생문을 익혔습니다 <<<",
+      "TW": ">>> 1位人類習得了羅生門 <<<"
     }
   },
   ">>> 一位人类习得萨科 <<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">>> A Human Learns Sako <<<",
+      "JP": ">>> 人類がサコを得る <<<",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 인간이 사코를 배웠<<<",
+      "TW": ">>> 1位人類習得薩科 <<<"
     }
   },
   "*第二关通过*": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "US": "*Pass the 2nd Level*",
+      "JP": "*2章通過*",
+      "CN": "*通过第2关*",
+      "KR": "*2라운드 통과*",
+      "TW": "*通過第2關*"
     }
   },
   "*第三关*": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*Third Level*",
+      "JP": "***3章***",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "* THIRD STAGE *",
+      "TW": "第3關"
     }
   },
   ">>> 一位人类习得壁垒<<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "US": ">> A human learns壁垒<<",
+      "JP": ">>> 人類が習得した壁 <<<",
+      "CN": ">>> 1名人类掌握屏障<<<",
+      "KR": ">>> 인간이 배운 벽 <<<",
+      "TW": ">>> 1位人類習得壁壘<<<"
     }
   },
   "*第三关通过*": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "US": "*Pass the 3rd Level*",
+      "JP": "第三关通過",
+      "CN": "*通关第3关*",
+      "KR": "* THIRD關通過 *",
+      "TW": "*第3關通過*"
     }
   },
   ">>> 一位人类习得了厄斐琉斯 <<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">> A human has mastered Yorick <<",
+      "JP": ">>> 人類がエフェリウスを習得した <<<",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 인간이 엘피루스를 배웠습니다 <<<",
+      "TW": ">>> 1位人類習得了厄斐魯斯 <<<"
     }
   },
   ">>> 一位人类习得了凤凰之炽 <<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "US": ">> A human has mastered the Phoenix's Flame <<",
+      "JP": ">>> 人類が鳳凰の炎を習得した <<<",
+      "CN": ">>> 1位人类学会了凤凰之炎 <<<",
+      "KR": ">>> 인간이 화염새의 불꽃을 익혔다 <<<",
+      "TW": ">>> 1位人類習得了1位鳳凰之炎 <<<"
     }
   },
   ">>> 一位人类习得冲击<<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "US": ">> A Human Learns Impact <<",
+      "JP": ">>> 人類が習得したインパクト<<<",
+      "CN": ">>> 1名人类学会冲击<<<",
+      "KR": ">>> 인간이 충격을 습득<<<",
+      "TW": ">>> 1位人類習得衝擊<<<"
     }
   },
   ">>> 一位人类习得水瀑<<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "US": ">> A human learns waterfall <<",
+      "JP": ">>> 人類が習得した滝<<<",
+      "CN": ">>> 1位人类习得瀑布<<<",
+      "KR": ">>> 인류가 물 폭포를 배움 <<<",
+      "TW": ">>> 1位人類習得水瀑<<"
     }
   },
   ">>> 一位人类习得了冰刺 <<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "US": ">> A human mastered Ice Spikes <<",
+      "JP": ">>> 人類が氷刺を習得した <<<",
+      "CN": ">>> 1位人类学会了冰刺 <<<",
+      "KR": ">>> 인간이 얼음 송곳니를 익혔다 <<<",
+      "TW": ">>> 1位人類習得了冰刺 <<<"
     }
   },
   ">>> 一位人类习得了直线风 <<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">> A human mastered the Straight Wind <<",
+      "JP": ">>> 人類が直線風を習得した <<<",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 인간이 직선풍을 익혔습니다 <<<",
+      "TW": ">>> 1位人類習得了1線風 <<<"
     }
   },
   "\"僵尸获得了《须臾》\"": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "US": "\"Zombies acquired 《须臾》\"",
+      "JP": "「ゾンビに『須臾』が獲得された」",
+      "CN": "“丧尸获得了《须臾》”",
+      "KR": "\"좀비가 《ɨsusɨmu》에 얽혔다\"",
+      "TW": "\"殭屍获得了《須臾》\""
     }
   },
   ">>> 一位玩家成为了龙骑士<<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">> A player became a Dragon Knight <<<",
+      "JP": ">>> 一位プレイヤーがドラゴンナイトとなりました <<<",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 한 플레이어가 용기사가 되었습니다 <<<",
+      "TW": ">>> 1位玩家成為了龍騎士<<<"
     }
   },
   ">>> 一位玩家成为了尤涅若<<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": ">> A player became Yuneao <<<",
       "JP": "",
       "CN": "",
-      "KR": "",
+      "KR": ">>> 한 플레이어가 유네로로 변신했습니다 <<<",
       "TW": ""
     }
   },
   "*第四关*": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*Level 4*",
+      "JP": "※第4关※",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "*[4라운드]*",
+      "TW": "第4關"
     }
   },
   "*第四关通过*": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*Pass the 4th Level*",
+      "JP": "*第4关通過*",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "* FOURTH關通過 *",
+      "TW": "*第4關通過*"
     }
   },
   "*ZM*": {
@@ -282,31 +282,31 @@
   "*240s后核爆*": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*Nuclear strike in 240s*",
+      "JP": "※240s後核爆*",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "*240s 후 핵폭파*",
+      "TW": "240s後核爆"
     }
   },
   "\"僵尸获得了《自爆》\"": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Zombies gained Self-Destruct.",
+      "JP": "「ゾンビに『自爆』获得」",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "\"행렬수가 폭발을 얻었습니다.\"",
+      "TW": "僵尸獲得《自爆》"
     }
   },
   "\"僵尸获得了《流星》\"": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Zombies obtained The Meteor Shower",
+      "JP": "ゾンビに『流星』が追加されました",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "\"좀비가 《流星》을 얻었다\"",
+      "TW": "zombies 获得了《流星》"
     }
   }
 }

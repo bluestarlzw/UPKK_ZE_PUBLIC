@@ -2,111 +2,111 @@
   ">>> 作者 Map by：港村村长 <<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">> Author Map by：Port Village Chief <<<",
+      "JP": ">>> 著者 地図by：港村村長 <<<",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 작가 맵_by：항촌촌장 <<<",
+      "TW": ">>> 著作權保留 港村村長 圖形設計 <<<"
     }
   },
   ">>> 移植 Port by：凯尔希的老公 <<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">>>移植 Port by：Kaelin's Husband <<<",
+      "JP": ">>> 移植 Port by：ケイシの夫 <<<",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 移植 Port by：케일시의 남편 <<<",
+      "TW": ">>> 移植 Port 由：凱爾希的老公 <<<"
     }
   },
   ">>> 10秒后开始传送 <<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">> 10 seconds until teleportation <<",
+      "JP": ">>> 10秒後に送信開始 <<<",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 10초 후 전송 시작 <<<",
+      "TW": ">>> 10秒後開始傳送 <<<"
     }
   },
   ">>> 尸笼15秒后释放 <<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": ">> Corpse Cage 15 seconds later <<",
       "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": ">>> 15秒后释放 <<<",
+      "KR": ">>> 시체 래프트 15초 후 해제 <<<",
+      "TW": ">>> 尸籠15秒後釋放 <<<"
     }
   },
   ">>> 防守60秒后人类传送 <<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">> Defend for 60 seconds then humans teleported <<",
+      "JP": ">>> 守备60秒後人類 TELEPORT <<<",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 방어 60초 후 인간 전송 <<<",
+      "TW": ">>> 防守60秒後人類傳送 <<<"
     }
   },
   ">>> 30秒集体传送 <<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "US": ">> 30-second Group Teleport <<",
+      "JP": ">>> 30秒集団 teleport <<<",
+      "CN": ">>> 30秒全体传送 <<<",
+      "KR": ">>> 30초 동안 전군 이동 <<<",
+      "TW": ">>> 30秒集体傳送 <<<"
     }
   },
   ">>> 40秒后集体传送 <<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">> 40 seconds later, group teleport <<",
+      "JP": ">>> 40秒後集団 TELEPORT <<<",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 40초 후 대규모 전송 <<<",
+      "TW": ">>> 40秒後集體傳送 <<<"
     }
   },
   ">>> 60秒后断桥 <<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">> 60 seconds later, the bridge will collapse <<",
+      "JP": ">> 60秒後断橋 <<",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 60초 후 다리 붕괴 <<",
+      "TW": ">>> 60秒後斷橋 <<<"
     }
   },
   ">>> 10秒后集体传送 <<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">> 10 seconds till group teleport <<",
+      "JP": ">>> 10秒後集団 TELEPORT <<<",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 10초 후 전체 전송 <<<",
+      "TW": ">>> 10秒後集體傳送 <<<"
     }
   },
   ">>> 5秒后集体传送 <<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "US": ">> 5 seconds later, collective teleportation <<",
+      "JP": ">>> 5秒后集団 TELEPORT <<<",
+      "CN": ">>> 5秒后全体传送到 <<<",
+      "KR": ">>> 5초 후 전체 전송 <<<",
+      "TW": ">>> 5秒後集體傳送 <<<"
     }
   },
   ">>> 10秒后断桥 <<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">> 10 seconds until the bridge collapses <<",
+      "JP": ">>> 10秒後斷橋 <<<",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 10초 후 다리 붕괴 <<<",
+      "TW": ">> 10秒後斷橋 <<<"
     }
   }
 }

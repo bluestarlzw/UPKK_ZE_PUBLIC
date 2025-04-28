@@ -3,9 +3,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
+      "JP": "マッパー：ジェイソン",
+      "CN": "测绘员：Jayson",
+      "KR": "맵퍼:ジェイソン",
       "TW": ""
     }
   },
@@ -13,10 +13,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "マップ:Zm_Zone13",
+      "CN": "地图：Zm_Zone13",
+      "KR": "맵:Zm_Zone13",
+      "TW": "地圖：Zm_Zone13"
     }
   }
 }

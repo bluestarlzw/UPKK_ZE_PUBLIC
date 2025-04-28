@@ -12,11 +12,11 @@
   "...": {
     "translation": "...",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "【Start Translating】",
+      "JP": "Text:",
       "CN": "...",
       "KR": "",
-      "TW": ""
+      "TW": "【開始翻譯】"
     }
   },
   "100s": {
@@ -63,7 +63,7 @@
     "translation": "20秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "20秒",
       "CN": "20秒",
       "KR": "",
       "TW": ""
@@ -113,9 +113,9 @@
     "translation": "50秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "50sekундов",
       "CN": "50秒",
-      "KR": "",
+      "KR": "50sek",
       "TW": ""
     }
   },
@@ -133,50 +133,50 @@
     "translation": "一个新地方。看起来那东西还在跟着我",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "新しい場所です。その东西 Still following me",
       "CN": "一个新地方。看起来那东西还在跟着我",
-      "KR": "",
-      "TW": ""
+      "KR": "신규 장소입니다. 아직 그 게임물은 나를 따르고 있는 것 같습니다.",
+      "TW": "新的地方。看起來那東西還是在跟着我。"
     }
   },
   "Let's see where this elevator takes me": {
     "translation": "看看这个电梯会带我去哪里",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "このエレベーターはどこまで連れて Coming here",
       "CN": "看看这个电梯会带我去哪里",
-      "KR": "",
-      "TW": ""
+      "KR": "이levator가 나를 어디로 데려가는지 보자",
+      "TW": "讓我們看看這部升降機會帶我去哪里"
     }
   },
   "Lv1": {
     "translation": "第一关",
     "MultiLang": {
-      "US": "",
+      "US": "Level 1",
       "JP": "",
       "CN": "第一关",
-      "KR": "",
+      "KR": "레벨 1",
       "TW": ""
     }
   },
   "Lv2": {
     "translation": "第二关",
     "MultiLang": {
-      "US": "",
+      "US": "Level 2",
       "JP": "",
       "CN": "第二关",
-      "KR": "",
-      "TW": ""
+      "KR": "레벨 2",
+      "TW": "等級2"
     }
   },
   "Lv3": {
     "translation": "第三关",
     "MultiLang": {
-      "US": "",
+      "US": "Level3",
       "JP": "",
       "CN": "第三关",
-      "KR": "",
-      "TW": ""
+      "KR": "레벨3",
+      "TW": "等級3"
     }
   },
   "RTV": {
@@ -195,8 +195,8 @@
       "US": "",
       "JP": "",
       "CN": "护盾 冷却八十秒",
-      "KR": "",
-      "TW": ""
+      "KR": "IELD    cd80s",
+      "TW": "防禦    cd80s"
     }
   },
   "[. . . . . . .]": {
@@ -235,7 +235,7 @@
       "US": "",
       "JP": "",
       "CN": "管理员设置 Rtv1",
-      "KR": "",
+      "KR": "관리자 설정 Rtv1",
       "TW": ""
     }
   },
@@ -243,29 +243,29 @@
     "translation": "管理员设置 Rtv2",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "管理者設定 Rtv2",
       "CN": "管理员设置 Rtv2",
-      "KR": "",
-      "TW": ""
+      "KR": "관리자 설정 Rtv2",
+      "TW": "管理员設定Rtv2"
     }
   },
   "admin set lv1": {
     "translation": "管理员设置 Lv1",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "管理者設定Lv1",
       "CN": "管理员设置 Lv1",
-      "KR": "",
-      "TW": ""
+      "KR": "관리자 설정 레벨 1",
+      "TW": "管理员設置Lv1"
     }
   },
   "admin set lv2": {
     "translation": "管理员设置 Lv2",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "管理者設定Lv2",
       "CN": "管理员设置 Lv2",
-      "KR": "",
+      "KR": "관리자 설정 lv2",
       "TW": ""
     }
   },
@@ -273,30 +273,30 @@
     "translation": "管理员设置 Lv3",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "管理者設定Lv3",
       "CN": "管理员设置 Lv3",
-      "KR": "",
-      "TW": ""
+      "KR": "관리자 설정 lv3",
+      "TW": "管理员設定Lv3"
     }
   },
   "gravity cd60s": {
     "translation": "黑洞 冷却六十秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Gravity CD60s",
       "CN": "黑洞 冷却六十秒",
-      "KR": "",
-      "TW": ""
+      "KR": "중력 cd60s",
+      "TW": "重力cd60s"
     }
   },
   "too late": {
     "translation": "太晚了",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "遅すぎた",
       "CN": "太晚了",
-      "KR": "",
-      "TW": ""
+      "KR": "너무 늦었다",
+      "TW": "太晚了"
     }
   },
   "<? ? ?>": {

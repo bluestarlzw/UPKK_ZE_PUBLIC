@@ -3,29 +3,29 @@
     "translation": "**Biosyn Huey正在接近-预计到达时间15秒**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** バイオスYN ウィ游戏操作中 - ETL 15秒 ***",
       "CN": "**Biosyn Huey正在接近-预计到达时间15秒**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** Biosyn Huey 이进城 - ETA 15 초 ***",
+      "TW": "** Biosyn Huey 入航 - 預計到達時間 15 秒 **"
     }
   },
   "** Call the mainland - Tell them to send the damn helicopters! **": {
     "translation": "**呼叫大陆-告诉他们派来该死的直升机！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 洲本に戻れ - ダンマPUTE直升機を送らせるんだ！ ***",
       "CN": "**呼叫大陆-告诉他们派来该死的直升机！**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 본토에 통화 - heli를 보내라고伝达给他们！ ***",
+      "TW": "*** 叫大陸 - 訪告他們快點派那些該死的直升機！ ***"
     }
   },
   "** Generator override enabled **": {
     "translation": "**发电机覆盖已启用**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** ジェネレータオーバライド有効 ***",
       "CN": "**发电机覆盖已启用**",
-      "KR": "",
+      "KR": "*** 생성기 오버라이드 활성화 ***",
       "TW": ""
     }
   },
@@ -33,30 +33,30 @@
     "translation": "**准备好**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**準備完了**",
       "CN": "**准备好**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 준비해주세요 **",
+      "TW": "**準備好preneur**"
     }
   },
   "** Nerve gas released ** ": {
     "translation": "**神经毒气释放**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***神経ガス放出***",
       "CN": "**神经毒气释放**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 뉴런 기체 방출 ***",
+      "TW": "**神經毒氣釋放**"
     }
   },
   "** Power has been lost to Jurassic Park **": {
     "translation": "**侏罗纪公园的电力已失去**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ジュラシックパークの電力が失われた***",
       "CN": "**侏罗纪公园的电力已失去**",
-      "KR": "",
-      "TW": ""
+      "KR": "***侏罗纪公园的电力已经丧失***",
+      "TW": "**电源已失去對侏羅紀公園的供應**"
     }
   },
   "** Run! **": {
@@ -65,28 +65,28 @@
       "US": "",
       "JP": "",
       "CN": "**快跑！**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 뛰어라! **",
+      "TW": "**跑！**"
     }
   },
   "** SECURE THE LZ ** ": {
     "translation": "**确保着陆区安全**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** LZ を確保する **",
       "CN": "**确保着陆区安全**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 보안 점검소 **",
+      "TW": "** 保衛LZ **"
     }
   },
   "** Wait for other survivors 25  seconds **": {
     "translation": "**等待其他幸存者25秒**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***他の-survivors 25 秒 待って-***",
       "CN": "**等待其他幸存者25秒**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 다른 생존자们等待25秒 **",
+      "TW": "**等 OTHER SURVIVORS 25 秒**"
     }
   }
 }

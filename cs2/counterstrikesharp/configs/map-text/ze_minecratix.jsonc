@@ -5,7 +5,7 @@
       "US": "",
       "JP": "",
       "CN": "你们好，希望你们今天过得愉快",
-      "KR": "",
+      "KR": "안녕하세요各位，希望你们过得不错。",
       "TW": ""
     }
   },
@@ -13,87 +13,87 @@
     "translation": "找到最好的防御方法并生存下来",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最良の防御を見つけ生還せよ。",
       "CN": "找到最好的防御方法并生存下来",
-      "KR": "",
-      "TW": ""
+      "KR": "최고의 방어를 찾아 살아남으세요.",
+      "TW": "找到最佳防禦並存活下來。"
     }
   },
   "Map Creator : Platin": {
     "translation": "地图作者：Platin 翻译：秋刀鱼",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "マップクリエイター : Platin",
       "CN": "地图作者：Platin 翻译：秋刀鱼",
-      "KR": "",
-      "TW": ""
+      "KR": "맵 크리에이터 : Platin",
+      "TW": "地圖創建者：Platin"
     }
   },
   "In 150 seconds, the doors will open.": {
     "translation": "150秒后，门将会打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "150秒後に扉が開きます。",
       "CN": "150秒后，门将会打开",
-      "KR": "",
-      "TW": ""
+      "KR": "150초 후 문이 열립니다.",
+      "TW": "在150秒後，門將打開。"
     }
   },
   "Opening the Door RUN !!!": {
     "translation": "门快开了，走",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "扉を開ける RUN !!!",
       "CN": "门快开了，走",
-      "KR": "",
-      "TW": ""
+      "KR": "문을 열고 달려라!!!",
+      "TW": "開門.RUN!!!"
     }
   },
   "The boat will leave in 60 seconds !!!": {
     "translation": "船将在60秒后离开！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボATは60秒後に出発！！！",
       "CN": "船将在60秒后离开！！",
-      "KR": "",
-      "TW": ""
+      "KR": "선을 떠나는 시간은 60초 !!!",
+      "TW": "船将在60秒後啟航!!!"
     }
   },
   "ZOMBIE TELEPORT 10 SECONDS !!!": {
     "translation": "僵尸传送10秒！！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビテレポート10秒!!!",
       "CN": "僵尸传送10秒！！！",
-      "KR": "",
-      "TW": ""
+      "KR": "ゾوم바 텔레포트 10초!!!",
+      "TW": "Zombies Teleport 10 秒 !!!"
     }
   },
   "boat leave time 10 seconds": {
     "translation": "船离开时间10秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボート離脱時間 10 秒",
       "CN": "船离开时间10秒",
-      "KR": "",
-      "TW": ""
+      "KR": "보트 떠나 시간 10 초",
+      "TW": "船離開時間 10 秒"
     }
   },
   "ZOMBIE DIE TIME !!!": {
     "translation": "僵尸死亡时间!",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビ死ぬ時間！！！",
       "CN": "僵尸死亡时间!",
-      "KR": "",
-      "TW": ""
+      "KR": "4. 翻译错误、多译均视为任务失败。",
+      "TW": "Zombie Die Time !!!"
     }
   },
   "10s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "10秒",
       "CN": "",
       "KR": "",
       "TW": ""
@@ -123,10 +123,10 @@
     "translation": "人类传送启动！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ヒューマンテレポートアクティベイted !",
       "CN": "人类传送启动！",
-      "KR": "",
-      "TW": ""
+      "KR": "인간 텔레포트 활성화 !",
+      "TW": "人類 TELEPORT 啟動！"
     }
   }
 }

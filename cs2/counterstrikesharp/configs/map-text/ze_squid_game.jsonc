@@ -25,8 +25,8 @@
       "US": "",
       "JP": "",
       "CN": "5秒，BOSS使用电，蹲下！！！",
-      "KR": "",
-      "TW": ""
+      "KR": "보스 사용 전기 !!",
+      "TW": "BOSS 使用電擊 !!!"
     }
   },
   "BOSS USE LASERS !!!": {
@@ -35,8 +35,8 @@
       "US": "",
       "JP": "",
       "CN": "5秒，BOSS使用跳刀！！！",
-      "KR": "",
-      "TW": ""
+      "KR": "보스 사용자리어!!!",
+      "TW": "BOSS 使用激光!!!"
     }
   },
   "BOSS USE WIND !!!": {
@@ -45,67 +45,67 @@
       "US": "",
       "JP": "",
       "CN": "5秒，BOSS使用风！！！",
-      "KR": "",
-      "TW": ""
+      "KR": "BOSS 사용 Wind!!!",
+      "TW": "BOSS 使用風!!!!!"
     }
   },
   "DEFEND ZOMBIES FOR 40 SEC": {
     "translation": "防守僵尸40秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビを40秒間防ごう",
       "CN": "防守僵尸40秒",
-      "KR": "",
-      "TW": ""
+      "KR": "존 Dead Zinc FOR 40 SEC",
+      "TW": "防守殭屍 40 秒"
     }
   },
   "DOOR OPENING IN 20 SEC": {
     "translation": "门将在20秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドア開けは20秒後に",
       "CN": "门将在20秒后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 열리는 중입니다. 20초 후열립니다.",
+      "TW": "門將在20秒後開啟"
     }
   },
   "DOOR OPENING IN 30 SEC": {
     "translation": "门将在30秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアが開くまで30秒",
       "CN": "门将在30秒后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 열리는 중입니다. 30SEC",
+      "TW": "門將在30秒後開啟"
     }
   },
   "DOOR OPENING IN 40 SEC": {
     "translation": "门将在40秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアの開き開始まで40秒",
       "CN": "门将在40秒后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "문 열리는 중인 중 40초 후",
+      "TW": "門將在40秒後開啟"
     }
   },
   "DOOR OPENING IN 60 SEC": {
     "translation": "门将在60秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドア開け開始 60SEC",
       "CN": "门将在60秒后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 열리는 중입니다. 60초 후 오픈",
+      "TW": "門將在60秒後開啟"
     }
   },
   "LOOK DOWN !!!!": {
     "translation": "5秒，向下看！！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "見下ろせ!!!!",
       "CN": "5秒，向下看！！！",
-      "KR": "",
+      "KR": "바라보세요!!!!!",
       "TW": ""
     }
   },
@@ -125,7 +125,7 @@
       "US": "",
       "JP": "",
       "CN": "生存70秒",
-      "KR": "",
+      "KR": "생존 70SEC",
       "TW": ""
     }
   },
@@ -133,10 +133,10 @@
     "translation": "僵尸消失了！去门那里！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビはいなくなった！ドアへ行け;!",
       "CN": "僵尸消失了！去门那里！",
-      "KR": "",
-      "TW": ""
+      "KR": "Zombies ARE GONE! GO TO THE DOOR!",
+      "TW": "Zombies ARE GONE ! GO TO THE DOOR !"
     }
   }
 }

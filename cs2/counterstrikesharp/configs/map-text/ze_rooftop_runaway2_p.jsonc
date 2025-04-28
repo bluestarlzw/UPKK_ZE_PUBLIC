@@ -3,119 +3,119 @@
     "translation": "门正在关闭",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアは閉まっています",
       "CN": "门正在关闭",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 닫히고 있습니다",
+      "TW": "門正在關閉"
     }
   },
   "DOOR IS NOW OPEN!!": {
     "translation": "门现在打开了！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアは今開きました!!",
       "CN": "门现在打开了！！",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 이제 열렸습니다!!",
+      "TW": "門現在開啟!!"
     }
   },
   "DOOR WILL CLOSE IN 10 SECONDS.": {
     "translation": "门将在 10 秒后关闭。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアは10秒後に閉鎖されます。",
       "CN": "门将在 10 秒后关闭。",
-      "KR": "",
-      "TW": ""
+      "KR": "문은 10초 후에 닫힙니다.",
+      "TW": "門將在10秒後關閉。"
     }
   },
   "DOOR WILL CLOSE IN 5 SECONDS.": {
     "translation": "门将在 5 秒后关闭。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアは5秒後に閉まります。",
       "CN": "门将在 5 秒后关闭。",
-      "KR": "",
-      "TW": ""
+      "KR": "문은 5초 후에 닫힙니다.",
+      "TW": "门將在5秒後關閉。"
     }
   },
   "DOOR WILL OPEN IN 10 SECONDS.": {
     "translation": "门将在 10 秒后打开。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアは10秒後に開きます。",
       "CN": "门将在 10 秒后打开。",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 10초 후에 열립니다.",
+      "TW": "門將在10秒後打開。"
     }
   },
   "DOOR WILL OPEN IN 120 SECONDS.": {
     "translation": "门将在 120 秒后打开。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアは120秒後に開きます。",
       "CN": "门将在 120 秒后打开。",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 열리는 시간은 120초 후입니다.",
+      "TW": "門將在120秒後開啟。"
     }
   },
   "DOOR WILL OPEN IN 15 SECONDS.": {
     "translation": "门将在 15 秒后打开。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアは15秒後開きます。",
       "CN": "门将在 15 秒后打开。",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 15초 후에 열립니다.",
+      "TW": "門將在15秒後開啟。"
     }
   },
   "DOOR WILL OPEN IN 30 SECONDS.": {
     "translation": "门将在 30 秒后打开。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアは30秒後に開きます。",
       "CN": "门将在 30 秒后打开。",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 30초 후에 열립니다.",
+      "TW": "門將在30秒後開啟。"
     }
   },
   "DOOR WILL OPEN IN 5 SECONDS.": {
     "translation": "门将在 5 秒后打开。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアは5秒後に開きます。",
       "CN": "门将在 5 秒后打开。",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 5초 후에 열립니다.",
+      "TW": "門將在5秒後開啟。"
     }
   },
   "DOOR WILL OPEN IN 60 SECONDS.": {
     "translation": "门将在 60 秒后打开。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアは60秒後に開きます。",
       "CN": "门将在 60 秒后打开。",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 60초 후에 열립니다.",
+      "TW": "門將在60秒後開啟。"
     }
   },
   "DOOR WILL OPEN IN 90 SECONDS.": {
     "translation": "门将在 90 秒后打开。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアは90秒後に開きます。",
       "CN": "门将在 90 秒后打开。",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 90초 후에 열립니다.",
+      "TW": "門將在90秒後打開。"
     }
   },
   "INCOMING AIRSTRIKE!!": {
     "translation": "空袭即将来临！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "イン darmi アイムストライク!!",
       "CN": "空袭即将来临！！",
-      "KR": "",
+      "KR": "인comings.airstrike!!",
       "TW": ""
     }
   },
@@ -123,9 +123,9 @@
     "translation": "地图由 GARGANTUA 制作 翻译：Ayanami♪",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "マップを制作しました GARGANTUA",
       "CN": "地图由 GARGANTUA 制作 翻译：Ayanami♪",
-      "KR": "",
+      "KR": "맵 제작자: gargantua",
       "TW": ""
     }
   }

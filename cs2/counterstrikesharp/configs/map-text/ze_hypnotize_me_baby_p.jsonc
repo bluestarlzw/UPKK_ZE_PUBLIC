@@ -4,7 +4,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
+      "CN": "欢迎来到：hypnotize me baby",
       "KR": "",
       "TW": ""
     }
@@ -13,7 +13,7 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "MAP CREATED BY : ナラカ",
       "CN": "",
       "KR": "",
       "TW": ""
@@ -23,9 +23,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "テレポート開始まで10秒",
       "CN": "",
-      "KR": "",
+      "KR": "< 10초 후 텔레포트 인입 >",
       "TW": ""
     }
   },
@@ -33,10 +33,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< 15秒後にドア開く >",
+      "CN": "门 15 秒后开启",
+      "KR": "< 15초 후 문 열림 >",
+      "TW": "門将在15秒後打開"
     }
   },
   "< ILLUSION ACTIVATED >": {
@@ -44,8 +44,8 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
-      "KR": "",
+      "CN": "幻象激活",
+      "KR": "<幻想启动>",
       "TW": ""
     }
   },
@@ -53,10 +53,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ドアが30秒後に開きます>",
+      "CN": "门将在30秒后打开",
+      "KR": "< 30초 후 문이 열립니다 >",
+      "TW": "門将在30秒後開啟"
     }
   },
   "< THE SECOND PATH IS OPENED >": {
@@ -65,7 +65,7 @@
       "US": "",
       "JP": "",
       "CN": "",
-      "KR": "",
+      "KR": "< 두 번째 길이 열렸습니다 >",
       "TW": ""
     }
   },
@@ -83,19 +83,19 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "扉は近々開くべきです",
+      "CN": "门应尽快开启",
+      "KR": "문은 곧 열릴 것입니다 >",
+      "TW": "<門應當很快打開>"
     }
   },
   "< ZOMBIE SHORTCUT IS ACTIVATED >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
+      "JP": "ゾンビショートカットがアクティブ化>>",
+      "CN": "僵尸快捷键已激活",
+      "KR": "< 브레인숏컷 활성화 >",
       "TW": ""
     }
   },
@@ -104,18 +104,18 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "幻象守护者破裂",
+      "KR": "<illusion protector breaks>",
+      "TW": "幻影保護者破壞"
     }
   },
   "< PLATFORM ACTIVATED >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "プラットフォームが活性化しました",
       "CN": "",
-      "KR": "",
+      "KR": "플랫폼 활성화됨",
       "TW": ""
     }
   },
@@ -123,9 +123,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<ゾンビズブリッジアクティベート>",
       "CN": "",
-      "KR": "",
+      "KR": "< Zombies Bridge Activated >",
       "TW": ""
     }
   },
@@ -134,39 +134,39 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "快捷方式将在5秒后开启",
+      "KR": "< 5초 후 단축키가 열립니다 >",
+      "TW": "捷徑将在5秒後開啟"
     }
   },
   "< THE SHORTCUT LADDER WILL BE AVAILABLED SOON  >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
+      "JP": "ショートカットランダルは近日中に利用可能となります。",
+      "CN": "快捷方式梯子将于近日开放 >",
       "KR": "",
-      "TW": ""
+      "TW": "捷徑等級將Soon可用"
     }
   },
   "< DOOR OPEN IN 10 SECONDS >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "Doors open in 10 seconds >>",
+      "CN": "门将在10秒后开启",
+      "KR": "< 10초 후 문이 열립니다 >",
+      "TW": "< Door open in 10 seconds >"
     }
   },
   "< DOOR CLOSED IN 15 SECONDS >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ドアが15秒後に閉鎖されます>>",
+      "CN": "门将在15秒后关闭",
+      "KR": "< 문이 15초 후에 닫힙니다 >",
+      "TW": "門關閉於15秒後"
     }
   },
   "< INCOMING BOSS FIGHT >": {
@@ -174,7 +174,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
+      "CN": "< 来袭BOSS战 >",
       "KR": "",
       "TW": ""
     }
@@ -184,7 +184,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
+      "CN": "时间限制 : 180 秒",
       "KR": "",
       "TW": ""
     }
@@ -203,10 +203,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "侵入開始",
+      "CN": "入侵",
+      "KR": "침입💬>> <<",
+      "TW": "<入侵>"
     }
   },
   "< ISOLATION >": {
@@ -214,9 +214,9 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
+      "CN": "< 隔离 >",
       "KR": "",
-      "TW": ""
+      "TW": "< 隔離 >"
     }
   },
   "< COLLAPSE >": {
@@ -225,7 +225,7 @@
       "US": "",
       "JP": "",
       "CN": "",
-      "KR": "",
+      "KR": "< 접기 >",
       "TW": ""
     }
   },
@@ -233,9 +233,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "エルフ語が消えated>",
       "CN": "",
-      "KR": "",
+      "KR": "< 엘프의 마법이 사라졌음 >",
       "TW": ""
     }
   },
@@ -243,10 +243,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "プラットフォームはここにあります >",
+      "CN": "平台在这里",
+      "KR": "플랫폼이 여기 있습니다 >",
+      "TW": "平台在此>>"
     }
   },
   "< TO BE CONTINUED STAGE 2 ! >": {
@@ -255,7 +255,7 @@
       "US": "",
       "JP": "",
       "CN": "",
-      "KR": "",
+      "KR": "< 계속됩니다 스테이지 2 ! >",
       "TW": ""
     }
   }

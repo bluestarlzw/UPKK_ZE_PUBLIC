@@ -2,71 +2,71 @@
   "*** LEVEL1 ***": {
     "translation": "*** 第1关 ***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*** LEVEL1 ***",
+      "JP": "*** LEVEL1 ***",
       "CN": "*** 第1关 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** LEVEL1 ***",
+      "TW": "*** LEVEL1 ***"
     }
   },
   "*** LEVEL2 ***": {
     "translation": "*** 第2关 ***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*** LEVEL2 ***",
+      "JP": "*** LEVEL2 ***",
       "CN": "*** 第2关 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** LEVEL2 ***",
+      "TW": "*** 標級2 ***"
     }
   },
   "*** LEVEL3 ***": {
     "translation": "*** 第3关 ***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*** LEVEL3 ***",
+      "JP": "*** LEVEL3 ***",
       "CN": "*** 第3关 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** LEVEL3 ***",
+      "TW": "*** 標準3 ***"
     }
   },
   "*** LEVEL4 ***": {
     "translation": "*** 第4关 ***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*** LEVEL4 ***",
+      "JP": "*** LEVEL4 ***",
       "CN": "*** 第4关 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** LEVEL4 ***",
+      "TW": "*** 標準4 ***"
     }
   },
   "*** RTV ***": {
     "translation": "*** RTV ***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*** RTV ***",
+      "JP": "*** RTV ***",
       "CN": "*** RTV ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** RTV ***",
+      "TW": "*** RTV ***"
     }
   },
   "*** RTV2 ***": {
     "translation": "*** RTV2 ***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*** RTV2 ***",
+      "JP": "*** RTV2 ***",
       "CN": "*** RTV2 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** RTV2 ***",
+      "TW": "*** RTV2 ***"
     }
   },
   "*** rtv ***": {
     "translation": "*** rtv ***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*** rtv ***",
+      "JP": "*** rtv ***",
       "CN": "*** rtv ***",
       "KR": "",
-      "TW": ""
+      "TW": "*** rtv ***"
     }
   }
 }

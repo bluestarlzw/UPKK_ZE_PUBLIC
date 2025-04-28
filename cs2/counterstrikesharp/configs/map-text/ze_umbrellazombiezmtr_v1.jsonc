@@ -3,9 +3,9 @@
     "translation": "*** 撤离协议已启动！！！ ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** エvacuatieプロトコルが開始されました!!! ***",
       "CN": "*** 撤离协议已启动！！！ ***",
-      "KR": "",
+      "KR": "*** 응급 철수 프로토콜이 시작되었습니다!!! ***",
       "TW": ""
     }
   },
@@ -13,9 +13,9 @@
     "translation": "*** 安全门将在25秒后打开！ ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** セキュリティドアは25秒後に開きます！ ***",
       "CN": "*** 安全门将在25秒后打开！ ***",
-      "KR": "",
+      "KR": "*** 보안 문이 25초 후에 열립니다! ***",
       "TW": ""
     }
   },
@@ -25,38 +25,38 @@
       "US": "",
       "JP": "",
       "CN": "10秒后门关闭，快跑",
-      "KR": "",
-      "TW": ""
+      "KR": "10초 후 문이 닫힙니다. 뛰세요.",
+      "TW": "10秒後門關上，快跑"
     }
   },
   "BOMBS ARE DETONED !!!": {
     "translation": "炸弹已引爆！！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Bombs are detonated!!!",
       "CN": "炸弹已引爆！！！",
-      "KR": "",
-      "TW": ""
+      "KR": "폭탄이 폭발했습니다!!!",
+      "TW": "Bombs are detonated!!!"
     }
   },
   "Control Panel: Security door opens! 25 sec": {
     "translation": "控制面板：安全门打开！25秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "制御パネル：セキュリティドア開启！25 sec",
       "CN": "控制面板：安全门打开！25秒",
-      "KR": "",
-      "TW": ""
+      "KR": "컨트롤 패널: 보안 문이 열립니다! 25 sec",
+      "TW": "控制面板：安全門開啟！25 sec"
     }
   },
   "Control Panel: Security door opens! 5 sec": {
     "translation": "控制面板：安全门打开！5秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "コントロールパネル：セキュリティドア開きます！5sec",
       "CN": "控制面板：安全门打开！5秒",
-      "KR": "",
-      "TW": ""
+      "KR": "CONTROL PANEL: 안전 문이 열립니다! 5 sec",
+      "TW": "控制面板：安全門開啟！5 sec"
     }
   },
   "Defend all 3 rooms": {
@@ -65,68 +65,68 @@
       "US": "",
       "JP": "",
       "CN": "防守所有3个房间",
-      "KR": "",
-      "TW": ""
+      "KR": "-defense 모든 3개의 방을 지켜라",
+      "TW": "防守所有3個房間"
     }
   },
   "Map Created By : Platin": {
     "translation": "地图作者：Platin 翻译：Asteri3m",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "マップを作成した : Platin",
       "CN": "地图作者：Platin 翻译：Asteri3m",
-      "KR": "",
-      "TW": ""
+      "KR": "맵 생성자 : Platin",
+      "TW": "地圖製作人 : Platin"
     }
   },
   "OPENING THE DOOR": {
     "translation": "打开门",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアを開ける",
       "CN": "打开门",
-      "KR": "",
-      "TW": ""
+      "KR": "문을 열lah",
+      "TW": "開啟門扉"
     }
   },
   "PRESS THE BUTTON TO OPEN THE SECURITY DOOR": {
     "translation": "按下按钮以打开安全门",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "セキュリティドアを開けるためにボタンを押してください",
       "CN": "按下按钮以打开安全门",
-      "KR": "",
-      "TW": ""
+      "KR": "보안 문을 열 若要打开安全门，请按下按钮",
+      "TW": "按下按鈕以開啟安全門檻"
     }
   },
   "Press the button in the security room": {
     "translation": "在安全室按下按钮",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "セキュリティ室でボタンを押してください",
       "CN": "在安全室按下按钮",
-      "KR": "",
-      "TW": ""
+      "KR": "보안실에서 버튼을 누르세요",
+      "TW": "在監控室按!\");"
     }
   },
   "Press the security button and go to the exit": {
     "translation": "按下安全按钮并前往出口",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "セキュリティボタンを押して出口に進みます",
       "CN": "按下安全按钮并前往出口",
-      "KR": "",
-      "TW": ""
+      "KR": "보안 버튼을 눌러 출구로 이동하세요",
+      "TW": "按安全掣離開現場"
     }
   },
   "Test Servers : Mapeadores | GFL | ZMTR": {
     "translation": "测试服务器：Mapeadores | GFL | ZMTR",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "テストサーバー: マープラダーやGFLやZMTR",
       "CN": "测试服务器：Mapeadores | GFL | ZMTR",
-      "KR": "",
-      "TW": ""
+      "KR": "테스트 서버 : 매포더스 | GFL | ZMTR",
+      "TW": "測試伺服器 : 圖 csak者 | GFL | ZMTR"
     }
   },
   "The EXIT 1-2  door will opening GO!": {
@@ -143,7 +143,7 @@
     "translation": "出口1-2的门将在30秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "EXIT 1-2 のドアは30秒後に開きます",
       "CN": "出口1-2的门将在30秒后打开",
       "KR": "",
       "TW": ""
@@ -153,7 +153,7 @@
     "translation": "出口3的门将在15秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "EXIT 3 の扉は15秒後に開きます",
       "CN": "出口3的门将在15秒后打开",
       "KR": "",
       "TW": ""
@@ -163,7 +163,7 @@
     "translation": "出口3的门将打开，快走！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "EXIT 3 の扉が開きます GO!",
       "CN": "出口3的门将打开，快走！",
       "KR": "",
       "TW": ""
@@ -173,20 +173,20 @@
     "translation": "安全门将在30秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "セキュリティドアは30秒後に開きます",
       "CN": "安全门将在30秒后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "보안문이 30초 후에 열립니다",
+      "TW": "安全門将在30秒後開啟"
     }
   },
   "Zombie teleport 10 seconds": {
     "translation": "僵尸传送将在10秒后进行",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビテレポート10秒",
       "CN": "僵尸传送将在10秒后进行",
-      "KR": "",
-      "TW": ""
+      "KR": "ゾ이드 텔레포트 10 초",
+      "TW": "殭屍 TELEPORT 10 秒"
     }
   },
   "ze_umbrellazombie_v1_part2 Cooming Soon": {
@@ -195,8 +195,8 @@
       "US": "",
       "JP": "",
       "CN": "ze_umbrellazombie_v1_part2 即将推出",
-      "KR": "",
-      "TW": ""
+      "KR": "ze_UMBRELLAZOMBIE_V1_PART2 Coming Soon",
+      "TW": "ze_傘殭屍_v1_part2 即將到來"
     }
   },
   "FINAL GATE CLOSES IN 90 SECONDS": {
@@ -204,9 +204,9 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "最终闸门关闭倒计时90秒",
+      "KR": "최종 문이 90초 후에 닫힙니다",
+      "TW": "最終門檻關閉於90秒後"
     }
   }
 }

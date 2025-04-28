@@ -3,30 +3,30 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ゲームは10秒後で開始します",
+      "CN": "游戏将在10秒后开始",
+      "KR": "게임은 10초 후에 시작됩니다",
+      "TW": "遊戲將在10秒後開始"
     }
   },
   "If you are not comfortable with this map,plz say !hop": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "このマップに不快感がある場合は、ぜひ言いましょう！hop",
+      "CN": "若你对这张地图感到不适，请说！跳",
+      "KR": "이 맵에 불편함을 느끼신다면, plz say !hop",
+      "TW": "如果對這張地圖不太 comfy，請說！-hop"
     }
   },
   "This map is zm training map ": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "このマップはzm訓練用マップ",
+      "CN": "此地图为zm训练图",
+      "KR": "이 지도는 zm 훈련지도입니다",
+      "TW": "此地為zm訓練圖apist"
     }
   }
 }

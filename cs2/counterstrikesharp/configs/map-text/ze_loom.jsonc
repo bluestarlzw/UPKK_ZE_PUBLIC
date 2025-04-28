@@ -2,241 +2,241 @@
   "...": {
     "translation": "...",
     "MultiLang": {
-      "US": "",
+      "US": "【开始翻译】",
       "JP": "",
       "CN": "...",
       "KR": "",
-      "TW": ""
+      "TW": "【開始翻譯】"
     }
   },
   "15 seconds": {
     "translation": "15秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "15秒",
       "CN": "15秒",
-      "KR": "",
-      "TW": ""
+      "KR": "15 초",
+      "TW": "15 秒鐘"
     }
   },
   "20 seconds": {
     "translation": "20秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "20秒",
       "CN": "20秒",
-      "KR": "",
-      "TW": ""
+      "KR": "20 초",
+      "TW": "20 秒鐘"
     }
   },
   "25 seconds": {
     "translation": "25秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "25秒",
       "CN": "25秒",
-      "KR": "",
-      "TW": ""
+      "KR": "25 초",
+      "TW": "25秒"
     }
   },
   "30 seconds": {
     "translation": "30秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "30秒",
       "CN": "30秒",
-      "KR": "",
-      "TW": ""
+      "KR": "30 초",
+      "TW": "30 秒鐘"
     }
   },
   "35 seconds": {
     "translation": "35秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "35秒",
       "CN": "35秒",
-      "KR": "",
-      "TW": ""
+      "KR": "35 초",
+      "TW": "35 秒鐘"
     }
   },
   "A random way will open": {
     "translation": "随机一条路将打开 翻译：Asteri3m",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ランダムな道が開ける",
       "CN": "随机一条路将打开 翻译：Asteri3m",
-      "KR": "",
-      "TW": ""
+      "KR": "랜덤한 방법이 열리게 }}\"></translation>",
+      "TW": "随机方式將會開啟"
     }
   },
   "A way will open in 20 seconds": {
     "translation": "一条路将在20秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "20秒後に道が開かれる",
       "CN": "一条路将在20秒后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "20초 후 길이 열립니다",
+      "TW": "20秒後將會開啓1個通道"
     }
   },
   "Bridge will open in 20 seconds": {
     "translation": "桥将在20秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "橋が開くのは20秒後です",
       "CN": "桥将在20秒后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "다리가 열리는 시간은 20초 후입니다",
+      "TW": "橋將在20秒後開啟"
     }
   },
   "Defend for 15 seconds": {
     "translation": "防守15秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "防御15秒",
       "CN": "防守15秒",
-      "KR": "",
-      "TW": ""
+      "KR": "15초간 방어해라",
+      "TW": "防守15秒"
     }
   },
   "Gate #1 opened": {
     "translation": "1号门已打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゲート#1が開いた",
       "CN": "1号门已打开",
-      "KR": "",
-      "TW": ""
+      "KR": "портал #1 열렸습니다",
+      "TW": "閘門#1開啟"
     }
   },
   "Gate #2 opened": {
     "translation": "2号门已打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゲート#2が開いた",
       "CN": "2号门已打开",
-      "KR": "",
-      "TW": ""
+      "KR": "문门#2開啟",
+      "TW": "閘門#2開啟"
     }
   },
   "Gate #3 opened": {
     "translation": "3号门已打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゲート#3が開いた",
       "CN": "3号门已打开",
-      "KR": "",
-      "TW": ""
+      "KR": "문열렸습니다.#3",
+      "TW": "閘門#3開啟"
     }
   },
   "Gate #4 opened": {
     "translation": "4号门已打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゲート#4が開いた",
       "CN": "4号门已打开",
-      "KR": "",
-      "TW": ""
+      "KR": "문 개방 #4",
+      "TW": "閘門#4開啟"
     }
   },
   "Hold for 20 seconds": {
     "translation": "坚持20秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "20秒間 HOLD",
       "CN": "坚持20秒",
-      "KR": "",
-      "TW": ""
+      "KR": "20초 유지",
+      "TW": "HOLD FOR 20 SECONDS"
     }
   },
   "Hold for 30 seconds": {
     "translation": "坚持30秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "30秒間 HOLD",
       "CN": "坚持30秒",
-      "KR": "",
-      "TW": ""
+      "KR": "30초간 유지",
+      "TW": "HOLD FOR 30 SECONDS"
     }
   },
   "Thanks for playing": {
     "translation": "感谢游玩",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ありがとうございます。プレイしていただき thank you",
       "CN": "感谢游玩",
-      "KR": "",
-      "TW": ""
+      "KR": "감사합니다. 게임을 즐겨주셔서.",
+      "TW": "感謝 enthus 剛遊玩"
     }
   },
   "Wait for a random way to open": {
     "translation": "等待随机一条路打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "待機中、ランダムな方法で開きます",
       "CN": "等待随机一条路打开",
-      "KR": "",
-      "TW": ""
+      "KR": "위장된 방법을 기다리세요",
+      "TW": "等待隨機開鎖方式"
     }
   },
   "Wait for something to happen": {
     "translation": "等待某些事情发生",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "待ちください何かが起こるまで",
       "CN": "等待某些事情发生",
-      "KR": "",
-      "TW": ""
+      "KR": "대 ietsomething 发生后再行动",
+      "TW": "等待omethingto发生"
     }
   },
   "Water is rising..": {
     "translation": "水位在上升..",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "水は上涨している..",
       "CN": "水位在上升..",
-      "KR": "",
-      "TW": ""
+      "KR": "물이 올라오고 있습니다..",
+      "TW": "水位上升.."
     }
   },
   "You Failed!": {
     "translation": "你失败了!",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "您失敗了！",
       "CN": "你失败了!",
-      "KR": "",
-      "TW": ""
+      "KR": "您失败了！",
+      "TW": "您失敗了！"
     }
   },
   "Zeus is angry.": {
     "translation": "宙斯生气了。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Zeusは怒っています。",
       "CN": "宙斯生气了。",
-      "KR": "",
-      "TW": ""
+      "KR": "ZEUS은 화가 나 있습니다.",
+      "TW": "宙斯生气了。"
     }
   },
   "Zombie tp in 10 seconds": {
     "translation": "僵尸将在10秒后传送",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビtp 10秒後に",
       "CN": "僵尸将在10秒后传送",
-      "KR": "",
-      "TW": ""
+      "KR": "ゾ메이唐宇10秒内传送",
+      "TW": "殭屍tp在10秒後"
     }
   },
   "Zombie tp in 15 seconds": {
     "translation": "僵尸将在15秒后传送",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビtp 15秒後に住房公积bishū",
       "CN": "僵尸将在15秒后传送",
       "KR": "",
-      "TW": ""
+      "TW": "殭屍tp在15秒鐘"
     }
   }
 }

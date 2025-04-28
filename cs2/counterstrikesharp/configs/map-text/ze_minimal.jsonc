@@ -63,30 +63,30 @@
     "translation": "|蓝|",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| 青色 |",
       "CN": "|蓝|",
-      "KR": "",
-      "TW": ""
+      "KR": "| 파란색 |",
+      "TW": "| 藍色 |"
     }
   },
   "| Cyan |": {
     "translation": "|青| 翻译：Asteri3m",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| 蓝色 |",
       "CN": "|青| 翻译：Asteri3m",
-      "KR": "",
-      "TW": ""
+      "KR": "| 체인 |",
+      "TW": "| 靑色 |"
     }
   },
   "| Green |": {
     "translation": "|绿|",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| グリーン |",
       "CN": "|绿|",
-      "KR": "",
-      "TW": ""
+      "KR": "| 녹색 |",
+      "TW": "| 綠 |"
     }
   },
   "| Human ammo |": {
@@ -95,48 +95,48 @@
       "US": "",
       "JP": "",
       "CN": "|人类弹药|",
-      "KR": "",
-      "TW": ""
+      "KR": "| 인간약 |",
+      "TW": "| 人類ammo |"
     }
   },
   "| Human freezer |": {
     "translation": "|人类冰|",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "人間氷器 |",
       "CN": "|人类冰|",
-      "KR": "",
-      "TW": ""
+      "KR": "| 인간 냉동고 |",
+      "TW": "| 人類冰櫃 |"
     }
   },
   "| Human gravity |": {
     "translation": "|人类黑洞|",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "人間の重力",
       "CN": "|人类黑洞|",
-      "KR": "",
-      "TW": ""
+      "KR": "| 인간 중력 |",
+      "TW": "| 人類重力 |"
     }
   },
   "| Human laser wall |": {
     "translation": "|人类激光墙|",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "| Human Laser Wall |",
+      "JP": "| 人間レーザー壁 |",
       "CN": "|人类激光墙|",
-      "KR": "",
-      "TW": ""
+      "KR": "| 인류 레이저 벽 |",
+      "TW": "| 人類激光牆 |"
     }
   },
   "| Human push |": {
     "translation": "|人类风|",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| 人類推進 |",
       "CN": "|人类风|",
-      "KR": "",
-      "TW": ""
+      "KR": "| 인간 밀기 |",
+      "TW": "| 人類推進 |"
     }
   },
   "| Human slow |": {
@@ -145,98 +145,98 @@
       "US": "",
       "JP": "",
       "CN": "|人类减速|",
-      "KR": "",
-      "TW": ""
+      "KR": "| 인간 천천히 |",
+      "TW": "| 人類移動緩慢 |"
     }
   },
   "| Loading simulation.. |": {
     "translation": "|正在模拟..|",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| シミュレーションロード中.. |",
       "CN": "|正在模拟..|",
-      "KR": "",
-      "TW": ""
+      "KR": "| 로딩 시뮬레이션.. |",
+      "TW": "| 加載模擬.. |"
     }
   },
   "| Purple |": {
     "translation": "|紫|",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| パープル |",
       "CN": "|紫|",
-      "KR": "",
-      "TW": ""
+      "KR": "| 보라 |",
+      "TW": "| 紫色 |"
     }
   },
   "| WARMUP ROUND |": {
     "translation": "|热身回合|",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| レブアップラウンド |",
       "CN": "|热身回合|",
-      "KR": "",
-      "TW": ""
+      "KR": "| 워밍업 라운드 |",
+      "TW": "| 熱身輪廓 |"
     }
   },
   "| Zombie fireball |": {
     "translation": "|僵尸火|",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビ火球 |",
       "CN": "|僵尸火|",
-      "KR": "",
-      "TW": ""
+      "KR": "| 좀비 포화 |=",
+      "TW": "| 僵屍火球 |"
     }
   },
   "| Zombie freezeball |": {
     "translation": "|僵尸冰|",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "| Zombie Freezbola |",
+      "JP": "ゾンビ凍結ボール |",
       "CN": "|僵尸冰|",
-      "KR": "",
-      "TW": ""
+      "KR": "| 브레인 얼음구슬 |",
+      "TW": "|走肉凍 BALL |"
     }
   },
   "| Zombie gravity |": {
     "translation": "|僵尸黑洞|",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビ重力 |",
       "CN": "|僵尸黑洞|",
-      "KR": "",
-      "TW": ""
+      "KR": "| 블라이아미트 중력 |",
+      "TW": "|殭屍重力|"
     }
   },
   "| Zombie heal|speed |": {
     "translation": "|僵尸治疗|速度|",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビ回復|速度",
       "CN": "|僵尸治疗|速度|",
-      "KR": "",
-      "TW": ""
+      "KR": "| 좀비 치유|속도 |",
+      "TW": "|殭屍治療速度|"
     }
   },
   "| Zombie ring |": {
     "translation": "|僵尸秒杀|",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビリング |",
       "CN": "|僵尸秒杀|",
-      "KR": "",
-      "TW": ""
+      "KR": "| 좀비 반지 |",
+      "TW": "|殭屍戒指|"
     }
   },
   "| Zombie slow |": {
     "translation": "|僵尸减速|",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビの移動を遅くする",
       "CN": "|僵尸减速|",
-      "KR": "",
-      "TW": ""
+      "KR": "| 좀비 슬로우 |",
+      "TW": "| 複習速度慢|"
     }
   }
 }

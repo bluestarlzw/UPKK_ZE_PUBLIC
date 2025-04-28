@@ -3,20 +3,20 @@
     "translation": "<< 正常模式 >> 翻译：Asteri3m",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ステージノーマル >>",
       "CN": "<< 正常模式 >> 翻译：Asteri3m",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 스테이지 정상 >>",
+      "TW": "<< 過關標準 >>"
     }
   },
   "** WIND HAS BEEN PICKED UP! **": {
     "translation": "** 风已被拾取！ **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**風が強まった！**",
       "CN": "** 风已被拾取！ **",
-      "KR": "",
-      "TW": ""
+      "KR": "** 바람이 불 begul ni bureo! **",
+      "TW": "**風速已增加！**"
     }
   },
   "*** 10sec ***": {
@@ -143,19 +143,19 @@
     "translation": "*** 盾已被拾取 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***シェルフが拾われた***",
       "CN": "*** 盾已被拾取 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "***ields를 받았습니다***",
+      "TW": "***防禦已拾取***"
     }
   },
   "< CONGRATULATIONS >": {
     "translation": "< 恭喜 >",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "< おめでとう >",
       "CN": "< 恭喜 >",
-      "KR": "",
+      "KR": "< 축하합니다 >",
       "TW": ""
     }
   },
@@ -163,7 +163,7 @@
     "translation": "< 单人获胜 >",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ソロチャンピオン",
       "CN": "< 单人获胜 >",
       "KR": "",
       "TW": ""
@@ -173,30 +173,30 @@
     "translation": "<< 练习模式 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ステージ練習モード >>",
       "CN": "<< 练习模式 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 스테이지 연습 모드 >>",
+      "TW": "<< 過關練習模式 >>"
     }
   },
   "Find the Trigger to break the door": {
     "translation": "找到触发以破门",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "門を開けるトリガーを発見してください",
       "CN": "找到触发以破门",
-      "KR": "",
-      "TW": ""
+      "KR": "문을 부reak the door *** absolutely follow the rules ***",
+      "TW": "找到開門引發器"
     }
   },
   "<< Stage Normal >>": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "<< ステージノーマル >>",
+      "CN": "<< 关卡普通 >>",
+      "KR": "<< 스테이지 노말 >>",
+      "TW": "<< 過關正常 >>"
     }
   }
 }

@@ -3,9 +3,9 @@
     "translation": "** 核弹房的入口将在20秒内打开！ **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** ナukes部屋へのアクセスは20秒後に開始します！ ***",
       "CN": "** 核弹房的入口将在20秒内打开！ **",
-      "KR": "",
+      "KR": "*** 원⼦-radium 방에 접근할 수 있는 시간은 20초 후입니다! ***",
       "TW": ""
     }
   },
@@ -13,20 +13,20 @@
     "translation": "** 最后的传送点将在15秒内启用... **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 最終的な TELEPORT 将在 15 秒后启用... ***",
       "CN": "** 最后的传送点将在15秒内启用... **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 최종 전송기능은 15초 후에 활성화됩니다... ***",
+      "TW": "*** 最後的傳送將於 15 秒鐘後啟用... ***"
     }
   },
   "** Please do NOT get MAD! This map is JUST A TRIM!!! **": {
     "translation": "** 请不要生气！这只是一张陷阱多的地图而已！ **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 请勿生气！这张地图只是个小调整！！! ***",
       "CN": "** 请不要生气！这只是一张陷阱多的地图而已！ **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** Please DO NOT GET MAD! THIS MAP IS JUST A TRIM!!! ***",
+      "TW": "** 請勿發狂！這張地圖只是個修飾！！！ **"
     }
   },
   "** Slowfart teleport will be enabled in 30 seconds... **": {
@@ -35,8 +35,8 @@
       "US": "",
       "JP": "",
       "CN": "** 慢速传送将在30秒内启用... **",
-      "KR": "",
-      "TW": ""
+      "KR": "** 느리느린 텔레포트는 30초 후에 활성화됩니다... **",
+      "TW": "**Slowfart 階層將在30秒後啟用...**"
     }
   },
   "** Someone reached the end of the maze... **": {
@@ -45,68 +45,68 @@
       "US": "",
       "JP": "",
       "CN": "** 有人到达了迷宫的尽头... **",
-      "KR": "",
-      "TW": ""
+      "KR": "** 누군가 미maze의 끝에 도달했나 **",
+      "TW": "** 有人走出了迷宮... **"
     }
   },
   "** Teleport will be enabled in 30 seconds! Temple gates will open soon... **": {
     "translation": "** 传送将在30秒内启用！寺庙的大门即将打开... **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**テレポートは30秒後に有効になります！神殿門が近々開きます...**",
       "CN": "** 传送将在30秒内启用！寺庙的大门即将打开... **",
-      "KR": "",
-      "TW": ""
+      "KR": "** 텔레포트가 30초 후에 사용 가능합니다! 사원 문이 곧 열립니다... **",
+      "TW": "*** Teleport 將在 30 秒後啟用！聖殿門akest 將很快開啓... ***"
     }
   },
   "** The TRAP ESCAPE doors will open soon! **": {
     "translation": "** 陷阱逃亡的大门即将打开！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** TRAP ESCAPE の扉はすぐ開きます！ **",
       "CN": "** 陷阱逃亡的大门即将打开！**",
-      "KR": "",
-      "TW": ""
+      "KR": "** TRAP ESCAPE 문이 곧 열립니다! **",
+      "TW": "*** TRAP ESCAPE 門將會很快打開！ ***"
     }
   },
   "** The final area has been reached! Keep the zombies behind the suspiciously convenient caution line! **": {
     "translation": "** 已到达最后区域！将僵尸控制在那条显眼的警戒线后面！ **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最終エリアに到着しました！謎の手助け線の向こう側にゾンビを追い詰めろ！",
       "CN": "** 已到达最后区域！将僵尸控制在那条显眼的警戒线后面！ **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 최종 지역에 도달했습니다! 의심스러운 주의 경계선 뒤에 좀비들을 유지하세요! ***",
+      "TW": "*** 最後區域已經到達！將殭屍 KEEP 在可疑的警示線後面！***"
     }
   },
   "** The temple has been reached... **": {
     "translation": "** 已到达寺庙... **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 寺院に到着した... **",
       "CN": "** 已到达寺庙... **",
-      "KR": "",
-      "TW": ""
+      "KR": "** 사원에 도달했습니다... **",
+      "TW": "*** 庙宇已到達... ***"
     }
   },
   "** Welcome to TRAP ESCAPE **": {
     "translation": "** 欢迎来到陷阱逃亡 翻译：Asteri3m **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** テストを開始 **",
       "CN": "** 欢迎来到陷阱逃亡 翻译：Asteri3m **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** TRAP ESCAPE에 오신 것을 환영합니다 ***",
+      "TW": "** 欢迎来到 TRAP ESCAPE **"
     }
   },
   "*** nuke inbound ***": {
     "translation": "*** 核弹来袭 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** ナuke 入荷中 ***",
       "CN": "*** 核弹来袭 ***",
       "KR": "",
-      "TW": ""
+      "TW": "***核武 Incoming***"
     }
   }
 }

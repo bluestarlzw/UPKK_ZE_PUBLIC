@@ -5,7 +5,7 @@
       "US": "",
       "JP": "",
       "CN": "**做好准备**",
-      "KR": "",
+      "KR": "***准备好***",
       "TW": ""
     }
   },
@@ -13,9 +13,9 @@
     "translation": "**桥梁炸药已引爆--快跳，你们这群傻瓜！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** ブリッジチャージ爆発 -- ジャンプだ愚か者たち!! ***",
       "CN": "**桥梁炸药已引爆--快跳，你们这群傻瓜！**",
-      "KR": "",
+      "KR": "*** 다리 폭발 -- 점프 어 若要添加更多内容，请告知我具体需求。按照指示，这是翻译结果：",
       "TW": ""
     }
   },
@@ -23,39 +23,39 @@
     "translation": "**C4已安放！ 翻译：Asteri3m**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** C4設置！ **",
       "CN": "**C4已安放！ 翻译：Asteri3m**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** C4 설치됨! ***",
+      "TW": "** C4 植雷！ **"
     }
   },
   "** Follow the game trails through the island interior to reach Embryonic Research B. **": {
     "translation": "**沿着游戏路线穿过岛屿内部到达胚胎研究中心B**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**島のInteriorをゲームトラailsに従って進みEmbryonic Research Bに到着する]**",
       "CN": "**沿着游戏路线穿过岛屿内部到达胚胎研究中心B**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 섬 내부를 통해 게임 트레일을 따르고Embryonic Research B에 도달하세요. **",
+      "TW": "**請沿著遊戲路線穿越島內，到達胚胎研究B。**"
     }
   },
   "** InGen has received your distress signal. A109 inbound for extraction in 60... **": {
     "translation": "**InGen已收到你的求救信号，A109直升机将在60秒内到达进行救援...**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** InGen があなたのSOSを受け取りました。A109は60秒後に救助に向かいます... **",
       "CN": "**InGen已收到你的求救信号，A109直升机将在60秒内到达进行救援...**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** InGen은 당신의 긴급 신호를 받았습니다. A109가 추출을 위해 60...으로 들어오고 있습니다 ***",
+      "TW": "**InGen已收到你的求救信號。A109將於60秒內抵達 Extraction點...**"
     }
   },
   "** Laboratory Security online. Locking in 10 seconds... **": {
     "translation": "**实验室安全系统已启动，10秒后锁定...**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***实验室安全在线。10秒后锁定...***",
       "CN": "**实验室安全系统已启动，10秒后锁定...**",
-      "KR": "",
+      "KR": "** 실험실 보안 온라인. 10초 후 잠금... **",
       "TW": ""
     }
   },
@@ -63,70 +63,70 @@
     "translation": "**索纳岛的电力已恢复**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** イスラ・ソルナへの電力が復旧しました ***",
       "CN": "**索纳岛的电力已恢复**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 심슨아 스포르나 섬의 전력이 복원되었습니다 ***",
+      "TW": "** 力量已恢復至伊斯塔龍 **"
     }
   },
   "** Push the C4 between the barrels **": {
     "translation": "**将C4放置在桶之间**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** C4を銃身間に推進 ***",
       "CN": "**将C4放置在桶之间**",
       "KR": "",
-      "TW": ""
+      "TW": "**推C4在枪管之間**"
     }
   },
   "** Raptor nest has been disturbed! **": {
     "translation": "**猛禽巢穴被打扰了！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Raptors巣が騒がしい！",
       "CN": "**猛禽巢穴被打扰了！**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** Raptors의巖巚巢穴已被 disturb!! ***",
+      "TW": "** Raptors' 巢穴已被 disturbed! **"
     }
   },
   "** Satellite link established. Phone access enabled. **": {
     "translation": "**卫星链接已建立，电话访问已启用**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**衛星リンク Established. 電話アクセス Enabled. **",
       "CN": "**卫星链接已建立，电话访问已启用**",
-      "KR": "",
-      "TW": ""
+      "KR": "★★衛星链接建立。電話訪問已啟用。★★",
+      "TW": "*** 卫星链接建立。电话访问已启用。 ***"
     }
   },
   "** THE PLANE IS GOING TO CRASH **": {
     "translation": "**飞机要坠毁了**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 機関は墜落する ***",
       "CN": "**飞机要坠毁了**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 비행기가 충돌할 것 같습니다 **",
+      "TW": "**飛機即將失事**"
     }
   },
   "** There's no power. We're screwed! **": {
     "translation": "**这里没有电，我们完蛋了！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***電気はcoration。やばい！***",
       "CN": "**这里没有电，我们完蛋了！**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 전기 없어요. 망쳤습니다! ***",
+      "TW": "**沒有電力。我們完了！**"
     }
   },
   "** Zodiac departing for island interior. **": {
     "translation": "**气垫船正前往岛屿内部**",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "** Zodiac heading to island interior. **",
+      "JP": "★★ スコピウスが島の interiors へ出発。 ★★",
       "CN": "**气垫船正前往岛屿内部**",
-      "KR": "",
-      "TW": ""
+      "KR": "★★ 지odiaInterior로 출발합니다. ★★",
+      "TW": "**星象出發前往島內。**"
     }
   },
   "**AFK TELE 10 SECONDS**": {

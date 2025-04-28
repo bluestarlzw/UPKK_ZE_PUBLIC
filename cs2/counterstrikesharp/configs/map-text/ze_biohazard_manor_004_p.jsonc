@@ -3,10 +3,10 @@
     "translation": "**** 地图由 AERIS.004 制作 翻译：Asteri3m****",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**** マップby AERIS.004 ****",
       "CN": "**** 地图由 AERIS.004 制作 翻译：Asteri3m****",
       "KR": "",
-      "TW": ""
+      "TW": "**** 地圖由AERIS.004製作 ****"
     }
   },
   "*MAP RESIDENT EVIL ONE - THE MANOR*": {
@@ -15,7 +15,7 @@
       "US": "",
       "JP": "",
       "CN": "*地图 生化危机1 - 洋馆*",
-      "KR": "",
+      "KR": "*맵 리스|array EVILEONE -  Manor*",
       "TW": ""
     }
   },
@@ -23,20 +23,20 @@
     "translation": "*立即撤离实验室*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*研究所即刻撤退*",
       "CN": "*立即撤离实验室*",
-      "KR": "",
-      "TW": ""
+      "KR": "*[즉시 연구소 방출]*",
+      "TW": "即時撤離實驗室"
     }
   },
   "We must have missed something... we'll have to open it by force": {
     "translation": "我们一定是漏掉了什么……我们得强行打开它",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "何かを忘れてる気がする...強制的に開けなければなりません...",
       "CN": "我们一定是漏掉了什么……我们得强行打开它",
-      "KR": "",
-      "TW": ""
+      "KR": "우리가 놓친 게 있는 것 같아...forcefully 여는 수밖에 없겠지",
+      "TW": "我們肯定漏了什麼...只好強行打開它..."
     }
   }
 }

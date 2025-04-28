@@ -3,40 +3,40 @@
     "translation": "船路线",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 船只避難 ***",
       "CN": "船路线",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 배선출신 ***",
+      "TW": "*** 船只疏散 ***"
     }
   },
   "*** HELICOPTER EVACUATION ***": {
     "translation": "直升机路线",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** ヘリコpter エvakuatιon ***",
       "CN": "直升机路线",
-      "KR": "",
-      "TW": ""
+      "KR": "***Helicopter Evacuation***",
+      "TW": "***直升機撤退***"
     }
   },
   "*** TRUCK EVACUATION ***": {
     "translation": "卡车路线",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** トラック・エvacuーション ***",
       "CN": "卡车路线",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 트럭 대피 ***",
+      "TW": "***卡車撤離***"
     }
   },
   "*** TRAIN EVACUATION ***": {
     "translation": "火车路线",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 列车疏散 ***",
       "CN": "火车路线",
-      "KR": "",
-      "TW": ""
+      "KR": "열차 대피소 **",
+      "TW": "*** 訓練疏散 ***"
     }
   }
 }

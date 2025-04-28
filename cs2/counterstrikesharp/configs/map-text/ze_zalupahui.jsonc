@@ -3,10 +3,10 @@
     "translation": "<<< 为Fox制作 >>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<< 特别献上  fox >>>",
       "CN": "<<< 为Fox制作 >>>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<< 특별한Fox >>>",
+      "TW": "<<< 特別為Fox >>>"
     }
   },
   "Defend for 5 sec": {
@@ -15,8 +15,8 @@
       "US": "",
       "JP": "",
       "CN": "防守5秒",
-      "KR": "",
-      "TW": ""
+      "KR": "방어하라 5sec",
+      "TW": "防禦 5 秒"
     }
   },
   "Fox umer": {
@@ -26,77 +26,77 @@
       "JP": "",
       "CN": "Fox死了",
       "KR": "",
-      "TW": ""
+      "TW": "狐狸狐meer"
     }
   },
   "Kill him": {
     "translation": "杀了他",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "殺しろ",
       "CN": "杀了他",
       "KR": "",
-      "TW": ""
+      "TW": "殺他"
     }
   },
   "Leave from server or you get vac ban.": {
     "translation": "离开服务器，否则你会被VAC封禁。",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Leave the server or you get avacban.",
+      "JP": "サーバーから離脱するか、Vacバン受ける哟。",
       "CN": "离开服务器，否则你会被VAC封禁。",
-      "KR": "",
-      "TW": ""
+      "KR": "서버를 떠나지 않으면 VAC 임시정지 처분을 받습니다.",
+      "TW": "離開伺服器否則會 pioneen 尋 moo 斤。"
     }
   },
   "OMG it's a Fox": {
     "translation": "天哪，是Fox",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "OMG それは狐狸だ",
       "CN": "天哪，是Fox",
-      "KR": "",
-      "TW": ""
+      "KR": "OMG 그것은 도그스이다",
+      "TW": "OMG那是狐狸"
     }
   },
   "Pudge will disappear in 30 sec": {
     "translation": "帕吉将在30秒后消失",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Pudgeは30秒後に消滅します",
       "CN": "帕吉将在30秒后消失",
-      "KR": "",
-      "TW": ""
+      "KR": "Pudge sẽ biến mất trong 30 giây",
+      "TW": "Pudge將消失在30秒後"
     }
   },
   "Pudge will disappear in 5 sec": {
     "translation": "帕吉将在5秒后消失",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Pudgeは5秒後に消滅する",
       "CN": "帕吉将在5秒后消失",
-      "KR": "",
-      "TW": ""
+      "KR": "Pudge는 5sec 후에 사라집니다.",
+      "TW": "Pudge將消失在5秒後"
     }
   },
   "You Win ": {
     "translation": "你赢了",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "勝利🏆",
       "CN": "你赢了",
       "KR": "",
-      "TW": ""
+      "TW": "您勝利了"
     }
   },
   "You get vac ban in 60 sec.": {
     "translation": "你将在60秒后被VAC封禁。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "60secでvacバANBecome prohibited选手。",
       "CN": "你将在60秒后被VAC封禁。",
-      "KR": "",
-      "TW": ""
+      "KR": "您将在60秒后被禁言。",
+      "TW": "您在60秒後將被暫時禁用遊戲 ACCOUNT WILL BE VAC BANNED IN 60 SEC."
     }
   }
 }

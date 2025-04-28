@@ -3,20 +3,20 @@
     "translation": ">> 摧毁岩石 10秒 <<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> 岩石を10SECで破壊 <<",
       "CN": ">> 摧毁岩石 10秒 <<",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 바위를 10초 안에 파괴 <<",
+      "TW": ">> 摧毀岩石 10 秒 <<"
     }
   },
   ">> Destroy the rock 30 SECONDS <<": {
     "translation": ">> 摧毁岩石 30秒 <<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> 岩石を30SECONDSで破壊 <<",
       "CN": ">> 摧毁岩石 30秒 <<",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 돌을 파괴하십시오 30초 내에 <<",
+      "TW": ">> 摧毀岩石 30 秒 <<"
     }
   },
   ">> Escape The World !! 10 SECONDS  <<": {
@@ -26,7 +26,7 @@
       "JP": "",
       "CN": ">> 逃离这个世界！！10秒 <<",
       "KR": "",
-      "TW": ""
+      "TW": ">> 脫離世界 !! 10 秒鐘  <<"
     }
   },
   ">> Escape The World !! 40 SECONDS  <<": {
@@ -35,38 +35,38 @@
       "US": "",
       "JP": "",
       "CN": ">> 逃离这个世界！！40秒 <<",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 탈출全世界!! 40초 <<",
+      "TW": ">> 脫離这个世界 !! 40 秒鐘  <<"
     }
   },
   ">> Fixing the elevator 10 SECONDS <<": {
     "translation": ">> 修理电梯 10秒 <<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> 駅 elevators を直す 10 SECONDS <<",
       "CN": ">> 修理电梯 10秒 <<",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 엘리베이터 고장 수리 10초 <<",
+      "TW": ">> 修理電梯 10 SECONDS <<"
     }
   },
   ">> Fixing the elevator 30 SECONDS <<": {
     "translation": ">> 修理电梯 30秒 <<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> エレベーターの修復 30 SEC <<",
       "CN": ">> 修理电梯 30秒 <<",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 엘리베이터 고치기 30초 <<",
+      "TW": ">> 修理升降機 30 SEC <<"
     }
   },
   ">> GOOD LUCK <<": {
     "translation": ">> 祝你好运 <<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> 好運 <<",
       "CN": ">> 祝你好运 <<",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 좋은 행운이 따르세요 <<",
+      "TW": ">> 好運 <<"
     }
   },
   ">> Laser_Lv -- ??? -- <<": {
@@ -83,30 +83,30 @@
     "translation": ">> 跳刀难度 -- 浩劫 -- <<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> Laser_Lv -- 暴虐 -- <<",
       "CN": ">> 跳刀难度 -- 浩劫 -- <<",
-      "KR": "",
-      "TW": ""
+      "KR": ">> Laser_Lv -- 치hem -- <<",
+      "TW": ">> Laser_Lv -- 殺戮 -- <<"
     }
   },
   ">> Laser_Lv -- Godlike -- <<": {
     "translation": ">> 跳刀难度 -- 无与伦比 -- <<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> Laser_Lv --神々しい-- <<",
       "CN": ">> 跳刀难度 -- 无与伦比 -- <<",
-      "KR": "",
-      "TW": ""
+      "KR": ">> Laser_Lv -- 신화적 -- <<",
+      "TW": ">> Laser_Lv -- 神級 -- <<"
     }
   },
   ">> ORE NO KATI  <<": {
     "translation": ">> 胜利 <<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> 我的 Katzith <<",
       "CN": ">> 胜利 <<",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 오레노 카티 <<",
+      "TW": ">> 矮人石銅  <<"
     }
   },
   ">> RUN! <<": {
@@ -116,37 +116,37 @@
       "JP": "",
       "CN": ">> 快跑！ <<",
       "KR": "",
-      "TW": ""
+      "TW": ">> 跑！<<"
     }
   },
   ">> 检测到未正确传送的人类，即将启动额外传送 <<": {
     "translation": ">> 检测到未正确传送的人类，即将启动额外传送 <<",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">> Detection of incorrectly transmitted humans, additional transmission will commence shortly <<",
+      "JP": ">> 未正しく传送された人類を检测しました、追加传送即将启动 <<",
       "CN": ">> 检测到未正确传送的人类，即将启动额外传送 <<",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 불러운 인간이 올바르게 전송되지 않았음 확인, 추가 전송 곧 시작 <<",
+      "TW": ">> 檢測到未正確傳送的人類，即將啟動額外傳送 <<"
     }
   },
   "Map : ze_surf_shonyudo": {
     "translation": "地图：ze_surf_shonyudo 山涧滑翔",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "マップ：ze_surf_shonyudo",
       "CN": "地图：ze_surf_shonyudo 山涧滑翔",
-      "KR": "",
-      "TW": ""
+      "KR": "맵 : ze_surf_shonyudo",
+      "TW": "地圖：ze_surf_shonyudo"
     }
   },
   "Who : Hmn": {
     "translation": "地图作者：Hmn 翻译：Asteri3m",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "誰 : Hmn",
       "CN": "地图作者：Hmn 翻译：Asteri3m",
-      "KR": "",
-      "TW": ""
+      "KR": "이름 : Hmn",
+      "TW": "誰 : Hmn"
     }
   }
 }

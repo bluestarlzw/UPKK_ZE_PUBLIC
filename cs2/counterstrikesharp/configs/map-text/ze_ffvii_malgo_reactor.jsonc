@@ -3,9 +3,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "マップby Ma/l/go",
       "CN": "",
-      "KR": "",
+      "KR": "**맵_by_Ma/l/go**",
       "TW": ""
     }
   },
@@ -14,8 +14,8 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
-      "KR": "",
+      "CN": "CS2移植由kaggel完成",
+      "KR": "**CS2 포트_by kaggel**",
       "TW": ""
     }
   },
@@ -103,50 +103,50 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "** HEAL Materia が見つかりました。 **",
+      "CN": "** HEAL  materia 已被发现。**",
+      "KR": "*** HEAL メテラ が見つかりました。 ***",
+      "TW": "** HEAL Materia 已被發現。**"
     }
   },
   "** BARRIER Materia has been found. **": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "** バリアマテリアルが見つかりました。**",
+      "CN": "** BARRIER 物质已被发现。 **",
+      "KR": "*** 방어막 마테리아를 찾았습니다. ***",
+      "TW": "*** 隸 básico材質已被發現。 ***"
     }
   },
   "** ULTIMA Materia has been found. **": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "** ULTIMA マテリアルが発見されました。 **",
+      "CN": "** ULTIMA 材料已发现。 **",
+      "KR": "** ULTIMA Materi가 발견되었습니다. **",
+      "TW": "** ULTIMA 媽 TER 已被發現。 **"
     }
   },
   "**Hold this area for 20 seconds!**": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "**このエリアを20秒間保持せよ！**",
+      "CN": "HOLD THIS AREA FOR 20 SECONDS!",
+      "KR": "***이 지역을 20초 동안 지켜라!***",
+      "TW": "** HOLD THIS AREA FOR 20 SECONDS! **"
     }
   },
   "** WIND Materia has been found. **": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "US": "** Wind Materia has been found. **",
+      "JP": "** WIND Materia が見つかった。 **",
+      "CN": "*** WIND Materia 已被发现。***",
+      "KR": "** WIND Materi아가 발견되었습니다. **",
+      "TW": "** WIND Materia 已被發現。**"
     }
   },
   "< Dodge this! >": {
@@ -154,58 +154,58 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": ">>> 避开这个！ <<<",
+      "KR": "< 이걸 피해! >",
+      "TW": "[請閃避!]"
     }
   },
   "** FIRE Materia has been found. **": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "*** FIRE Materia が見つかりました。***",
+      "CN": "**烈焰Materia已发现。**",
+      "KR": "** FIRE Materia를 찾았습니다. **",
+      "TW": "** FIRE Materia 已被發現。**"
     }
   },
   "< All materias are disabled!! >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "全てのマテリアルが無効化！！",
+      "CN": "<所有 materias 都被禁用了!! >",
+      "KR": "<모든 메티아는 비활성화 되었습니다!!>",
+      "TW": "<所有 materias 都被禁用了!! >"
     }
   },
   "< RUN TO THE TELEPORT! >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> テレポートへ走れ;! <<",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "< 텔레포트로 달려가세요! >",
+      "TW": "<奔向傳送門！>"
     }
   },
   "** MIMIC Materia has been found. **": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "*** MIMIC マテリアルが見つかりました。 ***",
+      "CN": "*** MIMIC 物质 已被发现。***",
+      "KR": "*** MIMIC م테리아를 찾았습니다. ***",
+      "TW": "*** MIMIC 物件已被發現. ***"
     }
   },
   "< Hold this area for 25 seconds! >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
+      "JP": "< このエリアを25秒間保持せよ! >",
+      "CN": "HOLD THIS AREA FOR 25 SECONDS!",
+      "KR": "< 이 지역을 25초 동안 지키세요! >",
       "TW": ""
     }
   }

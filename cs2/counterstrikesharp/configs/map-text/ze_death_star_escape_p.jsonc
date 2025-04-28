@@ -33,29 +33,29 @@
     "translation": ">>>还剩 10 秒<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>10秒剩余<<<",
       "CN": ">>>还剩 10 秒<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>10 초 남음<<<",
+      "TW": ">>>10秒剩下<<<"
     }
   },
   ">>>30 seconds until vacuum<<<": {
     "translation": ">>>30 秒后抽真空<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>30秒后启动真空<<<",
       "CN": ">>>30 秒后抽真空<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>30초까지 진공<<<",
+      "TW": ">>>30秒後啟動真空<<<"
     }
   },
   ">>>60 seconds until vacuum in Spawn Sections<<<": {
     "translation": ">>>60 秒后抽真空进入生成区<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>60秒后_spawn区域真空化<<<",
       "CN": ">>>60 秒后抽真空进入生成区<<<",
-      "KR": "",
+      "KR": ">>>60 초 후 스폰 섹션서 정전<<<",
       "TW": ""
     }
   },
@@ -63,7 +63,7 @@
     "translation": ">>>死星将在 5 秒后爆炸<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>デススター爆発まで5秒<<<",
       "CN": ">>>死星将在 5 秒后爆炸<<<",
       "KR": "",
       "TW": ""
@@ -73,39 +73,39 @@
     "translation": ">>>5 秒后开门<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>ドアが5秒後に開きます<<<",
       "CN": ">>>5 秒后开门<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>문이 5초 후에 열립니다<<<",
+      "TW": ">>>門将在5秒後開啟<<<"
     }
   },
   ">>>Door opening in 10 seconds<<<": {
     "translation": ">>>10 秒后开门<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>10秒後ドア開きます<<<",
       "CN": ">>>10 秒后开门<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>문이 10초 후에 열립니다<<<",
+      "TW": ">>> Doors 開啟於 10 秒後 <<<"
     }
   },
   ">>>Generator section losing air...vacuum in 10 seconds": {
     "translation": ">>>发电机部分漏气...10 秒后抽真空",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>ジェネレータセクションが空気を失っている…10秒後には真空状態になる",
       "CN": ">>>发电机部分漏气...10 秒后抽真空",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>발전기 섹션에서 공기가 잃어감...10초 후공여isman",
+      "TW": ">>>-generator 鏡面失去空氣...真空狀態在10秒後生效..."
     }
   },
   ">>>HOLD THE LOCK 30 SECONDS<<<": {
     "translation": ">>>守住大门 30 秒<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>ロックを30秒間ホールド<<<",
       "CN": ">>>守住大门 30 秒<<<",
-      "KR": "",
+      "KR": ">>>LOCK을 30초간 유지<<<",
       "TW": ""
     }
   },
@@ -113,79 +113,79 @@
     "translation": ">>>守住酒馆 25 秒<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>キャンティナを25秒間保持<<<",
       "CN": ">>>守住酒馆 25 秒<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>cantina를 25초간 지槎<<<",
+      "TW": ">>> HOLD THE CANTINA 25 SECONDS <<<"
     }
   },
   ">>>Inner areas being cleaned in 10 seconds<<<": {
     "translation": ">>>10 秒后清理内部区域<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>10秒後に内部清掃開始<<<",
       "CN": ">>>10 秒后清理内部区域<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>내부 구역이 10초 후에 청소 중<<<",
+      "TW": ">>>內區清潔中，10秒後<<<"
     }
   },
   ">>>Lambda-shuttle departing in 15 seconds<<<": {
     "translation": ">>>Lambda 穿梭机将在 15 秒后起飞<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> Lambda-シャトル発着するまで15秒<<<",
       "CN": ">>>Lambda 穿梭机将在 15 秒后起飞<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>람다-셔틀 출발까지 15초<<<",
+      "TW": ">>>Lambda-梭船 Departing in 15 seconds<<<"
     }
   },
   ">>>Left-Elevator leaving in 10 seconds<<<": {
     "translation": ">>>左边电梯将在 10 秒后离开<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>左 Elevator 出发剩餘 10 秒<<<",
       "CN": ">>>左边电梯将在 10 秒后离开<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>좌엘리베이터 10초 후 출발<<",
+      "TW": ">>>左升降機10秒後啟動<<<"
     }
   },
   ">>>Left-Elevator unlocked<<<": {
     "translation": ">>>左边电梯已解锁<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>左エレベーター unlocking<<<",
       "CN": ">>>左边电梯已解锁<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>좌승강기 해제<<",
+      "TW": ">>>左升降機解除鎖定<<<"
     }
   },
   ">>>Left-Lock closing in 10 seconds<<<": {
     "translation": ">>>左边的大门将在 10 秒后关闭<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>左ロック接近中 10秒<<<",
       "CN": ">>>左边的大门将在 10 秒后关闭<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>좌측 잠그기 10초 후에 실행<<<",
+      "TW": ">>>左鎖緊接洽入10秒<<<"
     }
   },
   ">>>Lightbridge deactivating in 8 sec<<<": {
     "translation": ">>>光桥将在 8 秒内停用<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>ライトブリッジデイタクテーミング エイスек<<<",
       "CN": ">>>光桥将在 8 秒内停用<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>라이트브리지 비활성화 8sec<<<",
+      "TW": ">>>Lightbridge deaktivierende in 8 sec<<<"
     }
   },
   ">>>Map created by FreeZe<<<": {
     "translation": ">>>由 FreeZe 创建的地图 翻译：Ayanami♪<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>マップを作成したFreeZe<<<",
       "CN": ">>>由 FreeZe 创建的地图 翻译：Ayanami♪<<<",
-      "KR": "",
+      "KR": ">>>지도를 만든 FreeZe<<<",
       "TW": ""
     }
   },
@@ -193,10 +193,10 @@
     "translation": ">>>愿原力与你同在！<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>あなたの力が伴いますように！<<<",
       "CN": ">>>愿原力与你同在！<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>강한 힘과 함께하세요!<<<",
+      "TW": ">>>願力與你同在！ <<<"
     }
   },
   ">>>RAMP CLOSING<<<": {
@@ -205,58 +205,58 @@
       "US": "",
       "JP": "",
       "CN": ">>>坡道关闭<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> Ramp Closing <<<",
+      "TW": ">>>升降機關閉<<<"
     }
   },
   ">>>Right-Elevator leaving in 10 seconds<<<": {
     "translation": ">>>右边电梯将在 10 秒内离开<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>右エレベーター発車まで10秒<<<",
       "CN": ">>>右边电梯将在 10 秒内离开<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>오른쪽 엘레베이터 출발 10초 후<<<",
+      "TW": ">>>右升降機10秒後啟動<<<"
     }
   },
   ">>>Right-Lock closing in 10 seconds<<<": {
     "translation": ">>>左边的大门将在 10 秒后关闭<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>右锁闭合倒计时10秒<<<",
       "CN": ">>>左边的大门将在 10 秒后关闭<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>우측 잠금 10초 후 실행<<<",
+      "TW": ">>>右鍵鎖定倒數中 10 秒<<<"
     }
   },
   ">>>Spawn Sections losing air...vacuum in 10 seconds<<<": {
     "translation": ">>>生成区漏气...10 秒后抽真空<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> Spawn Sections に空気漏れ...10秒後に真空 <<<",
       "CN": ">>>生成区漏气...10 秒后抽真空<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>Spawn Sectionslosing air...공중부양 10초 후<<<",
+      "TW": ">>>Spawn Sections zhuàngshēng pòqì...qiūkuàng 10 jīnqiǎo<<<"
     }
   },
   ">>>Zombies detected ! Try to escape from Death-Star<<<": {
     "translation": ">>>检测到僵尸！再尝试一次逃离死星吧<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>ゾンビが検知されました！死星から脱出しよう<<<",
       "CN": ">>>检测到僵尸！再尝试一次逃离死星吧<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> Zombies 감지 !-death-Star에 도망치세요<<<",
+      "TW": ">>>殭屍檢測中！試著從死星逃生<<<"
     }
   },
   "Testers: Fuu Belafarinrod Senne Teddy": {
     "translation": "测试人员：Fuu Belafarinrod Senne Teddy",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "テスト参与者：フウ ベラファリノルド センネ テドdy",
       "CN": "测试人员：Fuu Belafarinrod Senne Teddy",
-      "KR": "",
-      "TW": ""
+      "KR": "테스트어가: Fuu Belafarinrod Senne Teddy",
+      "TW": "測試者：Fuу Beлаfarinrod Сenne Тeddy"
     }
   }
 }

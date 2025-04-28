@@ -13,7 +13,7 @@
     "translation": "5 秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "5秒",
       "CN": "5 秒",
       "KR": "",
       "TW": ""
@@ -23,7 +23,7 @@
     "translation": "5 秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "5秒",
       "CN": "5 秒",
       "KR": "",
       "TW": ""
@@ -53,120 +53,120 @@
     "translation": "基础速度 0 -250 500",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ベースバリュー 0 -250 500",
       "CN": "基础速度 0 -250 500",
-      "KR": "",
-      "TW": ""
+      "KR": "기준속도 0 -250 500",
+      "TW": "基-Speed 0 -250 500"
     }
   },
   "deep water in this region will damage you": {
     "translation": "此区域的深水会对你造成伤害",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "この区域の深水に damages 你",
       "CN": "此区域的深水会对你造成伤害",
-      "KR": "",
-      "TW": ""
+      "KR": "이 지역의 깊은 물에 들면 피해를 입습니다",
+      "TW": "深水區域會傷害你"
     }
   },
   "door opens 20 s": {
     "translation": "门打开 20 秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアが開く20秒",
       "CN": "门打开 20 秒",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 열리려면 20초 후",
+      "TW": "門開啓 20 s"
     }
   },
   "map by king buzzo": {
     "translation": "地图作者：king buzzo 翻译：Ayanami♪",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "マップby キング・ブッツォ",
       "CN": "地图作者：king buzzo 翻译：Ayanami♪",
-      "KR": "",
-      "TW": ""
+      "KR": "맵은 KING BUZZO가 제작했습니다.",
+      "TW": "地圖由king buzzo繪製"
     }
   },
   "nuke in 20 seconds": {
     "translation": "20 秒后核爆",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "20秒後に核爆発",
       "CN": "20 秒后核爆",
-      "KR": "",
-      "TW": ""
+      "KR": "핵무기 20초 후 발사",
+      "TW": "核爆剩20秒"
     }
   },
   "opens": {
     "translation": "打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "開きます",
       "CN": "打开",
       "KR": "",
-      "TW": ""
+      "TW": "开启"
     }
   },
   "opens 10 s": {
     "translation": "打开 10 秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "開く 10 s",
       "CN": "打开 10 秒",
-      "KR": "",
-      "TW": ""
+      "KR": "열리기 10s",
+      "TW": "開啟 10 s"
     }
   },
   "opens 20 s": {
     "translation": "打开 20 秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "開く 20 s",
       "CN": "打开 20 秒",
-      "KR": "",
-      "TW": ""
+      "KR": "열린 시간 20 s",
+      "TW": "開啟 20 s"
     }
   },
   "opens 25 s": {
     "translation": "打开 25 秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "開く 25 s",
       "CN": "打开 25 秒",
-      "KR": "",
-      "TW": ""
+      "KR": "열린다 25초 후",
+      "TW": "開啟 25 s"
     }
   },
   "socre a goal to open the next door ": {
     "translation": "打开下一扇门",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "スコアを取って次の扉を開けます",
       "CN": "打开下一扇门",
-      "KR": "",
-      "TW": ""
+      "KR": "점수를 얻으세요. 다음 문을 열 수 있게 해주세요.",
+      "TW": "得分開啟下1扇門"
     }
   },
   "this is the final door, run!": {
     "translation": "这是最后一扇门，快跑！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "この最後の扉、走れ！",
       "CN": "这是最后一扇门，快跑！",
-      "KR": "",
-      "TW": ""
+      "KR": "이게 마지막 문이다, 뛰어라!",
+      "TW": "這是最後1扇門，快跑！"
     }
   },
   "water rises, shoot the ball into the goal": {
     "translation": "水位上升，将球射入球门",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "水が上がります。ゴールにボールをシュートします。",
       "CN": "水位上升，将球射入球门",
-      "KR": "",
-      "TW": ""
+      "KR": "물이 올라오면 공을 골문에 넣으세요",
+      "TW": "水位上升，射球入門"
     }
   }
 }

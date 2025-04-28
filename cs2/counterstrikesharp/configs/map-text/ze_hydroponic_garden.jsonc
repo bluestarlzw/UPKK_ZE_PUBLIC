@@ -113,7 +113,7 @@
     "translation": "| 激光 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| ビーム |",
       "CN": "| 激光 |",
       "KR": "",
       "TW": ""
@@ -123,20 +123,20 @@
     "translation": "| 魔方 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| クーブ |",
       "CN": "| 魔方 |",
-      "KR": "",
-      "TW": ""
+      "KR": "| 큐브 |",
+      "TW": "| 6面體 |"
     }
   },
   "| SHIELD |": {
     "translation": "| 护盾 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| シールド |",
       "CN": "| 护盾 |",
-      "KR": "",
-      "TW": ""
+      "KR": "| 보호막 |",
+      "TW": "| 防御值 |"
     }
   },
   "| STAGE 1 SET AS NEXT STAGE |": {
@@ -146,87 +146,87 @@
       "JP": "",
       "CN": "| 第1关设为下一关 |",
       "KR": "",
-      "TW": ""
+      "TW": "| 第1關設為下1關 |"
     }
   },
   "| STAGE 2 SET AS NEXT STAGE |": {
     "translation": "| 第2关设为下一关 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| ステージ2を次のステージに設定 |",
       "CN": "| 第2关设为下一关 |",
-      "KR": "",
-      "TW": ""
+      "KR": "| 제2 스테이지 설정 다음 스테이지 |",
+      "TW": "| 第2關設為下1關 |"
     }
   },
   "| STAGE 3 SET AS NEXT STAGE |": {
     "translation": "| 第3关设为下一关 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| ステージ3を次のステージに設定 |",
       "CN": "| 第3关设为下一关 |",
-      "KR": "",
-      "TW": ""
+      "KR": "| 제3 스테이지 다음 스테이지로 설정 |",
+      "TW": "| 第3關設為下1個關卡 |"
     }
   },
   "| STAGE 4 SET AS NEXT STAGE |": {
     "translation": "| 第4关设为下一关 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| 第4ステージを次のステージに設定 |",
       "CN": "| 第4关设为下一关 |",
       "KR": "",
-      "TW": ""
+      "TW": "| 第4關設為下1個關卡 |"
     }
   },
   "| SURVIVE FOR 40 SECONDS |": {
     "translation": "| 生存40s |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| 40秒生存 |",
       "CN": "| 生存40s |",
-      "KR": "",
-      "TW": ""
+      "KR": "| 40 초 생존 |",
+      "TW": "| 存活 40 秒 |"
     }
   },
   "| Zombie beam |": {
     "translation": "| 僵尸激光 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビビーム |",
       "CN": "| 僵尸激光 |",
-      "KR": "",
-      "TW": ""
+      "KR": "| 블라이머beam |",
+      "TW": "| 蠕虫射線 |"
     }
   },
   "| Zombie gravity |": {
     "translation": "| 僵尸黑洞 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビの重力 |",
       "CN": "| 僵尸黑洞 |",
-      "KR": "",
-      "TW": ""
+      "KR": "| 블록해지중의 좀비 |",
+      "TW": "|殭屍重力|"
     }
   },
   "| Zombie heal |": {
     "translation": "| 僵尸治疗 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビ回復|",
       "CN": "| 僵尸治疗 |",
-      "KR": "",
-      "TW": ""
+      "KR": "| 좀비 치료 |",
+      "TW": "喪屍治療"
     }
   },
   "| Zombie stars |": {
     "translation": "| 僵尸秒杀 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビスターhtags:>> <<",
       "CN": "| 僵尸秒杀 |",
-      "KR": "",
-      "TW": ""
+      "KR": "| 블림-stars |",
+      "TW": "|殭屍星星|"
     }
   }
 }

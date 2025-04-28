@@ -3,9 +3,9 @@
     "translation": "地图作者：FreeZe 翻译：秋刀鱼",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>マップを作成したFreeZe<<<",
       "CN": "地图作者：FreeZe 翻译：秋刀鱼",
-      "KR": "",
+      "KR": ">>>맵 제작자 FreeZe<<<",
       "TW": ""
     }
   },
@@ -13,27 +13,27 @@
     "translation": "前往黑珍珠",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>黒い Pearlay に道をつける！<<<",
       "CN": "前往黑珍珠",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>블랙펄로 가세요!<<<",
+      "TW": ">>>前往黑珍珠！<<<"
     }
   },
   "Thanks to Belafarinrod Fuu and Kaemon!": {
     "translation": "感谢 Belafarinrod Fuu 和 Kaemon！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Belafarinrod Fuu と Kaemon に感謝！",
       "CN": "感谢 Belafarinrod Fuu 和 Kaemon！",
-      "KR": "",
-      "TW": ""
+      "KR": "Belafarinrod Fuu와 Kaemon에게 감사드립니다!",
+      "TW": "感謝Belafarinrod Fuu和Kaemon！"
     }
   },
   ">>>JACKS PISTOL HAS BEEN TAKEN<<<": {
     "translation": "杰克的手枪捡起",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>ジャックスのピストルが取られた<<<",
       "CN": "杰克的手枪捡起",
       "KR": "",
       "TW": ""
@@ -43,30 +43,30 @@
     "translation": "冷却 60",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>クールダウン60secs<<<",
       "CN": "冷却 60",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>쿨다운 60secs<<<",
+      "TW": ">>>冷卻 60 秒<<<"
     }
   },
   ">>>Press USE to shoot<<<": {
     "translation": "按E使用",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>USEを押して射出<<<",
       "CN": "按E使用",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>USE을 누르면 발사<<<",
+      "TW": ">>>按USE開槍<<<"
     }
   },
   ">>> HOLD 30 SECONDS <<<": {
     "translation": "守住30秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> 30秒間ホールド <<<",
       "CN": "守住30秒",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 30초 유지 <<<",
+      "TW": ">>> 持續 30 秒 <<<"
     }
   },
   ">>> 5 SECONDS LEFT <<<": {
@@ -75,17 +75,17 @@
       "US": "",
       "JP": "",
       "CN": "还剩5秒",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 5 초 남음 <<<",
+      "TW": ">>> 5 秒鐘剩下 <<<"
     }
   },
   ">>> RUUUN <<<": {
     "translation": "跑",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> ラン <<<",
       "CN": "跑",
-      "KR": "",
+      "KR": ">>> 러ún <<<",
       "TW": ""
     }
   },
@@ -93,49 +93,49 @@
     "translation": "10秒后传送",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>10秒後に1つ目のホールドゾーンがテレポートされます<<<",
       "CN": "10秒后传送",
-      "KR": "",
-      "TW": ""
+      "KR": ">>10초 후 1번째 보유-zone이 전송됩니다<<",
+      "TW": ">>>10秒後1號佔 Holds 將被傳送<<<"
     }
   },
   ">>> HOLD THE MILL 30 SECONDS <<<": {
     "translation": "守住30s",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> ミルを30秒間ホールド <<<",
       "CN": "守住30s",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 밀을 30초간 지켜라 <<<",
+      "TW": ">>> 擁抱磨坊 30 秒 <<<"
     }
   },
   ">>> JUMP ONTO THE WHEEL <<<": {
     "translation": "跳上轮子",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> 車輪にジャンプ <<<",
       "CN": "跳上轮子",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 휠에 점프해 <<<",
+      "TW": ">>> 跳上輪盤 <<<"
     }
   },
   ">>>GET ONTO THE BLACK PEARL<<<": {
     "translation": "登上黑珍珠",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>ブラックパールに乗り込み<<<",
       "CN": "登上黑珍珠",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>블랙 피어럴에 오르세요<<<",
+      "TW": ">>>上黑珍珠<<<"
     }
   },
   ">>>Jungle gettting teleported in 10 seconds<<<": {
     "translation": "10秒后传送",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>ジャングルが10秒後にテレポート<<<",
       "CN": "10秒后传送",
-      "KR": "",
+      "KR": ">>>ジャングルが10秒後にテレポートされる<<<",
       "TW": ""
     }
   },
@@ -143,29 +143,29 @@
     "translation": "黑珍珠已到达",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> pearl に着きました <<<",
       "CN": "黑珍珠已到达",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>펄.has已经被达到<<<",
+      "TW": ">>>珍珠已到達<<<"
     }
   },
   ">>>Cannons charging. 60 seconds left<<<": {
     "translation": "大炮装填60秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>銃砲が装填中。残り60秒<<<",
       "CN": "大炮装填60秒",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>포함 충전 중. 60 초 남음<<<",
+      "TW": ">>>砲彈 Ready. 60 秒<<<"
     }
   },
   ">>>PISTOL-SHOT CHARGING<<<": {
     "translation": "手枪装弹",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>ピストルシュートチャージング<<<",
       "CN": "手枪装弹",
-      "KR": "",
+      "KR": ">>> Pistol-shot Charging <<<",
       "TW": ""
     }
   },
@@ -173,59 +173,59 @@
     "translation": "还剩60秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>>ピストル装填60秒待って<<<<",
       "CN": "还剩60秒",
       "KR": "",
-      "TW": ""
+      "TW": ">>> Pistole备用 60 s <<<"
     }
   },
   ">>>>Pistol ready in 30 s<<<<": {
     "translation": "还剩30秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>>ピストル準備中 30 s<<<<",
       "CN": "还剩30秒",
       "KR": "",
-      "TW": ""
+      "TW": ">>>>手槍準備好，30秒<<<<"
     }
   },
   ">>>15 seconds left<<<": {
     "translation": "还剩15秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>15秒-left<<<",
       "CN": "还剩15秒",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>15 초 남음<<<",
+      "TW": ">>15秒剩餘<<"
     }
   },
   ">>>CANNONS SHOOTING<<<": {
     "translation": "大炮发射",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>キャノン射撃<<<",
       "CN": "大炮发射",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>포병 발사<<<",
+      "TW": ">>> Cannons Shooting <<<"
     }
   },
   ">>>>Pistol ready in 5 s<<<<": {
     "translation": "还剩5s",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>>ピストル準備中 5秒<<<<",
       "CN": "还剩5s",
       "KR": "",
-      "TW": ""
+      "TW": ">>>>手槍准備好於5 s<<<<"
     }
   },
   ">>>>PISTOL READY<<<<": {
     "translation": "黑珍珠就绪",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>>ピストル装填<<<<",
       "CN": "黑珍珠就绪",
-      "KR": "",
+      "KR": ">>>> Pistol Ready <<<<",
       "TW": ""
     }
   },
@@ -233,20 +233,20 @@
     "translation": "防守30秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>30秒防禦<<<",
       "CN": "防守30秒",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>30초 방어<<<",
+      "TW": ">>>防禦30秒<<<"
     }
   },
   ">>>5 seconds left<<<": {
     "translation": "还剩5秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>5秒後ureka<<<",
       "CN": "还剩5秒",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>5초 남음<<<",
+      "TW": ">>>5秒剩餘<<<"
     }
   },
   ">>>RUUUUUN<<<": {

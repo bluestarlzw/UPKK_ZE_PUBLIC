@@ -3,20 +3,20 @@
     "translation": "** 地图已修改！翻译：Asteri3m **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 地図が変更されました！ **",
       "CN": "** 地图已修改！翻译：Asteri3m **",
-      "KR": "",
-      "TW": ""
+      "KR": "** 맵 수정됨! **",
+      "TW": "** 圖map修改！ **"
     }
   },
   "** You took too long to trigger, slaying all humans... **": {
     "translation": "** 触发太慢，处死所有人类... **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** あなたがトリガーにかかりすぎるのを待たせたよ... すべての人間を殺してしまったよ... ***",
       "CN": "** 触发太慢，处死所有人类... **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 당신이activation에 너무 오랜 시간이 걸렸습니다... 모든 인간을 물리치게 되었습니다 ***",
+      "TW": "**你觸發得太晚，殺光了所有人類...**"
     }
   },
   "| 1 |": {
@@ -46,7 +46,7 @@
       "JP": "",
       "CN": "| 剩余25秒 |",
       "KR": "",
-      "TW": ""
+      "TW": "| 25 秒剩餘 |"
     }
   },
   "| 3 |": {
@@ -76,7 +76,7 @@
       "JP": "",
       "CN": "| 剩余5秒 |",
       "KR": "",
-      "TW": ""
+      "TW": "| 5 秒鐘剩下 |"
     }
   },
   "| 5 |": {
@@ -93,7 +93,7 @@
     "translation": "| 征战场门将在25秒后打开 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| アrena door will open in 25 seconds |",
       "CN": "| 征战场门将在25秒后打开 |",
       "KR": "",
       "TW": ""
@@ -103,40 +103,40 @@
     "translation": "| 门将在10秒后打开 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "扉は10秒後に開きます |",
       "CN": "| 门将在10秒后打开 |",
-      "KR": "",
-      "TW": ""
+      "KR": "| 문은 10 초 후에 열립니다 |",
+      "TW": "| 门將在10秒後打開 |"
     }
   },
   "| DOOR WILL OPEN IN 25 SECONDS |": {
     "translation": "| 门将在25秒后打开 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "扉は25秒後に開きます |",
       "CN": "| 门将在25秒后打开 |",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 25초 후에 열립니다 |",
+      "TW": "| 門將在25秒後開啟 |"
     }
   },
   "| DOORS WILL OPEN IN 10 SEC |": {
     "translation": "| 门将在10秒后打开 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアは10秒後に開きます",
       "CN": "| 门将在10秒后打开 |",
-      "KR": "",
-      "TW": ""
+      "KR": "| 문이 열리는 시간은 10SEC 남음 |",
+      "TW": "| 門将在10秒後開啟 |"
     }
   },
   "| FIRST DOOR WILL OPEN IN 15 SEC |": {
     "translation": "| 第一扇门将在15秒后打开 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| 第一ドアは15秒後に開きます |",
       "CN": "| 第一扇门将在15秒后打开 |",
-      "KR": "",
-      "TW": ""
+      "KR": "| 첫 문이 열릴 시간은 15SEC 남음 |",
+      "TW": "| 第1扇門將在15秒後開啟 |"
     }
   },
   "| HEAL HAS BEEN PICKED UP |": {
@@ -153,17 +153,17 @@
     "translation": "| 最后一扇门将在15秒后打开 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| 最後の扉は15秒後に開きます |",
       "CN": "| 最后一扇门将在15秒后打开 |",
-      "KR": "",
-      "TW": ""
+      "KR": "| 마지막 문이 열리는 시간은 15SEC |",
+      "TW": "| 最後1扇門將在15秒後開啟 |"
     }
   },
   "| LIFT WILL MOVE IN 15 SECONDS |": {
     "translation": "| 电梯将在15秒后移动 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| 15秒後にエレベーターが動きます |",
       "CN": "| 电梯将在15秒后移动 |",
       "KR": "",
       "TW": ""
@@ -173,69 +173,69 @@
     "translation": "| 岩石将在20秒内破碎 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| ロックは20秒後に破れる |",
       "CN": "| 岩石将在20秒内破碎 |",
       "KR": "",
-      "TW": ""
+      "TW": "| 石頭将在20秒後破裂 |"
     }
   },
   "| ROUND FAILURE |": {
     "translation": "| 回合失败 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| ロウンドファイラURE |",
       "CN": "| 回合失败 |",
       "KR": "",
-      "TW": ""
+      "TW": "| 圓數失敗 |"
     }
   },
   "| SOMETHING WILL HAPPEN IN 15 SECONDS |": {
     "translation": "| 15秒后将发生某些事情 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| 15秒後に何かが起こります |",
       "CN": "| 15秒后将发生某些事情 |",
-      "KR": "",
-      "TW": ""
+      "KR": "| 15초 후에 무언가가 일어납니다 |",
+      "TW": "| 15秒後omething will happen |"
     }
   },
   "| SUCCESS |": {
     "translation": "| 成功 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| 成功 |",
       "CN": "| 成功 |",
-      "KR": "",
-      "TW": ""
+      "KR": "| 성공 |",
+      "TW": "| 成功 |"
     }
   },
   "| WAIT HERE FOR 15 SECONDS |": {
     "translation": "| 在这里等待15秒 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| 15秒後にここに戻 coming soon |",
       "CN": "| 在这里等待15秒 |",
-      "KR": "",
-      "TW": ""
+      "KR": "| 여기서 15초 기다려주세요 |",
+      "TW": "|在此等候15秒|"
     }
   },
   "| ZOMBIE DETECTED |": {
     "translation": "| 检测到僵尸 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビ検知 |",
       "CN": "| 检测到僵尸 |",
-      "KR": "",
-      "TW": ""
+      "KR": "|ゾンビ検出|",
+      "TW": "| 愛滋人偵測到 |"
     }
   },
   "| ZOMBIES TELEPORT BEHIND IN 15 SEC |": {
     "translation": "| 僵尸将在15秒后传送到后面 |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビが15秒後にテレポートします |",
       "CN": "| 僵尸将在15秒后传送到后面 |",
-      "KR": "",
+      "KR": "| Zombies Teleport Behind in 15 SEC |",
       "TW": ""
     }
   }

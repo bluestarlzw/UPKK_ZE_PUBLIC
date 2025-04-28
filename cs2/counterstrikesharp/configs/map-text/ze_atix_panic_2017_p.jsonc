@@ -3,10 +3,10 @@
     "translation": "++ 15秒内选择 ++",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "++ 15秒选择 ++",
       "CN": "++ 15秒内选择 ++",
-      "KR": "",
-      "TW": ""
+      "KR": "++ 15 초를 선택하십시오 ++",
+      "TW": "++ 15 秒鐘 Dresses +++"
     }
   },
   "++ 20 SECONDS UNTIL THE HELICOPTER LEAVES ++": {
@@ -33,10 +33,10 @@
     "translation": "++ 60秒后彩蛋将失效 ++",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "++ 60秒後秘密將被禁用 ++",
       "CN": "++ 60秒后彩蛋将失效 ++",
-      "KR": "",
-      "TW": ""
+      "KR": "++ 60 초까지 비밀이 작동하지 않음 ++",
+      "TW": "++ 60 秒鐘直到秘密被禁用 ++"
     }
   },
   "++ ALL FLOORS ARE UNLOCKED ++": {
@@ -45,68 +45,68 @@
       "US": "",
       "JP": "",
       "CN": "++ 所有楼层已解锁 ++",
-      "KR": "",
-      "TW": ""
+      "KR": "++ 모든 층이 잠금 해제 되었습니다 ++",
+      "TW": "++ 所有樓層均已解鎖 ++"
     }
   },
   "++ DOORS WILL BE UNLOCKED IN 120 SECONDS ++": {
     "translation": "++ 120秒后门将解锁 ++",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "++ ドアは120秒後で開锁します ++",
       "CN": "++ 120秒后门将解锁 ++",
-      "KR": "",
-      "TW": ""
+      "KR": "++ 문은 120초 후에 열립니다 ++",
+      "TW": "++ 120 秒後門將被打開 ++"
     }
   },
   "++ DOORS WILL BE UNLOCKED IN 30 SECONDS ++": {
     "translation": "++ 30秒后门将解锁 ++",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "++ ドアは30秒後に開锁 ++",
       "CN": "++ 30秒后门将解锁 ++",
       "KR": "",
-      "TW": ""
+      "TW": "++ 30 秒後門將打開 ++"
     }
   },
   "++ DOORS WILL BE UNLOCKED IN 60 SECONDS ++": {
     "translation": "++ 60秒后门将解锁 ++",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "++ ドアは60秒後に開きます ++",
       "CN": "++ 60秒后门将解锁 ++",
-      "KR": "",
-      "TW": ""
+      "KR": "++ 문은 60초 후에 열립니다 ++",
+      "TW": "++ 60 秒後門將打開 ++"
     }
   },
   "++ FIRST FLOOR WILL BE UNLOCKED IN 10 SECONDS ++": {
     "translation": "++ 10秒后解锁第一层 ++",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "++ 10秒後に1階が解放されます ++",
       "CN": "++ 10秒后解锁第一层 ++",
-      "KR": "",
-      "TW": ""
+      "KR": "++ 첫층은 10초 후에 잠금 해제됩니다 ++",
+      "TW": "++ 第1層將在 10 秒後解鎖 ++"
     }
   },
   "++ HELICOPTER IS LEAVING ++": {
     "translation": "++ 直升机正在离开 ++",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "++ ヘリコプターは去ります ++",
       "CN": "++ 直升机正在离开 ++",
-      "KR": "",
-      "TW": ""
+      "KR": "++ helicopter is leaving ++",
+      "TW": "++ 直昇機正在離開 ++"
     }
   },
   "++ HELICOPTER ON THE WAY ++": {
     "translation": "++ 直升机在路上 ++",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "++ヘリコプター到着中++",
       "CN": "++ 直升机在路上 ++",
-      "KR": "",
-      "TW": ""
+      "KR": "+++ helicopter on the way +++",
+      "TW": "++直升機馬上到達++"
     }
   },
   "++ NUKE IN 10 SECONDS ++": {
@@ -123,40 +123,40 @@
     "translation": "++ 10秒后解锁第二层 ++",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "++ 2階は10秒後に unlocks ++",
       "CN": "++ 10秒后解锁第二层 ++",
-      "KR": "",
-      "TW": ""
+      "KR": "++ 두 번째층은 10초 후에 잠금이 해제됩니다 ++",
+      "TW": "++ 第2層將於10秒後解鎖 ++"
     }
   },
   "++ THIRD FLOOR WILL BE UNLOCKED IN 10 SECONDS ++": {
     "translation": "++ 10秒后解锁第三层 ++",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "+++ 3Fは10秒後に unlocks +++",
       "CN": "++ 10秒后解锁第三层 ++",
-      "KR": "",
-      "TW": ""
+      "KR": "+++ tercer층은 10초 후에 잠금이 해제됩니다 +++",
+      "TW": "++ 第3層将在10秒後解鎖 ++"
     }
   },
   "++ Wrong button! ++": {
     "translation": "++ 按错按钮！ ++",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "++間違えたボタン！++",
       "CN": "++ 按错按钮！ ++",
-      "KR": "",
-      "TW": ""
+      "KR": "++ 잘못 누르셨나 봐! ++",
+      "TW": "++ 错按鍵了！ ++"
     }
   },
   "++ ZOMBIE BARRIERS ARE EASIER TO BREAK NOW ++": {
     "translation": "++ 现在僵尸更容易破坏围栏 ++",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "++ゾンビバリアは今より壊しやすくなりました++",
       "CN": "++ 现在僵尸更容易破坏围栏 ++",
-      "KR": "",
-      "TW": ""
+      "KR": "++ 좀비 벽은 이제更容易破碎 ++",
+      "TW": "+++殭屍障礙現在更容易突破+++"
     }
   }
 }

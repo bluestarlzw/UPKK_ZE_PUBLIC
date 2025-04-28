@@ -3,40 +3,40 @@
     "translation": "## 已使用奶/风 ##",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "##Heal&Wind が使用されました##",
       "CN": "## 已使用奶/风 ##",
-      "KR": "",
-      "TW": ""
+      "KR": "## Heal&Wind를 사용했습니다 ##",
+      "TW": "## Heal&風 已使用 ##"
     }
   },
   "##Many ideas come from ze_rizomata##": {
     "translation": "## 许多创意来自 ze_rizomata 精灵塔##",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "##多くのアイデアはze_rizomataから##",
       "CN": "## 许多创意来自 ze_rizomata 精灵塔##",
-      "KR": "",
-      "TW": ""
+      "KR": "##많은 아이디어가 ze_rizomata에서Coming##",
+      "TW": "##很多想法來自ze_rizomata##"
     }
   },
   "##someone picked up the Heal&Wind##": {
     "translation": "## 已拾取奶/风 ##",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "##誰かHeal&Windを拾いました##",
       "CN": "## 已拾取奶/风 ##",
-      "KR": "",
-      "TW": ""
+      "KR": "##누군가 Heal&Wind을 채웠습니다##",
+      "TW": "##有人拾起了Heal&Wind##"
     }
   },
   "##thanks for your playing##": {
     "translation": "## 感谢你的游玩 ##",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "##感謝您的游玩##",
       "CN": "## 感谢你的游玩 ##",
-      "KR": "",
-      "TW": ""
+      "KR": "##감사합니다. 게임해 주셔서##",
+      "TW": "##謝謝您的玩賞##"
     }
   }
 }

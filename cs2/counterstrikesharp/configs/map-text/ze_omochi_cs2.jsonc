@@ -63,80 +63,80 @@
     "translation": "[ 失败 ]",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[ 失敗 ]",
       "CN": "[ 失败 ]",
-      "KR": "",
-      "TW": ""
+      "KR": "[ 실패 ]",
+      "TW": "[ 失敗 ]"
     }
   },
   "[ stage 1 ]": {
     "translation": "[ 关卡 1 ] 翻译：Asteri3m",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[ ステージ 1 ]",
       "CN": "[ 关卡 1 ] 翻译：Asteri3m",
-      "KR": "",
-      "TW": ""
+      "KR": "[ 스테이지 1 ]",
+      "TW": "[ 階段 1 ]"
     }
   },
   "[ stage 2 ]": {
     "translation": "[ 关卡 2 ]",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[ステージ 2]",
       "CN": "[ 关卡 2 ]",
-      "KR": "",
-      "TW": ""
+      "KR": "[ 스테이지 2 ]",
+      "TW": "[ 階段 2 ]"
     }
   },
   "[ stage 3 ]": {
     "translation": "[ 关卡 3 ]",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[ステージ3]",
       "CN": "[ 关卡 3 ]",
-      "KR": "",
-      "TW": ""
+      "KR": "[ 스테이지 3 ]",
+      "TW": "[ 第3關 ]"
     }
   },
   "ball spawned": {
     "translation": "弹幕已生成",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボール生成",
       "CN": "弹幕已生成",
-      "KR": "",
-      "TW": ""
+      "KR": "볼 생성되었습니다",
+      "TW": "球體spawned"
     }
   },
   "cube 1": {
     "translation": "方块 1",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "キューブ 1",
       "CN": "方块 1",
-      "KR": "",
-      "TW": ""
+      "KR": "큐브 1",
+      "TW": "立方體 1"
     }
   },
   "cube 2": {
     "translation": "方块 2",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "キューブ 2",
       "CN": "方块 2",
-      "KR": "",
-      "TW": ""
+      "KR": "큐브 2",
+      "TW": "立方體 2"
     }
   },
   "cube 3": {
     "translation": "方块 3",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "キューブ 3",
       "CN": "方块 3",
-      "KR": "",
-      "TW": ""
+      "KR": "큐브 3",
+      "TW": "立方體 3"
     }
   }
 }

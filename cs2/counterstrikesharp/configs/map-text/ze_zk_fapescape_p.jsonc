@@ -3,29 +3,29 @@
     "translation": "*** 门将在30秒内打开 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ドアが開くまで30秒***",
       "CN": "*** 门将在30秒内打开 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 문이 30초 후에 열립니다 ***",
+      "TW": "*** 門在30秒後開啟 ***"
     }
   },
   "*** Door opens in 25 seconds ***": {
     "translation": "*** 门将在25秒内打开 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ドアが25秒後に開きます***",
       "CN": "*** 门将在25秒内打开 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 문이 25초 후에 열립니다 ***",
+      "TW": "*** 大门-opening 在 25 秒後 ***"
     }
   },
   "*** Hold 30 second for victory! ***": {
     "translation": "*** 坚持30秒即可胜利！ ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 30秒間 HOLDして勝利を！ ***",
       "CN": "*** 坚持30秒即可胜利！ ***",
-      "KR": "",
+      "KR": "*** 30 초간 유지하여 승리하세요! ***",
       "TW": ""
     }
   },
@@ -33,49 +33,49 @@
     "translation": "*** 在这里坚守20秒 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** ここを20秒間保持 ***",
       "CN": "*** 在这里坚守20秒 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 여기서 20 초간 대기 ***",
+      "TW": "*** 擁抱這裡 20 秒 ***"
     }
   },
   "*** KILL RICK ASTLEY BEFORE HE RICKROLLS US! ***": {
     "translation": "*** 杀掉Rick Astley，别让他给我们来个RICKROLLS！***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** KILL RICK ASTLEY Before He Rickrolls Us! ***",
       "CN": "*** 杀掉Rick Astley，别让他给我们来个RICKROLLS！***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 빌리 아스턴을 먼저 죽여라!Rick롤링하지 않게! ***",
+      "TW": "*** 絕對殺死RICK ASTLEYprzed他Rickroll我們！ ***"
     }
   },
   "*** Map by Kim and P'a'ss ***": {
     "translation": "*** 地图由Kim和P'a'ss制作 翻译：Asteri3m***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** マップby Kim and P'a'ss ***",
       "CN": "*** 地图由Kim和P'a'ss制作 翻译：Asteri3m***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 맵 제작 김과 P'a'ss ***",
+      "TW": "*** 圖案由Kim和P'a'ss製作 ***"
     }
   },
   "*** Noob Cleaned ***": {
     "translation": "*** 新手清理完毕 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** ノブクリーント ***",
       "CN": "*** 新手清理完毕 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 뉴비 청소 ***",
+      "TW": "*** 新手清除 ***"
     }
   },
   "*** OH NOOES ***": {
     "translation": "*** 哦不 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "\"*** オヒーノーズ ***\"",
       "CN": "*** 哦不 ***",
-      "KR": "",
+      "KR": "***OH NOESES***",
       "TW": ""
     }
   },
@@ -85,7 +85,7 @@
       "US": "",
       "JP": "",
       "CN": "*** RICK ASTLEY死了 ***",
-      "KR": "",
+      "KR": "*** 리치 어스티리는 죽었습니다 ***",
       "TW": ""
     }
   },
@@ -93,50 +93,50 @@
     "translation": "*** 传送器将在15秒内激活 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** テレポーターが15秒後にActivate ***",
       "CN": "*** 传送器将在15秒内激活 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 텔레포터 활성화 15초 후 ***",
+      "TW": "*** TELEPORTER ACTIVATES IN 15 SECONDS ***"
     }
   },
   "*** YOU SUCK ***": {
     "translation": "*** 你真差劲 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** あなたはakest  ***",
       "CN": "*** 你真差劲 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 당신은 정말로 비효율적입니다 ***",
+      "TW": "*** 你媽的 ***"
     }
   },
   "*** Boat leaving in 5 seconds ***": {
     "translation": "船将在5秒后离开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 船只离开后5秒 ***",
       "CN": "船将在5秒后离开",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 배가 5초 후에 출발 ***",
+      "TW": "*** 船隻5秒後出發 ***"
     }
   },
   "* Turning music on *": {
     "translation": "打开音乐",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*音楽をオンにします*",
       "CN": "打开音乐",
-      "KR": "",
-      "TW": ""
+      "KR": "*음악 재생 *</span>",
+      "TW": "*開啓音樂=*"
     }
   },
   "*** Door Opening in 20 seconds! ***": {
     "translation": "*** 门将在20秒内打开！ ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ドア開きは20秒後です!!!***",
       "CN": "*** 门将在20秒内打开！ ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 문이 20초 후에 열립니다! ***",
+      "TW": "***門開啟倒數20秒！***"
     }
   }
 }

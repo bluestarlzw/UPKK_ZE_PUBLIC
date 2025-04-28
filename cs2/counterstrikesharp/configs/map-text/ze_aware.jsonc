@@ -5,7 +5,7 @@
       "US": "",
       "JP": "",
       "CN": "< 由@Seth移植到CS2 >",
-      "KR": "",
+      "KR": "CS2 Port由@Seth制作",
       "TW": ""
     }
   },
@@ -13,10 +13,10 @@
     "translation": "< 地图由Maqu制作 翻译：Asteri3m >",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "マップby マク",
       "CN": "< 地图由Maqu制作 翻译：Asteri3m >",
-      "KR": "",
-      "TW": ""
+      "KR": "맵均由Maqu制作",
+      "TW": "< 圖譜 by Maqu >"
     }
   },
   "< ze_Aware >": {
@@ -25,7 +25,7 @@
       "US": "",
       "JP": "",
       "CN": "< ze_Aware 梦中的圣堂 >",
-      "KR": "",
+      "KR": "< ze_Wareum >",
       "TW": ""
     }
   },

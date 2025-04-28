@@ -3,39 +3,39 @@
     "translation": "起重机1将在25秒后启动",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Crane 1 は 25 秒後に作業開始",
       "CN": "起重机1将在25秒后启动",
-      "KR": "",
-      "TW": ""
+      "KR": "Crane 1 sẽ làm việc sau 25 giây",
+      "TW": "Crane 1 將於 25 秒後工作"
     }
   },
   "Crane 2 will work in 30 seconds": {
     "translation": "起重机2将在30秒后启动",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Crane 2 は30秒後に作業開始です",
       "CN": "起重机2将在30秒后启动",
-      "KR": "",
-      "TW": ""
+      "KR": "Crane 2는 30 초 후에 작업합니다.",
+      "TW": "Crane 2 將於 30 秒後工作"
     }
   },
   "Defend for overpass 15 seconds": {
     "translation": "防守过道15秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "過半);}>{{坚守天橋15秒}}",
       "CN": "防守过道15秒",
-      "KR": "",
-      "TW": ""
+      "KR": "-overpass 15초 이상 방어해주세요-",
+      "TW": "防守過橋15秒"
     }
   },
   "Elevator leave in 25 seconds": {
     "translation": "电梯将在25秒后离开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "エレベーターは25秒後に離れます",
       "CN": "电梯将在25秒后离开",
-      "KR": "",
+      "KR": "승강기 안으로 들어가세요. 25초 후 문이 닫힙니다.",
       "TW": ""
     }
   },
@@ -43,10 +43,10 @@
     "translation": "电梯捷径将在10秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "エレベーターのショートカットが10秒後に開きます",
       "CN": "电梯捷径将在10秒后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "エ레베이터 썸단 열리기 10초 후",
+      "TW": "Elevator短-cut開放於10秒後"
     }
   },
   "Escape truck leave in 10 seconds": {
@@ -55,7 +55,7 @@
       "US": "",
       "JP": "",
       "CN": "逃生卡车将在10秒后离开",
-      "KR": "",
+      "KR": "이 트럭 탈출 10초 후 시작>>",
       "TW": ""
     }
   },
@@ -63,10 +63,10 @@
     "translation": "地图移植和修复：Stella 翻译：Asteri3m",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "マップ移植および修正by ステラ",
       "CN": "地图移植和修复：Stella 翻译：Asteri3m",
-      "KR": "",
-      "TW": ""
+      "KR": "맵 포트와 수정 oleh Stella",
+      "TW": "地圖移植及修正由Stella完成"
     }
   },
   "Original map by Nexon CSO": {
@@ -75,15 +75,15 @@
       "US": "",
       "JP": "",
       "CN": "本地图源自Nexon旗下的反恐精英Online",
-      "KR": "",
-      "TW": ""
+      "KR": "원본 맵由 Nexon CSO制作",
+      "TW": "原圖由Nexon CSO提供"
     }
   },
   "Rooftop door break in 25 seconds": {
     "translation": "屋顶门破坏需要25秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "屋根の扉-breaking in 25秒",
       "CN": "屋顶门破坏需要25秒",
       "KR": "",
       "TW": ""
@@ -93,10 +93,10 @@
     "translation": "TNT将在20秒后爆炸",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "TNT 20秒後爆発",
       "CN": "TNT将在20秒后爆炸",
-      "KR": "",
-      "TW": ""
+      "KR": "TNT 폭발까지 20초",
+      "TW": "TNT爆炸倒數：20秒"
     }
   }
 }

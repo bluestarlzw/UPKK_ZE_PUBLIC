@@ -33,9 +33,9 @@
     "translation": "***船将在15秒内离开***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ボート離去 15 秒***",
       "CN": "***船将在15秒内离开***",
-      "KR": "",
+      "KR": "***보트 출발 15초***",
       "TW": ""
     }
   },
@@ -43,10 +43,10 @@
     "translation": "***直升机将在10秒内离开***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ヘリ departing 10 秒***",
       "CN": "***直升机将在10秒内离开***",
-      "KR": "",
-      "TW": ""
+      "KR": "***헬리 떠나기 10초***",
+      "TW": "***直升機離開倒數10秒***"
     }
   },
   "***HELI LEAVING 20 SECONDS***": {
@@ -55,7 +55,7 @@
       "US": "",
       "JP": "",
       "CN": "***直升机将在20秒内离开***",
-      "KR": "",
+      "KR": "Note: The term \"헬리콥터\" (helicopter) is adapted to fit the in-game text style while keeping the meaning clear.",
       "TW": ""
     }
   },
@@ -63,9 +63,9 @@
     "translation": "***地图由thegregster101制作 翻译：Asteri3m***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***マップby thegregster101***",
       "CN": "***地图由thegregster101制作 翻译：Asteri3m***",
-      "KR": "",
+      "KR": "***맵 만든 thegregster101***",
       "TW": ""
     }
   },
@@ -105,7 +105,7 @@
       "US": "",
       "JP": "",
       "CN": "***电车将在10秒内离开***",
-      "KR": "",
+      "KR": "***트램 떠나기 10초***",
       "TW": ""
     }
   },
@@ -113,9 +113,9 @@
     "translation": "***使用无线电呼叫求助！***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ラジオを使用して助けを呼んでください!***",
       "CN": "***使用无线电呼叫求助！***",
-      "KR": "",
+      "KR": "***라디오를 사용해 도움을 청하세요!!***",
       "TW": ""
     }
   }

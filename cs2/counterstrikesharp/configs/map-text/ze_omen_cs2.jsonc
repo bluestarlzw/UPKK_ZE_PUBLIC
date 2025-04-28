@@ -66,57 +66,57 @@
       "JP": "",
       "CN": "* 管理员已选择关卡1 *",
       "KR": "",
-      "TW": ""
+      "TW": "| 第1關選定 |"
     }
   },
   "| PASSAGE 2 SELECTED |": {
     "translation": "* 管理员已选择关卡2 *",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| 第2关已选定 |",
       "CN": "* 管理员已选择关卡2 *",
-      "KR": "",
-      "TW": ""
+      "KR": "| PASSAGE 2 선택 |",
+      "TW": "| 第2段選取 |"
     }
   },
   "| PASSAGE 2 |": {
     "translation": "* 关卡2 *",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| 第2關 |",
       "CN": "* 关卡2 *",
-      "KR": "",
-      "TW": ""
+      "KR": "| 제2장 |",
+      "TW": "| 第2關 |"
     }
   },
   "| PASSAGE 3 SELECTED |": {
     "translation": "* 管理员已选择关卡3 *",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| 第3段选定 |",
       "CN": "* 管理员已选择关卡3 *",
       "KR": "",
-      "TW": ""
+      "TW": "| 第3關選定 |"
     }
   },
   "| PASSAGE 3 |": {
     "translation": "* 关卡3 *",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| 出典3 |",
       "CN": "* 关卡3 *",
-      "KR": "",
-      "TW": ""
+      "KR": "| 제3장 |",
+      "TW": "| 第3關 |"
     }
   },
   "| PROLOGUE |": {
     "translation": "* 序章 翻译：Asteri3m *",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "|プロローグ |",
       "CN": "* 序章 翻译：Asteri3m *",
-      "KR": "",
-      "TW": ""
+      "KR": "| 전설의 시작 |",
+      "TW": "| 前言 |"
     }
   }
 }

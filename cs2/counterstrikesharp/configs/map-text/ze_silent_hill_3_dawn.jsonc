@@ -6,7 +6,7 @@
       "JP": "",
       "CN": "错误",
       "KR": "",
-      "TW": ""
+      "TW": "錯誤"
     }
   },
   "Luckybox_1": {
@@ -14,47 +14,47 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "幸运宝箱_1",
+      "KR": "LUCKYBOX_1",
+      "TW": "幸运箱_1"
     }
   },
   "Luckybox_2": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ラッキーボックス_2",
+      "CN": "幸运箱_2",
+      "KR": "szczęśliwy_2",
+      "TW": "幸运箱_2"
     }
   },
   "Luckybox_3": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ラッキーBOX_3",
+      "CN": "幸运箱_3",
+      "KR": "LUCKYBOX_3",
+      "TW": "幸运箱_3"
     }
   },
   "Luckybox_4": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ラッキーボックス_4",
+      "CN": "幸运箱_4",
+      "KR": "행운상자_4",
+      "TW": "幸运箱_4"
     }
   },
   "Luckybox_5": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
+      "JP": "ラッキーボックス_5",
+      "CN": "幸运箱_5",
       "KR": "",
       "TW": ""
     }
@@ -63,50 +63,50 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ラッキーBOX_6",
+      "CN": "幸运箱_6",
+      "KR": "szczęśliwyboks_6",
+      "TW": "幸运盒子_6"
     }
   },
   "Luckybox_7": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ラッキーボックス_7",
+      "CN": "幸运箱_7",
+      "KR": "LUCKYBOX_7",
+      "TW": "幸运箱_7"
     }
   },
   "Luckybox_8": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ラッキーボックス_8",
+      "CN": "幸运箱_8",
+      "KR": "LUCKYBOX_8",
+      "TW": "幸运箱_8"
     }
   },
   "Luckybox_9": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ラッキーボックス_9",
+      "CN": "幸运箱_9",
+      "KR": "LUCKYBOX_9",
+      "TW": "幸运箱_9"
     }
   },
   "Luckybox_10": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ラッキーボックス_10",
+      "CN": "幸运宝箱_10",
+      "KR": "기회박스_10",
+      "TW": "幸运箱_10"
     }
   }
 }

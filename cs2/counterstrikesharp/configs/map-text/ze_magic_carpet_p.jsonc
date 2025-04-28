@@ -3,20 +3,20 @@
     "translation": "*** 地图由Soft Serve制作 翻译：Asteri3m ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 地図由 Soft Serve 制作 ***",
       "CN": "*** 地图由Soft Serve制作 翻译：Asteri3m ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 맵 제작者: Soft Serve ***",
+      "TW": "*** 圖譜由Soft Serve提供 ***"
     }
   },
   "*** Carpet is leaving in 10 seconds ***": {
     "translation": "*** 地毯将在10秒内离开 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** カーペットは10秒後に離席します ***",
       "CN": "*** 地毯将在10秒内离开 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 방탄은 10초 후에 떠납니다 ***",
+      "TW": "*** 地毯将在10秒后离开 ***"
     }
   }
 }

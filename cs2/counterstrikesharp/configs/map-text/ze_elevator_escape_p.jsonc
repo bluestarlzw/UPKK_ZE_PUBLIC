@@ -3,7 +3,7 @@
     "translation": "守住这里",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "********* これを保持する *********",
       "CN": "守住这里",
       "KR": "",
       "TW": ""
@@ -13,7 +13,7 @@
     "translation": "电梯一和二打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***エレベーター1&2开门***",
       "CN": "电梯一和二打开",
       "KR": "",
       "TW": ""
@@ -23,30 +23,30 @@
     "translation": "使用无线电",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 使用ラジオ ***",
       "CN": "使用无线电",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 사용하기 ***",
+      "TW": "*** 使用 radioset ***"
     }
   },
   "*** NUCLEAR CORE UNSTABLE ***": {
     "translation": "核芯不稳定",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***原子核不稳態 ***",
       "CN": "核芯不稳定",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 원자로 핵심 불안정 ***",
+      "TW": "***核反應爐不穩定***"
     }
   },
   "*** FALL BACK ***": {
     "translation": "撤退",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 段落后退 ***",
       "CN": "撤退",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 후퇴 ***",
+      "TW": "***退回***"
     }
   },
   "*** 5 SECONDS ***": {
@@ -63,17 +63,17 @@
     "translation": "守住这里",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** ここに留まる！ ***",
       "CN": "守住这里",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 여기서 잠시 기다리세요! ***",
+      "TW": "*** 擔保在此！ ***"
     }
   },
   "*** SELF DESTRUCT ACTIVATED - 60 SECONDS ***": {
     "translation": "自毁装置启动 - 60秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 自爆激活 - 60 秒 ***",
       "CN": "自毁装置启动 - 60秒",
       "KR": "",
       "TW": ""
@@ -83,10 +83,10 @@
     "translation": "地图作者：JB_GAMBLE 翻译：秋刀鱼",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** マップ由JB_GAMBLE制作 ***",
       "CN": "地图作者：JB_GAMBLE 翻译：秋刀鱼",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 맵 제작자 JB_GAMBLE ***",
+      "TW": "*** 地圖由 JB_GAMBLE 組織 ***"
     }
   },
   "*** MAP CRASH FIXED BY 5UNZ ***": {
@@ -96,16 +96,16 @@
       "JP": "",
       "CN": "地图修复：5unz",
       "KR": "",
-      "TW": ""
+      "TW": "*** 圖版 Crash 準確修复於 5UNZ ***"
     }
   },
   "*** WATER CART LEAVING IN 5 SECONDS***": {
     "translation": "水车5秒后出发",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ウォーターカート5秒後に離去***",
       "CN": "水车5秒后出发",
-      "KR": "",
+      "KR": "*** 물레버리 5초 후 출발 ***",
       "TW": ""
     }
   }

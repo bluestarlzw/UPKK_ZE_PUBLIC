@@ -3,9 +3,9 @@
     "translation": "**20秒后进入失落之地**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***失われた土地に20秒で入る***",
       "CN": "**20秒后进入失落之地**",
-      "KR": "",
+      "KR": "**20초 후 잃어버린 땅으로 진입**",
       "TW": ""
     }
   },
@@ -13,30 +13,30 @@
     "translation": "**最终大门将在25秒内打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最終ゲートが25秒後に開きます ***",
       "CN": "**最终大门将在25秒内打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "**최종 문이 25 초 후에 열립니다**",
+      "TW": "**最後的門扉在25秒後開啟**"
     }
   },
   "The castle gate will open in 25 seconds": {
     "translation": "城堡大门将在25秒内打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "城門は25秒後に開きます",
       "CN": "城堡大门将在25秒内打开",
-      "KR": "",
-      "TW": ""
+      "KR": "성문이 열리기까지 25초 후",
+      "TW": "城門將在 25 秒後開啟"
     }
   },
   "Underpass switch activated": {
     "translation": "地下通道开关已激活 翻译：Asteri3m",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "UNDERPASS SWITCH ACTIVATED",
       "CN": "地下通道开关已激活 翻译：Asteri3m",
-      "KR": "",
-      "TW": ""
+      "KR": "언더패스 스위치 활성화",
+      "TW": "地下通道切換啟動"
     }
   },
   "We need to defend for 20 seconds": {
@@ -45,48 +45,48 @@
       "US": "",
       "JP": "",
       "CN": "我们需要防守20秒",
-      "KR": "",
-      "TW": ""
+      "KR": "우리는 20초 동안 방어해야 합니다",
+      "TW": "我們必須防守20秒"
     }
   },
   "Zombie low HP after 10 seconds!!!": {
     "translation": "10秒后僵尸低血量！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビHP低き10秒後!!!",
       "CN": "10秒后僵尸低血量！！",
-      "KR": "",
-      "TW": ""
+      "KR": "좀비 체력 낮아지기 10초 후!!!!!",
+      "TW": "殭屍低血量after 10秒!!!"
     }
   },
   "zombieTP **20**": {
     "translation": "僵尸传送 **20s**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビーTP ***20***",
       "CN": "僵尸传送 **20s**",
-      "KR": "",
-      "TW": ""
+      "KR": "ゾンビTP **20**",
+      "TW": "喪屍TP **20**"
     }
   },
   "zombieTP **30**": {
     "translation": "僵尸传送 **30s**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビTP ***30***",
       "CN": "僵尸传送 **30s**",
-      "KR": "",
-      "TW": ""
+      "KR": "ゾンビTP ***30***",
+      "TW": "殭屍TP ***30***"
     }
   },
   "zombieTP **5**": {
     "translation": "僵尸传送 **5s**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビTP ***5***",
       "CN": "僵尸传送 **5s**",
-      "KR": "",
-      "TW": ""
+      "KR": "ゾンビTP ***5***",
+      "TW": "殭屍TP **5**"
     }
   }
 }

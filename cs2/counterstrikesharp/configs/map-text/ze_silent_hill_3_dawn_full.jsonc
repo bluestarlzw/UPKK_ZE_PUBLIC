@@ -4,19 +4,19 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
+      "CN": "幸运箱_1",
       "KR": "",
-      "TW": ""
+      "TW": "幸运箱_1"
     }
   },
   "Luckybox_2": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ラッキーボックス_2",
+      "CN": "幸运箱_2",
+      "KR": "LUCKYBOX_2",
+      "TW": "幸运箱_2"
     }
   }
 }

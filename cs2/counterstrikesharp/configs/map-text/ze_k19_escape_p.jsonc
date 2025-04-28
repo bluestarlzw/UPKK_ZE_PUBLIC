@@ -3,9 +3,9 @@
     "translation": "***木箱将在25秒内破裂***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***クレートは25秒後に爆破***",
       "CN": "***木箱将在25秒内破裂***",
-      "KR": "",
+      "KR": "***박스는 25sec 후에 깨집니다***",
       "TW": ""
     }
   },
@@ -13,9 +13,9 @@
     "translation": "***防守出口25秒***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***出口を守ってください　25sec***",
       "CN": "***防守出口25秒***",
-      "KR": "",
+      "KR": "***출구를 방어하세요 25sec***",
       "TW": ""
     }
   },
@@ -23,49 +23,49 @@
     "translation": "***防守反应堆20秒***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***反應堆を守って20sec***",
       "CN": "***防守反应堆20秒***",
-      "KR": "",
-      "TW": ""
+      "KR": "***반응堆防守20sec***",
+      "TW": "***防禦反應爐20 sec***"
     }
   },
   "***Defend this position 20 sec***": {
     "translation": "***防守这个位置20秒***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***この位置を守ってください 20 sec***",
       "CN": "***防守这个位置20秒***",
-      "KR": "",
-      "TW": ""
+      "KR": "***이 위치 방어 20 sec***",
+      "TW": "***防衛此位置 20 sec***"
     }
   },
   "***Defend this position for 15 sec***": {
     "translation": "***防守这个位置15秒***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***この位置を守ってください 15sec***",
       "CN": "***防守这个位置15秒***",
-      "KR": "",
-      "TW": ""
+      "KR": "***이 위치를 방어하세요 15sec***",
+      "TW": "***防禦此位置15 sec***"
     }
   },
   "***Defend this position for 20 sec***": {
     "translation": "***防守这个位置20秒***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***この位置を守ってください 20秒***",
       "CN": "***防守这个位置20秒***",
-      "KR": "",
-      "TW": ""
+      "KR": "***이 위치를 20sec간 방어***",
+      "TW": "***防禦此位置20 sec***"
     }
   },
   "***Doors will opens in 20 sec***": {
     "translation": "***门将在20秒内打开***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ドアは20sec後に開きます***",
       "CN": "***门将在20秒内打开***",
-      "KR": "",
+      "KR": "***문은 20sec 후에 열립니다***",
       "TW": ""
     }
   },
@@ -73,49 +73,49 @@
     "translation": "***该死！反应堆失控了，离开K-19***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ッスク！リアクターは制御不能で、K-19を退出せよ***",
       "CN": "***该死！反应堆失控了，离开K-19***",
-      "KR": "",
-      "TW": ""
+      "KR": "-League! 반응堆无法控制，撤离K-19***",
+      "TW": "***fuck! 反應爐無法控制，退出K-19***"
     }
   },
   "***Hold this position for 20 sec***": {
     "translation": "***守住这个位置20秒***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***この位置を20sec維持する***",
       "CN": "***守住这个位置20秒***",
-      "KR": "",
-      "TW": ""
+      "KR": "***이 위치에서 20sec 지켜주십시오***",
+      "TW": "*** HOLD THIS POSITION FOR 20 SEC ***"
     }
   },
   "***Map Made by xXhamadryadesXx***": {
     "translation": "***地图由xXhamadryadesXx制作 翻译：Asteri3m***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***マップを作成した xXhamadryadesXx***",
       "CN": "***地图由xXhamadryadesXx制作 翻译：Asteri3m***",
-      "KR": "",
-      "TW": ""
+      "KR": "***지도 제작자 xXhamadryadesXx***",
+      "TW": "***地圖由xXhamadryadesXx製作***"
     }
   },
   "***Shit ! the door is blocked ! Hold this position***": {
     "translation": "***该死！门被堵住了！守住这个位置***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** shit ! 门被堵住了 ! 保持这个位置 ***",
       "CN": "***该死！门被堵住了！守住这个位置***",
       "KR": "",
-      "TW": ""
+      "TW": "***Shit ! 門被堵住了！ HOLD THIS POSITION***"
     }
   },
   "***Team Fall Back to the reactor room***": {
     "translation": "***队伍撤退到反应堆室***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***チームは反応堆室内に退却する***",
       "CN": "***队伍撤退到反应堆室***",
-      "KR": "",
+      "KR": "***팀은 반응堆室撤退***",
       "TW": ""
     }
   },
@@ -123,10 +123,10 @@
     "translation": "***墙将在20秒内破裂***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***壁は20sec後に破壊されます***",
       "CN": "***墙将在20秒内破裂***",
-      "KR": "",
-      "TW": ""
+      "KR": "***벽은 20sec 후에 무너집니다***",
+      "TW": "***堵牆將在20秒後崩潰***"
     }
   },
   "> CS2 Port by @Seth <": {
@@ -135,7 +135,7 @@
       "US": "",
       "JP": "",
       "CN": "> CS2移植由@Seth完成 <",
-      "KR": "",
+      "KR": ">> CS2 포트_by @Seth <",
       "TW": ""
     }
   }

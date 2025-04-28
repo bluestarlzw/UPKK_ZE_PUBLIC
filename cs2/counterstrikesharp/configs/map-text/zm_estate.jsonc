@@ -2,61 +2,61 @@
   "天气:雾世界": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Weather: Mist World",
+      "JP": "天気:霧の世界",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "날씨:안개세계",
+      "TW": "天氣:霧世界"
     }
   },
   "天气:暴雨": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Weather: Storm",
+      "JP": "天気:暴风雨",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "날씨: 폭우",
+      "TW": "天氣:暴風雨"
     }
   },
   "天气:小雨": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Weather: Light Rain",
+      "JP": "天気:小雨",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "날씨:소나기",
+      "TW": "天氣:輕 Rain"
     }
   },
   "天气:黑夜": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Weather: Night",
+      "JP": "天候:黑夜",
       "CN": "",
       "KR": "",
-      "TW": ""
+      "TW": "天氣:黑夜"
     }
   },
   "天气:风和日丽": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Weather: Sunny and Calm",
+      "JP": "天気:風やや強めの晴れ",
       "CN": "",
       "KR": "",
-      "TW": ""
+      "TW": "天氣:風和日麗"
     }
   },
   "天气:迷雾": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Weather: Fog",
+      "JP": "天気:霧",
       "CN": "",
       "KR": "",
-      "TW": ""
+      "TW": "天氣:迷霧"
     }
   }
 }

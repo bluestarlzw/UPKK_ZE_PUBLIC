@@ -15,28 +15,28 @@
       "US": "",
       "JP": "",
       "CN": "< 防守15秒 >",
-      "KR": "",
-      "TW": ""
+      "KR": "< 15초 방어 >",
+      "TW": "< 防守 15 秒 >"
     }
   },
   "< DEFEND 60 SECONDS >": {
     "translation": "< 防守60秒 >",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "< 防御60秒 >",
       "CN": "< 防守60秒 >",
-      "KR": "",
-      "TW": ""
+      "KR": "< 60초 방어전 >",
+      "TW": "< 防守 60 秒 >"
     }
   },
   "< Defend 40s before entering the door >": {
     "translation": "< 防守40秒后，进门 >",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Defend 40s 前-door 入>>",
       "CN": "< 防守40秒后，进门 >",
-      "KR": "",
-      "TW": ""
+      "KR": "< 40초간 방어 후 문 열기 >",
+      "TW": "防禦 40s 前進入門口"
     }
   },
   "< FALLBACK >": {
@@ -53,9 +53,9 @@
     "translation": "< 防守60秒 >",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "< 60秒抵抗 >>",
       "CN": "< 防守60秒 >",
-      "KR": "",
+      "KR": "< 저항 60초 >",
       "TW": ""
     }
   },
@@ -63,20 +63,20 @@
     "translation": "< 反转 >",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "< 反転 >",
       "CN": "< 反转 >",
-      "KR": "",
-      "TW": ""
+      "KR": "< 반전 >",
+      "TW": "<< 反轉 >>"
     }
   },
   "< Special Thanks to Heyfumi and Killik >": {
     "translation": "< 特别感谢Heyfumi和Killik >",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "SPECIAL thanks to Heyfumi and Killik >><ushi",
       "CN": "< 特别感谢Heyfumi和Killik >",
-      "KR": "",
-      "TW": ""
+      "KR": "< 특별 감사의 인사를 드리는 Heyfumi와 Killik >",
+      "TW": "<特別感謝Heyfumi和Killik >"
     }
   },
   "< YOU WON THE MAP! CONGRATULATIONS! >": {
@@ -85,7 +85,7 @@
       "US": "",
       "JP": "",
       "CN": "< 你赢得了地图！恭喜！ >",
-      "KR": "",
+      "KR": "4. 번역 오류나 과도한 번역으로 인한 실패는 작업 실패로 치一回事。",
       "TW": ""
     }
   }

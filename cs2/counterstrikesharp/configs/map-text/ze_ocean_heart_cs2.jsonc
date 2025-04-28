@@ -165,38 +165,38 @@
       "US": "",
       "JP": "",
       "CN": "主路 10s",
-      "KR": "",
-      "TW": ""
+      "KR": "주요 ----- 10 -----",
+      "TW": "主軸 ----- 10 -----"
     }
   },
   "Trace ----- 10 -----": {
     "translation": "侧路 10s",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "trace ----- 10 -----",
       "CN": "侧路 10s",
-      "KR": "",
+      "KR": "TRACE ----- 10 -----",
       "TW": ""
     }
   },
   "Zombies pollute the water curtain, and humans fail": {
     "translation": "僵尸污染了水幕，人类失败了",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Zombies污染水幕，人类失败",
+      "JP": "ゾンビが水滲みを污染し、人類は失敗する",
       "CN": "僵尸污染了水幕，人类失败了",
-      "KR": "",
-      "TW": ""
+      "KR": "존_DEAD_ZOMBIES_pollute_the_water_curtain_and_humans_fail",
+      "TW": "殭屍污染水幕，人類失敗"
     }
   },
   "nuke in 10": {
     "translation": "核弹将在10秒内引爆",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "核爆在10",
       "CN": "核弹将在10秒内引爆",
-      "KR": "",
-      "TW": ""
+      "KR": "نو케 في 10",
+      "TW": "核彈在10"
     }
   },
   "zm tp in 10s": {
@@ -223,10 +223,10 @@
     "translation": "僵尸传送15秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビズ TP 15sec",
       "CN": "僵尸传送15秒",
-      "KR": "",
-      "TW": ""
+      "KR": "존미즈 투피니 15sec",
+      "TW": "殭屍tp在15sec"
     }
   }
 }

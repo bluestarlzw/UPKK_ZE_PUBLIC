@@ -3,120 +3,120 @@
     "translation": "再过 5 秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "5秒後に開始",
       "CN": "再过 5 秒",
-      "KR": "",
-      "TW": ""
+      "KR": "继续使用英文，请确保时间单位一致。",
+      "TW": "5 秒鐘後開始"
     }
   },
   "5 seconds": {
     "translation": "5 秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "5秒",
       "CN": "5 秒",
-      "KR": "",
-      "TW": ""
+      "KR": "5 초",
+      "TW": "5 秒鐘"
     }
   },
   "A way will open in 20 seconds": {
     "translation": "20 秒后将打开一条路",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "20秒後に道が開く",
       "CN": "20 秒后将打开一条路",
-      "KR": "",
-      "TW": ""
+      "KR": "20초 후 길이 열린다",
+      "TW": "20秒後將會開闢1條路徑"
     }
   },
   "Assets from townescaper": {
     "translation": "来自 townescaper 的资产",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "-townescaperの資産",
       "CN": "来自 townescaper 的资产",
-      "KR": "",
-      "TW": ""
+      "KR": "마을 건설자에서의 자산",
+      "TW": "Assets 來自 townescaper"
     }
   },
   "Final zombie shortcut opened": {
     "translation": "最后一个僵尸捷径已打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最終ゾンビショートカット開启",
       "CN": "最后一个僵尸捷径已打开",
-      "KR": "",
-      "TW": ""
+      "KR": "최종 브레인zte 축약열 개방",
+      "TW": "最終殭屍捷徑開啟"
     }
   },
   "Go hunt them down!": {
     "translation": "快去追捕它们！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "追え！",
       "CN": "快去追捕它们！",
-      "KR": "",
-      "TW": ""
+      "KR": "건너뛰고 ihnen 다급히 쫒가라!",
+      "TW": "去把他們幹掉！"
     }
   },
   "Hold 30 seconds": {
     "translation": "守住 30 秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "30秒間ホールドしてください",
       "CN": "守住 30 秒",
-      "KR": "",
-      "TW": ""
+      "KR": "30초 유지",
+      "TW": "HOLD 30 SECONDS"
     }
   },
   "Hold for 30 seconds": {
     "translation": "守住 30 秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "30秒間 HOLD",
       "CN": "守住 30 秒",
-      "KR": "",
-      "TW": ""
+      "KR": "30초간 유지",
+      "TW": "HOLD FOR 30 SECONDS"
     }
   },
   "Hold for 40 seconds": {
     "translation": "守住 40 秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "40秒間ホールド",
       "CN": "守住 40 秒",
-      "KR": "",
-      "TW": ""
+      "KR": "40초간 유지",
+      "TW": "HOLD FOR 40 SECONDS"
     }
   },
   "Last 50 seconds": {
     "translation": "最后 50 秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後の50秒",
       "CN": "最后 50 秒",
-      "KR": "",
-      "TW": ""
+      "KR": "마지막 50초",
+      "TW": "最後 50 秒"
     }
   },
   "Map by easter": {
     "translation": "地图作者：easter 翻译：Ayanami♪",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "マップ由easter製作",
       "CN": "地图作者：easter 翻译：Ayanami♪",
-      "KR": "",
-      "TW": ""
+      "KR": "맵 제작者：easter",
+      "TW": "地圖由easter製作"
     }
   },
   "Some zombies survived the nuke!": {
     "translation": "一些僵尸在核爆炸中幸存下来！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "某些ゾンビは核の爆発を生き抜いた！",
       "CN": "一些僵尸在核爆炸中幸存下来！",
-      "KR": "",
-      "TW": ""
+      "KR": "SOME ZOMBIES SURVIVED THE NUKE!",
+      "TW": "某些殭屍在核彈後存活下來！"
     }
   },
   "Thanks for playing": {
@@ -125,58 +125,58 @@
       "US": "",
       "JP": "",
       "CN": "感谢您的游玩",
-      "KR": "",
-      "TW": ""
+      "KR": "감사합니다. 게임을 즐기셨습니다.",
+      "TW": "感謝您玩遊戲"
     }
   },
   "Water is now deadly!": {
     "translation": "水现在是致命的！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "水は現在死に至る！",
       "CN": "水现在是致命的！",
-      "KR": "",
-      "TW": ""
+      "KR": "WATER IS NOW DEADLY!",
+      "TW": "水現在致命！"
     }
   },
   "Zombie shortcut #1 opened": {
     "translation": "僵尸捷径 #1 已打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビショートカット#1開启",
       "CN": "僵尸捷径 #1 已打开",
-      "KR": "",
-      "TW": ""
+      "KR": "ゾombie숏컷#1 열림",
+      "TW": "殭屍捷徑 #1 開啟"
     }
   },
   "Zombie shortcut #2 opened": {
     "translation": "僵尸捷径 #2 已打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビショートカット#2開启",
       "CN": "僵尸捷径 #2 已打开",
-      "KR": "",
-      "TW": ""
+      "KR": "僵尸快捷键 #2 打开",
+      "TW": "殭屍捷徑 #2"
     }
   },
   "Zombie shortcut #3 opened": {
     "translation": "僵尸捷径 #3 已打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビショートカット#3開く",
       "CN": "僵尸捷径 #3 已打开",
-      "KR": "",
-      "TW": ""
+      "KR": "ゾम바숏컷 #3 오픈",
+      "TW": "殭屍捷徑 #3 開啟"
     }
   },
   "Zombie shortcut #4 opened": {
     "translation": "僵尸捷径 #4 已打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビショートカット#4開启",
       "CN": "僵尸捷径 #4 已打开",
-      "KR": "",
-      "TW": ""
+      "KR": "ゾOMB이_shortcut_#4 열림",
+      "TW": "殭屍捷徑 #4"
     }
   }
 }

@@ -53,9 +53,9 @@
     "translation": "<<防守85秒>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<85 sec.まで保持>>",
       "CN": "<<防守85秒>>",
-      "KR": "",
+      "KR": "<<85sec 유지>>",
       "TW": ""
     }
   },
@@ -63,19 +63,19 @@
     "translation": "<<在此处防守20秒>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<ここに20secホールドする。>>",
       "CN": "<<在此处防守20秒>>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<여기서 20sec 유지하세요.>>",
+      "TW": "<< HOLD HERE FOR 20 SEC. >>"
     }
   },
   "<<Hold here for 25 sec.>>": {
     "translation": "<<在此处防守25秒>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<ここに25sec HOLDする。>>",
       "CN": "<<在此处防守25秒>>",
-      "KR": "",
+      "KR": "<<여기 유지해 25sec.>>",
       "TW": ""
     }
   },
@@ -83,29 +83,29 @@
     "translation": "<<防守电梯20秒>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<エレベーターを20sec間ホールドする>>",
       "CN": "<<防守电梯20秒>>",
-      "KR": "",
-      "TW": ""
+      "KR": "유선을 20sec 유지해.>>",
+      "TW": "HOLD THE ELEVATOR FOR 20 SEC. >>"
     }
   },
   "<<Hold the elevator for 40 sec.>>": {
     "translation": "<<防守电梯40秒>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<エレベーターを40秒保持する>>",
       "CN": "<<防守电梯40秒>>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<이levator를 40sec_HOLD>>",
+      "TW": "<< HOLD THE ELEVATOR FOR 40 SEC. >>"
     }
   },
   "<<Hold the platform for 20 sec.>>": {
     "translation": "<<防守平台20秒>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<プラットフォームを20sec持続させる。>>",
       "CN": "<<防守平台20秒>>",
-      "KR": "",
+      "KR": "<<플랫폼을 20sec 유지하세요.>>",
       "TW": ""
     }
   },
@@ -113,9 +113,9 @@
     "translation": "<<地图作者：maqu 翻译：Asteri3m>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<マップ由maqu制作>>",
       "CN": "<<地图作者：maqu 翻译：Asteri3m>>",
-      "KR": "",
+      "KR": "<<지도由maqu绘制>>",
       "TW": ""
     }
   },
@@ -123,9 +123,9 @@
     "translation": "<<防守25秒>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<25secで抵抗する。>>",
       "CN": "<<防守25秒>>",
-      "KR": "",
+      "KR": ">>저항해십시오 25sec.>>",
       "TW": ""
     }
   },
@@ -133,9 +133,9 @@
     "translation": "<<防守30秒>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>30sec抵抗>>",
       "CN": "<<防守30秒>>",
-      "KR": "",
+      "KR": "<<항복하지 말아요. 30sec.>>",
       "TW": ""
     }
   },
@@ -143,30 +143,30 @@
     "translation": "<<特别感谢：thas和kune>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<特別感谢 : thas 和 kune>>",
       "CN": "<<特别感谢：thas和kune>>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<특별한 감사의 마음 : thas와 kune>>",
+      "TW": "<<特別感謝 : thas 和 kune>>"
     }
   },
   "<<Tears>>": {
     "translation": "<<5秒，跳刀>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<涙>>",
       "CN": "<<5秒，跳刀>>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<눈물>>",
+      "TW": "<<淚水>>"
     }
   },
   "<<Thanks to all players in PSE for testing.>>": {
     "translation": "<<感谢所有PSE服务器玩家的测试>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<PSEのすべてのテスト參加者へ感謝します。>>",
       "CN": "<<感谢所有PSE服务器玩家的测试>>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<PSE의 모든 참가자들께 감사드립니다.>>",
+      "TW": "<<謝謝所有PSE玩家測試。>>"
     }
   },
   "<<Wait for 15sec.>>": {
@@ -175,28 +175,28 @@
       "US": "",
       "JP": "",
       "CN": "<<等待15秒>>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<15sec 후에 다시 시도하세요.>>",
+      "TW": "等待15sec."
     }
   },
   "<<Wait for 25 sec.>>": {
     "translation": "<<等待25秒>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<25 sec.待ち>>",
       "CN": "<<等待25秒>>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<25sec 후에 다시 시도하세요.>>",
+      "TW": "<<等待25 sec.>>"
     }
   },
   "<<Wait for 30 sec.>>": {
     "translation": "<<等待30秒>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<30sec.待ち>>",
       "CN": "<<等待30秒>>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<30sec 후에 다시 시도하세요.>>",
+      "TW": "<<等10秒。>>"
     }
   },
   "<<ze_colorful>>": {
@@ -213,10 +213,10 @@
     "translation": "<<5秒，尸笼>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<ゾンビ>>",
       "CN": "<<5秒，尸笼>>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<ゾンビ>>",
+      "TW": "<<殭屍>>"
     }
   }
 }
