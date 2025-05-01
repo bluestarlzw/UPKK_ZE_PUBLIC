@@ -26,7 +26,7 @@
       "JP": "*** 30秒間 HOLDして勝利を！ ***",
       "CN": "*** 坚持30秒即可胜利！ ***",
       "KR": "*** 30 초간 유지하여 승리하세요! ***",
-      "TW": ""
+      "TW": "***持30秒以獲勝！***"
     }
   },
   "*** Hold here for 20 seconds ***": {
@@ -43,7 +43,7 @@
     "translation": "*** 杀掉Rick Astley，别让他给我们来个RICKROLLS！***",
     "MultiLang": {
       "US": "",
-      "JP": "*** KILL RICK ASTLEY Before He Rickrolls Us! ***",
+      "JP": "*** リック・アストリーを殺してリックロールされる前に！ ***",
       "CN": "*** 杀掉Rick Astley，别让他给我们来个RICKROLLS！***",
       "KR": "*** 빌리 아스턴을 먼저 죽여라!Rick롤링하지 않게! ***",
       "TW": "*** 絕對殺死RICK ASTLEYprzed他Rickroll我們！ ***"
@@ -75,7 +75,7 @@
       "US": "",
       "JP": "\"*** オヒーノーズ ***\"",
       "CN": "*** 哦不 ***",
-      "KR": "***OH NOESES***",
+      "KR": "*** 아 Nicholson ***",
       "TW": "*** 噢天哪 ***"
     }
   },
@@ -86,7 +86,7 @@
       "JP": "",
       "CN": "*** RICK ASTLEY死了 ***",
       "KR": "*** 리치 어스티리는 죽었습니다 ***",
-      "TW": ""
+      "TW": "*** RICK ASTLEY 是死的 ***"
     }
   },
   "*** Teleporter Activates in 15 Seconds ***": {
@@ -96,7 +96,7 @@
       "JP": "*** テレポーターが15秒後にActivate ***",
       "CN": "*** 传送器将在15秒内激活 ***",
       "KR": "*** 텔레포터 활성화 15초 후 ***",
-      "TW": "*** TELEPORTER ACTIVATES IN 15 SECONDS ***"
+      "TW": ""
     }
   },
   "*** YOU SUCK ***": {

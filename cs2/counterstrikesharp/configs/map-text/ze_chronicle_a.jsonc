@@ -14,7 +14,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "10s",
+      "CN": "",
       "KR": "",
       "TW": ""
     }
@@ -23,10 +23,10 @@
     "translation": "AFK 30s",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "AFK 30s",
+      "JP": "離席30",
+      "CN": "离线 30",
       "KR": "",
-      "TW": ""
+      "TW": "離線 30"
     }
   },
   "> Press E to control platform rotation <": {
@@ -46,7 +46,7 @@
       "JP": ">> 地図由Tenshi绘制.<",
       "CN": "地图作者：Tenshi 翻译：秋刀鱼",
       "KR": "맵 제작者 Tenshi.",
-      "TW": ""
+      "TW": ">地圖由Tenshi繪製.<"
     }
   },
   ">Ver:1.0.8<": {
@@ -65,7 +65,7 @@
       "US": "",
       "JP": ">失敗<",
       "CN": "失败",
-      "KR": "",
+      "KR": ">실패<",
       "TW": ">失敗<"
     }
   },
@@ -74,7 +74,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "40s",
+      "CN": "",
       "KR": "",
       "TW": ""
     }
@@ -84,7 +84,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "30s",
+      "CN": "",
       "KR": "",
       "TW": ""
     }

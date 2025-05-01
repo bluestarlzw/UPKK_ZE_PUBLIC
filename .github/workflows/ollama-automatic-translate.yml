@@ -3,7 +3,11 @@ name: Ollama - automatic Translate and Create PR
 env:
   PYTHONUTF8: 1
 
-
+on:
+  workflow_dispatch:
+  #push:
+    #paths:
+      #- 'cs2/counterstrikesharp/configs/map-text/**/*.jsonc'
 
 jobs:
   translate_and_pr:

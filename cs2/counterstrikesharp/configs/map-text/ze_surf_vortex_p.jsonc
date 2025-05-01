@@ -26,7 +26,7 @@
       "JP": "***5秒後 helfen***",
       "CN": "***还剩5秒***",
       "KR": "***5초 남음***",
-      "TW": ""
+      "TW": "***5秒剩下***"
     }
   },
   "***Detonation in 3 seconds***": {
@@ -46,7 +46,7 @@
       "JP": "***Another ボタンを探す***",
       "CN": "***找到另一个按钮***",
       "KR": "다른 버튼을 찾아보세요 ***",
-      "TW": ""
+      "TW": "***再找一個按鈕***"
     }
   },
   "***Map by Reflelia***": {
@@ -56,7 +56,7 @@
       "JP": "***マップ由Reflelia制作***",
       "CN": "***地图作者：Reflelia***",
       "KR": "***지도 oleh Reflelia***",
-      "TW": ""
+      "TW": "***地圖由Reflelia绘制***"
     }
   },
   "***READY TO RUN***": {
@@ -123,7 +123,7 @@
     "translation": "***20秒后激活传送***",
     "MultiLang": {
       "US": "",
-      "JP": "*** TELEPORT ACTIVATES IN 20 SECONDS ***",
+      "JP": "***テレポートは20秒後に activates***",
       "CN": "***20秒后激活传送***",
       "KR": "***텔레포트 활성화 20초 후***",
       "TW": "*** TELEPORT 啟動於 20 秒後 ***"
@@ -136,7 +136,7 @@
       "JP": "***テレポートエラーは30秒後に修正されます***",
       "CN": "***传送错误将在30秒后修复***",
       "KR": "(Note: There seems to be a typo in the original text \"Teleport\" as \"텔porter\". It's corrected to \"텔porter\" assuming it's a typo, otherwise it would be \"텔레포트\".)",
-      "TW": "TELEPORT ERROR FIXED IN 30 SECONDS ***"
+      "TW": ""
     }
   },
   "***Try to find second button***": {
@@ -153,10 +153,10 @@
     "translation": "***小心！***",
     "MultiLang": {
       "US": "",
-      "JP": "*** WATCH OUT! ***",
+      "JP": "***気をつけて!!***",
       "CN": "***小心！***",
       "KR": "***주의하세요!***",
-      "TW": "***-watch out!***"
+      "TW": "***小心！***"
     }
   },
   "***Watermelon***": {
@@ -175,7 +175,7 @@
       "US": "",
       "JP": "***ゾンビが来ています！***",
       "CN": "***僵尸来了！***",
-      "KR": "***ゾンビが来ます！***",
+      "KR": "***\n\nゾombie들이 오고 있어!\n\n***",
       "TW": "***殭屍來襲！***"
     }
   },
@@ -185,7 +185,7 @@
       "US": "",
       "JP": "***ショートカットを開く***",
       "CN": "***侧路已开***",
-      "KR": "***ショートカット開く***",
+      "KR": "***단축키 열기***",
       "TW": "***快捷方式開啟***"
     }
   },

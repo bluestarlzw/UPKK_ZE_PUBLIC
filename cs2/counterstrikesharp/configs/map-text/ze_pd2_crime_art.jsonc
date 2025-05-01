@@ -5,7 +5,7 @@
       "US": "",
       "JP": "",
       "CN": "**距离解锁门还有30秒**",
-      "KR": "",
+      "KR": "*** 30 초 동안 문을 열lah ***",
       "TW": "*** 30 秒開門 ***"
     }
   },
@@ -13,16 +13,16 @@
     "translation": "**剩余5秒**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 5 セカンド残ってます ***",
       "CN": "**剩余5秒**",
-      "KR": "",
+      "KR": "** 5 초 남음 **",
       "TW": "** 5 秒鐘剩下 **"
     }
   },
   "** BATHROOM DOOR OPENS IN 15 SECONDS **": {
     "translation": "**浴室门将在15秒后开启**",
     "MultiLang": {
-      "US": "",
+      "US": "*** Bathroom Door Opens In 15 Seconds ***",
       "JP": "*** バスルームドアが15秒後に開きます ***",
       "CN": "**浴室门将在15秒后开启**",
       "KR": "*** 화장실 문이 15초 후에 열립니다 ***",
@@ -63,16 +63,16 @@
     "translation": "**快上车！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**CHOPPAに乗り込み！**",
       "CN": "**快上车！**",
-      "KR": "** choppedda chamropa! **",
-      "TW": ""
+      "KR": "*** 셀파에 타들어가세요! ***",
+      "TW": "*** 上飛機！***"
     }
   },
   "** GO TO THE BATHROOM **": {
     "translation": "**去浴室**",
     "MultiLang": {
-      "US": "",
+      "US": "*** GO TO THE Bathroom ***",
       "JP": "*** シャワーへ行きます ***",
       "CN": "**去浴室**",
       "KR": "*** 화장실로 가세요 ***",
@@ -83,10 +83,10 @@
     "translation": "**防守40秒**",
     "MultiLang": {
       "US": "",
-      "JP": "*** 40 SECUDNS ***",
+      "JP": "*** 40 SEC にホールド ***",
       "CN": "**防守40秒**",
       "KR": "** 40초 유지해 **",
-      "TW": ""
+      "TW": "*** 擁抱 40 秒 ***"
     }
   },
   "** HOLD THE BEDROOM **": {
@@ -96,7 +96,7 @@
       "JP": "*** ベッドルームを守れ ***",
       "CN": "**防守卧室**",
       "KR": "** 베드룸을 지켜라 **",
-      "TW": ""
+      "TW": "***守住 bedroom***"
     }
   },
   "** HOLD THE KITCHEN! DON'T LET ZOMBIES IN! **": {
@@ -106,7 +106,7 @@
       "JP": "*** キッチンを守れ！ゾンビを入れてはならない！***",
       "CN": "**防守厨房！不要让僵尸进来！**",
       "KR": "*** 케이커실 지켜! 좀비들 들어오지 마![** ***",
-      "TW": ""
+      "TW": "*** 持住廚房！不要讓殭屍進來！***"
     }
   },
   "** MAKE YOUR WAY TO THE OFFICE **": {
@@ -116,17 +116,17 @@
       "JP": "*** 务必前往办公室 ***",
       "CN": "**前往办公室**",
       "KR": "** 사무실로 가세요 **",
-      "TW": ""
+      "TW": "***前往辦公室***"
     }
   },
   "** MAP MADE BY DARKOGRE AND PATRAO! **": {
     "translation": "**地图作者：DARKOGRE和PATRAO！ 翻译：Asteri3m**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** マップはDARKOGREとPATRAOが作成しました！ ***",
       "CN": "**地图作者：DARKOGRE和PATRAO！ 翻译：Asteri3m**",
       "KR": "",
-      "TW": ""
+      "TW": "*** 圖emap 制作於Darkogre 和 Patrao! ***"
     }
   },
   "** Shoot them! **": {
@@ -156,7 +156,7 @@
       "JP": "** Laser を切る **",
       "CN": "**关闭激光**",
       "KR": "*** 라이저스 오프 킴 ***",
-      "TW": ""
+      "TW": "*** 关閉激光 ***"
     }
   },
   "** The Elevator will leave in 10 seconds. Don't miss it! **": {

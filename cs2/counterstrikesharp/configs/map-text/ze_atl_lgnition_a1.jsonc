@@ -73,7 +73,7 @@
     "translation": "",
     "MultiLang": {
       "US": "30s Full Teleport!",
-      "JP": "",
+      "JP": "30秒 全体传送！",
       "CN": "",
       "KR": "30s 전체 이동!",
       "TW": "30s 全體傳送！"
@@ -113,7 +113,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Fire extinguisher is already obtained! Hold on! We need to put out the flames in the ventilation duct to proceed!",
-      "JP": "firefighting equipment has been obtained! hold on! we need to put out the flames in the ventilation duct to proceed!",
+      "JP": "",
       "CN": "",
       "KR": "화장실 용기已被取得！ 참고해라! 환기Ốн管道的火焰必须扑灭我们才能通过！",
       "TW": "滅火器已經取得！撐住！我們必須把通風管道的火焰滅掉才能通過！"
@@ -193,7 +193,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Elevator will rise in 5s!",
-      "JP": "Elevator will rise in 5s!",
+      "JP": "エレベーターは5秒後に上昇します！",
       "CN": "",
       "KR": "에레베이터는 5s 후에 상승합니다!",
       "TW": "電梯將在5s後上升！"
@@ -303,7 +303,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Fire神器已被拾取！60s冷却！",
-      "JP": "",
+      "JP": "火神器已被拾取！60秒冷卻！",
       "CN": "",
       "KR": "화신기 이미 수집되었습니다! 60s 쿨타임!",
       "TW": "火神之器已被拾取！60s冷卻！"

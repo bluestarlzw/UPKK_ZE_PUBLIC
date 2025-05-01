@@ -95,8 +95,8 @@
       "US": "",
       "JP": "***夢overrides.***",
       "CN": "***梦境结束 翻译：Asteri3m***",
-      "KR": "***ypyul Over.***",
-      "TW": ""
+      "KR": "***\n\n꿈이 끝나요.",
+      "TW": "***夢醒。***"
     }
   },
   "***Dream over in 10secs.***": {
@@ -165,7 +165,7 @@
       "US": "",
       "JP": "***起きた。ドア開いた。***",
       "CN": "***门已打开***",
-      "KR": "***AKEUREODEUBNNA. DOOR OPN.***",
+      "KR": "***\n\n일어나다. 문 열려 있음.\n\n***",
       "TW": "***醒來。門開了。***"
     }
   },
@@ -182,17 +182,17 @@
   "***Waking Up. Door opening in 20secs.*** ": {
     "translation": "***门将在20秒后开启***",
     "MultiLang": {
-      "US": "",
+      "US": "***Awakening. Door opens in 20secs.***",
       "JP": "***目覚め。ドア開くまで20sec。***",
       "CN": "***门将在20秒后开启***",
-      "KR": "***目苏苏醒。ドア開くまで20sec.***",
+      "KR": "***ASHBOARD. 문이 20초 후 열립니다.***",
       "TW": "***醒來了。門開20secs。***"
     }
   },
   "***Waking Up. Door opening in 30secs.*** ": {
     "translation": "***门将在30秒后开启***",
     "MultiLang": {
-      "US": "",
+      "US": "***Awakening. Door opening in 30secs.***",
       "JP": "***目覚め।ドア開け30sec。***",
       "CN": "***门将在30秒后开启***",
       "KR": "어akening. 문 열리는 시간 30초 후.***",
@@ -202,7 +202,7 @@
   "***Waking Up. Door opening in 60secs.*** ": {
     "translation": "***门将在60秒后开启***",
     "MultiLang": {
-      "US": "",
+      "US": "***Awakening. Door opening in 60secs.***",
       "JP": "***目覚め。60秒後に扉開く。***",
       "CN": "***门将在60秒后开启***",
       "KR": "***目苏醒。문 오픈 후 60초.***",
