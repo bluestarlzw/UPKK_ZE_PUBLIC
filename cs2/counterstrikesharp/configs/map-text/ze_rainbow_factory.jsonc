@@ -1,0 +1,102 @@
+{
+  "*** Map by : Airvulpes ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** マップ作成者：Airvulpes ***",
+      "CN": "*** 地图由：Airvulpes 制作 ***",
+      "KR": "*** 맵 제작자 : Airvulpes ***",
+      "TW": "*** 地圖由：Airvulpes 製作 ***"
+    }
+  },
+  "*** Difficulty : Disuse ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "難易度：使用不可",
+      "CN": "*** 难度：废用 ***",
+      "KR": "*** 난이도 : 불사용 ***",
+      "TW": "*** 難度：廢棄 ***"
+    }
+  },
+  "*** Door Opens in 15 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドアが開きます (Doa ga hiraku) - 15秒 (15 byou) ***",
+      "CN": "*** 门将在15秒后开启 ***",
+      "KR": "*** 문이 15초 후에 열립니다. ***",
+      "TW": "*** 門在 15 秒後開啟 ***"
+    }
+  },
+  "*** Door Opens in 5 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドアが開きます (Doa ga hiraku) in 5 seconds ***",
+      "CN": "*** 门将在5秒后开启 ***",
+      "KR": "*** 문이 5초 후에 열립니다. ***",
+      "TW": "*** 門在 5 秒後開啟 ***"
+    }
+  },
+  "*** Door Opens in 25 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドアが開きます（残り25秒）***",
+      "CN": "*** 门将在 25 秒后开启 ***",
+      "KR": "*** 문이 25초 후에 열립니다. ***",
+      "TW": "*** 門在25秒後開啟 ***"
+    }
+  },
+  "*** Door Opens in 30 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドアが開きます (Doa ga hiraku) in 30 seconds ***",
+      "CN": "*** 门将在30秒后开启 ***",
+      "KR": "*** 문이 30초 후에 열립니다. ***",
+      "TW": "*** 門在30秒後開啟 ***"
+    }
+  },
+  "*** Door Closes in 20 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒後にドアが閉まります ***",
+      "CN": "*** 门将在 20 秒后关闭 ***",
+      "KR": "*** 20초 후 문이 닫힙니다. ***",
+      "TW": "*** 門將在 20 秒後關閉 ***"
+    }
+  },
+  "!!! KILL ALL ZOMBIES !!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "!!! 全てのゾンビを倒せ !!!",
+      "CN": "!!! 杀死所有僵尸 !!!",
+      "KR": "!!! 모든 좀비들을 처치하라 !!!",
+      "TW": "!!! 消滅所有殭屍 !!!"
+    }
+  },
+  "*** STAGE COMPLETED ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ステージクリア***",
+      "CN": "*** 关卡完成 ***",
+      "KR": "*** 스테이지 완료 ***",
+      "TW": "*** 關卡過關 ***"
+    }
+  },
+  "*** Difficulty : Inspection ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***難易度: 調査モード***",
+      "CN": "*** 难度：检查 ***",
+      "KR": "*** 난이도 : 검사 ***",
+      "TW": "*** 難度：檢查 ***"
+    }
+  }
+}

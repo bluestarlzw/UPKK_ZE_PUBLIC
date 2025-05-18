@@ -4,7 +4,7 @@
     "MultiLang": {
       "US": "This path I开辟 此树我栽种(‾◡◝)",
       "JP": "この道は私ที่開いた この木は私が植えた(‾◡◝)",
-      "CN": "",
+      "CN": "此路是我开的，此树是我栽的(‾◡◝)",
       "KR": "이 길은 나가 열었고 이나무는 나가多种植物（‾◡◝）",
       "TW": "此路是我開 此樹是我栽(‾◡◝)"
     }
@@ -24,8 +24,8 @@
     "MultiLang": {
       "US": "(Hold the dock Men stick it out for 40 seconds~o( =∩ω∩= )）",
       "JP": "（ドックを守れ 男なら40秒我慢~o( =∩ω∩= )）",
-      "CN": "",
-      "KR": "",
+      "CN": "（守住码头 男儿本色 就要坚持40秒~o( =∩ω∩= )）",
+      "KR": "(도서관을 지켜라 남자라면 40초 더 버텨보자~o( =∩ω∩= )）",
       "TW": "守住碼頭 是男人就堅持40秒~o( =∩ω∩= )_"
     }
   },
@@ -34,9 +34,9 @@
     "MultiLang": {
       "US": "Sob sob sob there's a bad guy o(≧口≦)o",
       "JP": "インゴーインゴー有坏比o(≧口≦)o",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "嘤嘤嘤，坏啦比o(≧口≦)o",
+      "KR": "에엑! 삐에엑!",
+      "TW": "嚶嚶嚶 有壞比o(≧口≦)o"
     }
   },
   "没想到叭,咱又回来了喵~": {
@@ -45,7 +45,7 @@
       "US": "Who knew, here I am back again meow~",
       "JP": "没想到 lah, 咱 又 回来了 喵~",
       "CN": "没想到叭，咱又回来啦喵~",
-      "KR": "",
+      "KR": "생각지도 못했네 叭, 우리가 또 돌아왔다 먀~",
       "TW": "想不到叭,咱又回來了喵~"
     }
   },
@@ -54,9 +54,9 @@
     "MultiLang": {
       "US": "_(:з」∠)_ Don't hit me anymore kitten",
       "JP": "_( :з」∠)_もうなでしないで猫",
-      "CN": "",
+      "CN": "_(/:з(∠))_ 别再打了喵",
       "KR": "_(/:з」∠) 더는 나를 때리지 마세요냥",
-      "TW": ""
+      "TW": "_(:з」∠)_別再打我了喵"
     }
   },
   "（僵尸10秒后传送 快跑(>▽<)）": {
@@ -65,7 +65,7 @@
       "US": "(Zombies teleport in 10 seconds. Hurry!(>▽<))",
       "JP": "（10秒後にゾンビ移動 早めに逃げよ(>▽<)）",
       "CN": "",
-      "KR": "",
+      "KR": "(좀비 10초 후 전송 빨리 달려(>▽<))",
       "TW": "（殭屍10秒後传送 快跑(>▽<)）"
     }
   },
@@ -83,8 +83,8 @@
     "translation": "",
     "MultiLang": {
       "US": "Enter and sit down! I'm Miku's sister Miku喵ฅ",
-      "JP": "",
-      "CN": "",
+      "JP": "入ってきなさい！咱はみくの妹ミク貓ฅ",
+      "CN": "进来坐坐叭！我是美库的妹妹米库喵ฅ",
       "KR": "입교 앉아보시구나! 나는 미쿠의 여동생 미쿠미야ฅ",
       "TW": ""
     }
@@ -114,18 +114,18 @@
     "MultiLang": {
       "US": "(Zombies teleport to the bathroom in 10 seconds)",
       "JP": "（ゾンビ10秒後にトイレに移動します）",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "(丧尸10秒后传送至厕所)",
+      "KR": "(10초 후 좀비 전송to 화장실)",
+      "TW": "（ Zombies 10 秒後傳送至廁所）"
     }
   },
   "咱记得钓鱼台上的钻石块是树屋开关喵Ծ‸Ծ": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "We remember the diamond block on the fishing pier is the treehouse switch喵Ծ yargԾ",
+      "JP": "あちびさんが、釣魚島に落ちているダイヤモンドの塊が、屋根のスイッチみたいなものだと思い出して、ちょっとしょんぼりしてました。 >>Ծ‸Ծ <<",
       "CN": "",
-      "KR": "",
+      "KR": "나는 낚시대 위의 빅스블 블록이 트리하우스 스위치야 ℹ️ yans琎",
       "TW": "咱記得垂釣台上 Diamonds ly 喵Ծ‸Ծ"
     }
   },
@@ -155,7 +155,7 @@
       "US": "(Tree house will open in 60s)",
       "JP": "樹屋は60s後 openings",
       "CN": "",
-      "KR": "",
+      "KR": "(나무집은 60초 후에 개방됩니다)",
       "TW": "樹屋將在60s後開放"
     }
   },
@@ -164,9 +164,9 @@
     "MultiLang": {
       "US": "(Zombies in 15 seconds, gear up!)",
       "JP": "(15秒後にゾンビが传送、開润！）",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "(僵尸15秒后传送，快点！)",
+      "KR": "(조금 후 15초 후 전송, 개윤!)",
+      "TW": "(殭屍15秒後傳送，開潤！）"
     }
   },
   "(树屋将在10s后开放)": {
@@ -175,7 +175,7 @@
       "US": "(Tree house will open in 10s)",
       "JP": "ツリーhausは10s後で開放されます",
       "CN": "",
-      "KR": "",
+      "KR": "(树屋将在10s后开放) 10초 후에 개방됩니다 >>",
       "TW": "樹屋將在10s後開放"
     }
   },
@@ -184,7 +184,7 @@
     "MultiLang": {
       "US": "Ah right! Forget it, this place is usually a dead end! Σ(°Д°)",
       "JP": "あらま 平常ここは DEAD END だったの！Σ( °Д °)",
-      "CN": "",
+      "CN": "哎呀 忘记平常这里是死路！Σ( °Д °)",
       "KR": "아耒 잊었나 보다 평소这个地图는 데드존이라 ! Σ( °Д °)",
       "TW": "啊咧 忘記平常這裡是死路咧！Σ( °Д °)"
     }
@@ -192,11 +192,11 @@
   "˃̶͈ ˂̶͈ 康来只能走夜袭（划掉）的秘密通道了": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "peater can only use the secret passage at night (struck out).",
+      "JP": "康来只能走夜袭-secret通道了",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "˃̶͈ ˂̶͈ 강来找할 수 있는 길은 밤길만이다(선을 지우다).",
+      "TW": "＞︿＜ 康來只能走夜襲（劃掉）的秘密通道了"
     }
   },
   "(30秒后门开）": {
@@ -226,7 +226,7 @@
       "JP": "(ゾンブーを8秒で止める、早く走れ！！(o゜▽゜)o☆）",
       "CN": "",
       "KR": "( 좀비가 막히는 8초 동안 빨리 달려!! (o゜▽゜)o☆）",
-      "TW": ""
+      "TW": "(屍體被擋住8秒，快跑！！(o゜▽゜)o☆）"
     }
   },
   "那咱就从这里下去吧！": {
@@ -235,7 +235,7 @@
       "US": "Let's go down from here!",
       "JP": "ここから下りましょう！",
       "CN": "",
-      "KR": "",
+      "KR": "이곳에서 내려가新浪财经客户端下载地址",
       "TW": "那就從這裡下去吧！"
     }
   },
@@ -245,15 +245,15 @@
       "US": "(Zombies teleported in 10 seconds)",
       "JP": "（10秒後传送yczombie）",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "(10초 후 좀비 전송)",
+      "TW": "（ Zombies 10 秒後傳送）"
     }
   },
   "三个字，让大家多守40秒(/ω＼*)": {
     "translation": "",
     "MultiLang": {
       "US": "Three words, make everyone obey for 40 more seconds(/ω＼*)",
-      "JP": "",
+      "JP": "３つ文字で、皆さん４０秒守ってください (*ω＼*)",
       "CN": "",
       "KR": "세글자,让大家多守40秒(/ω＼*)",
       "TW": "3個字，讓大家多守40秒(/ω＼*)"
@@ -265,7 +265,7 @@
       "US": "40 seconds",
       "JP": "四十分",
       "CN": "",
-      "KR": "",
+      "KR": "40초",
       "TW": ""
     }
   },
@@ -283,7 +283,7 @@
     "translation": "",
     "MultiLang": {
       "US": "A glowing bottle contains a key ο(=•ω＜=)ρ⌒☆",
-      "JP": "",
+      "JP": "漂流瓶里閃閃發光的是鑰匙捏ο(=•ω＜=)ρ⌒☆",
       "CN": "",
       "KR": "유리병 속에 반짝이는 것은 키 눌ο(=•ω＜=)ρ⌒☆",
       "TW": "漂流瓶裡閃閃發光的是1把鑰匙捏ο(=•ω＜=)ρ⌒☆"
@@ -304,8 +304,8 @@
     "MultiLang": {
       "US": "Let's go to the tavern.",
       "JP": "tavern goto しょくべん 行きましょう",
-      "CN": "",
-      "KR": "",
+      "CN": "让我们去酒馆逛逛吧",
+      "KR": "让我们去酒馆做做吧 -> 우리가 맥주집에서 시간을 보내자",
       "TW": "讓我們去酒館逛逛吧"
     }
   },
@@ -313,7 +313,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Ah裂⊙▾⊙ The tavern is taken over by pirates. Better take a detour!",
-      "JP": "",
+      "JP": "あられ⊙▾℉ Piratebarに占拠されているので、迂回しよう！",
       "CN": "",
       "KR": "아하⊙▾⊙ 맥주집이 해적들에 domination 당했네요! 그래도 다른 길을 돌아가자!",
       "TW": "啊咧⊙▾⊙酒館被海盜霸佔了 還是繞個路吧！"
@@ -324,7 +324,7 @@
     "MultiLang": {
       "US": "This palace seems quite complex (经验值-1)",
       "JP": "この宮殿は見栄えが複雑そうに見える（byss▽byss）",
-      "CN": "",
+      "CN": "这座宫殿看起来非常复杂的样子 (╯▽╰)",
       "KR": "이 궁전은 복잡해 보인다 (╯▽╰)",
       "TW": "這個宮殿 Looks quite complex ( ╯▽╰)"
     }
@@ -333,9 +333,9 @@
     "translation": "",
     "MultiLang": {
       "US": "Let's think where to go!",
-      "JP": "",
-      "CN": "",
-      "KR": "",
+      "JP": "咱 THINK HARD 选 地点 呢！",
+      "CN": "让我们想想走哪好呢！",
+      "KR": "자, 어디 갈 데 생각해 보자!",
       "TW": "讓咱想想走哪 bergen好!\");"
     }
   },
@@ -362,10 +362,10 @@
   "咱记得二楼小屋开关在秋千旁来着": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "We remember the switch for the room on the second floor was by the swing.",
+      "JP": "あのね、二階の小屋のスイッチが秋千の近くにあったはずだよ。",
       "CN": "",
-      "KR": "",
+      "KR": "첨에 기억하는 건 2층 작은 방의 스위치가 그네 옆에 있다는 거야.",
       "TW": "咱記得2樓小屋開關在秋千旁來著"
     }
   },
@@ -424,7 +424,7 @@
     "MultiLang": {
       "US": "We excel in lockpicking for over 17 years; chimneys are no problem either!",
       "JP": "咱は17年以上LOCKSPIKEを専門にし、煙突まで開けてしまう！",
-      "CN": "",
+      "CN": "我精通撬锁已有17余年，撬个烟囱都不在话下！",
       "KR": "咱는 금고정 Opening 17년 이상 전문가이고, chim Chimney를 열기에도 문제 없음!",
       "TW": "咱精通開鎖17餘年，撬個煙囪也不在話下！"
     }
@@ -445,7 +445,7 @@
       "US": "Absolutely not a problem for me! (≧∀≦)",
       "JP": "根本難なしだよ！(≧∀≦)",
       "CN": "",
-      "KR": "",
+      "KR": "본질 난 데로 다루지 않아!(≧∀≦)",
       "TW": "根本難不倒咱捏！(≧∀≦)"
     }
   },
@@ -483,10 +483,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "デュアン～デュアン～デュアン～",
+      "CN": "当当当~",
+      "KR": "등금등~등금등~등금등~",
+      "TW": "當當當~"
     }
   },
   "海盗们果然都被吸引到岸边了捏！": {
@@ -513,7 +513,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Pull the lever in the guard room to open the door(:⁄³⁄º⁄)",
-      "JP": "",
+      "JP": "門番室の引張りドアを引くと開きます(/≧▽≦)/",
       "CN": "",
       "KR": "관비실의 당나게 당기면 열 수 있다(/≧▽≦)/",
       "TW": "拉动門衛室的拉桿就能開門了(/≧▽≦)/"
@@ -544,7 +544,7 @@
     "MultiLang": {
       "US": "Boss, warm two bowls of wine, and a dish of fennel seeds.",
       "JP": "boss, 温两碗酒，来一碟茴香豆。",
-      "CN": "",
+      "CN": "老板，请两碗酒，还有一碟茴香豆。",
       "KR": "주인님,溫兩碗酒,來一碟茴香豆。",
       "TW": "老板，溫兩碗酒，來1碟茴香豆。"
     }
@@ -553,7 +553,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Let's go upstairs!",
-      "JP": "",
+      "JP": "上の階にいきましょう！",
       "CN": "咱们去楼上坐吧！",
       "KR": "우리 upstairs 가 앉으세요!",
       "TW": "我們上去坐吧！"
@@ -574,7 +574,7 @@
     "MultiLang": {
       "US": "(Ten minutes later)",
       "JP": "10分後に",
-      "CN": "",
+      "CN": "(十分钟后)\n输出",
       "KR": "(10분 후)",
       "TW": "（10分鐘後）"
     }
@@ -583,8 +583,8 @@
     "translation": "",
     "MultiLang": {
       "US": "⊙▽⊙The shark pirate is back.Run for it!",
-      "JP": "",
-      "CN": "",
+      "JP": "⊙▽⊙海盗又鲨帰ってきた 咱们快跑",
+      "CN": "⊙▽⊙海盗又来啦 咱们快跑",
       "KR": "일어났습니다. 빨리 달려가세요",
       "TW": "⊙▽⊙海盗又齧齒回來了 咱們快跑"
     }
@@ -604,9 +604,9 @@
     "MultiLang": {
       "US": "It looks like we'll have to go through the window meow!",
       "JP": "窓から入るしかないね🐱",
-      "CN": "",
+      "CN": "看来只能从窗户出去喵！",
       "KR": "보이looks像只能 창문으로 들어가야겠네喵！",
-      "TW": ""
+      "TW": "看起來只能從窗戶出去喵！"
     }
   },
   "(25秒后玻璃碎掉）": {
@@ -614,9 +614,9 @@
     "MultiLang": {
       "US": "(25 seconds later, the glass breaks)",
       "JP": "(25秒後ガラスが割れる)",
-      "CN": "",
+      "CN": "(25秒后玻璃破碎)",
       "KR": "(25초 후 유리가 부서짐)",
-      "TW": ""
+      "TW": "(25秒後玻璃碎掉)"
     }
   },
   "海盗这会儿都在酒馆": {
@@ -643,9 +643,9 @@
     "translation": "",
     "MultiLang": {
       "US": "Based on our多年坐船全球巡回演唱的经历",
-      "JP": "",
+      "JP": "船上全球巡回演唱会の経験Based on 累计多年的船只上全球巡回演唱的经历",
       "CN": "",
-      "KR": "",
+      "KR": "咱가 수십 년 동안 배를 타고 전 세계 투어를 하는 경험에 따르면",
       "TW": "根據咱多年坐船全球巡迴演唱的經歷"
     }
   },
@@ -653,8 +653,8 @@
     "translation": "",
     "MultiLang": {
       "US": "Cabin switch must be next to the steering wheel!^O^",
-      "JP": "",
-      "CN": "",
+      "JP": "舵の近くに、船室のスイッチは必ず！^O^",
+      "CN": "船舱开关必须在舵旁边！^O^",
       "KR": "선실 스위치는 승강기 옆에 있다!^O^",
       "TW": "船艙開關1定在船舵旁邊！^O^"
     }
@@ -663,7 +663,7 @@
     "translation": "",
     "MultiLang": {
       "US": "The舱室将在40秒后开启",
-      "JP": "",
+      "JP": "船艙は40秒後に開きます",
       "CN": "",
       "KR": "선창은 40초 후에 열립니다",
       "TW": "船艙在40秒後打開"
@@ -673,9 +673,9 @@
     "translation": "",
     "MultiLang": {
       "US": "Infiltrate Captain's Cabin Plan Beginselorון(≧O≦)〃",
-      "JP": "",
+      "JP": "潜入艦長室計画開始ヾ(≧O≦)〃",
       "CN": "潜入舰长室计划开始ヾ(≧O≦)ramework",
-      "KR": "",
+      "KR": "선장실 스카이어 계획 시작ヾ(≧O≦)〃",
       "TW": "潛入艦長室計劃開始ヾ(≧O≦)〃"
     }
   },
@@ -692,10 +692,10 @@
   "会不会有秘密通道捏（´v｀）": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Do you think there's a secret passage? (´v｀)",
+      "JP": "秘密の通路あるのかな…（´v｀）",
       "CN": "",
-      "KR": "",
+      "KR": "게임에 숨겨진 비밀 통로가 있을까 (^_^)",
       "TW": "會不會有秘密通道捏（´v｀）"
     }
   },
@@ -703,10 +703,10 @@
     "translation": "",
     "MultiLang": {
       "US": "Sure we did talk about it indeed there's a secret passage beneath your feet╰(*°▽°*)╯",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "言っても無駄じゃないな。やっぱり足元に秘密通路があるようだよ╰(*°▽°*)╯",
+      "CN": "果然有秘密通道 咱早说吧 (⊙_^⊙)⁄",
+      "KR": "자, 얘기하자. 역시 발밑에 비밀 통로가 있어╰(*°▽°*)╯",
+      "TW": "咱就說的吧 果然腳下有秘密通道╰(*°▽°*)╯"
     }
   },
   "(30秒后门开)": {
@@ -753,20 +753,20 @@
     "translation": "",
     "MultiLang": {
       "US": "(Final 30 seconds!!)",
-      "JP": "",
-      "CN": "",
+      "JP": "最後30秒！！",
+      "CN": "(最后30秒！！)",
       "KR": "(마지막 30초!!)",
-      "TW": ""
+      "TW": "(最後 30 秒！！)"
     }
   },
   "成功辣！！!φ(≧ω≦*)♪": {
     "translation": "",
     "MultiLang": {
       "US": "Success!!! φ(≧ω≦*)♪",
-      "JP": "",
+      "JP": "成功辣!!! φ(≧ω≦*)♪",
       "CN": "成功辣!!!!!φ(≧ω≦*)♪",
       "KR": "성공啦!!!!! φ(≧ω≦*)♪",
-      "TW": ""
+      "TW": "成功辣!!! φ(≧ω≦*)♪"
     }
   },
   "此刻开始我们要征服星辰大海！！": {
@@ -784,7 +784,7 @@
     "MultiLang": {
       "US": "End of Episode! Thank you for playing! ~o( =∩ω∩= )m",
       "JP": "劇終 感謝遊玩！~o( =∩ω∩= )m",
-      "CN": "",
+      "CN": "剧情结束，感谢游玩！~o( =∩ω∩= )m",
       "KR": "극종 감사합니다!~o( =∩ω∩= )m",
       "TW": "劇終 感謝游玩！~o( =∩ω∩= )m"
     }
@@ -843,10 +843,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "パス。",
       "CN": "通过。",
-      "KR": "",
-      "TW": ""
+      "KR": "패스.",
+      "TW": "通過。"
     }
   },
   "啊咧！这么多张床，难道是要开趴咩(* /ω＼*)": {
@@ -854,8 +854,8 @@
     "MultiLang": {
       "US": "Ah!? So many beds! Could this be a party(? ^_^*/",
       "JP": "あらら！这么多くのベッド、パーテイーをやるのかな(* /ω＼*)",
-      "CN": "",
-      "KR": "",
+      "CN": "哎咧！这么多张床，难不成是要开趴咩(* /ω＼*)",
+      "KR": "으악! 이렇게 많은 침대라니, 파티 열려는 건데? (* /ω＼*)",
       "TW": "啊咧！這麼多張床，難道是要開趴咩(* /ω＼*)"
     }
   },
@@ -864,7 +864,7 @@
     "MultiLang": {
       "US": "You filthy leper, you'll only make rice more expensive if you stay alive! (｀へ´)",
       "JP": "あなたこの淫蟲留め existence ただrice 貴ます！（｀へ´）",
-      "CN": "",
+      "CN": "你这卑鄙无耻之徒，留你活着只会把米吃光！（｀へ´）",
       "KR": "당신这般淫贼留在世上只会把米价搞上去！（｀へ´）",
       "TW": "你這淫蟲留命在世上只會把米吃貴！（｀へ´）"
     }
@@ -873,9 +873,9 @@
     "translation": "",
     "MultiLang": {
       "US": "Hello everyone, I'm Dreamming Yangtou Fridge❀",
-      "JP": "",
-      "CN": "",
-      "KR": "",
+      "JP": "皆さん、こんにちは。私は夢夢陽桃の冷蔵庫です❀",
+      "CN": "大家好，我就 ));\n梦梦杨桃冰箱ssel",
+      "KR": "대가호 나는就给大家杨桃冰箱❀",
       "TW": "大家好我就是夢夢楊桃冰櫃❀"
     }
   },
@@ -895,8 +895,8 @@
       "US": "(Zombies are blocked for 5 seconds, hurry up!!! (o゜▽゜)o☆）",
       "JP": "(ゾンブイを5秒止める、急がば回れ！！(o゜▽゜)o☆）",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "(좀비가 막혀 5초, 빨리 달려!(o゜▽゜)o☆）",
+      "TW": "(殭屍被阻擋5秒，快跑！！(o゜▽゜)o☆）"
     }
   },
   "（僵尸5秒后传送）": {
@@ -914,7 +914,7 @@
     "MultiLang": {
       "US": "(The door will open in 25 seconds)",
       "JP": "(25秒後に扉開く)",
-      "CN": "",
+      "CN": "(大门25秒后开启)",
       "KR": "(문이 25초 후에 열립니다)",
       "TW": "(大門25秒後打開)"
     }
@@ -925,7 +925,7 @@
       "US": "Yuki",
       "JP": "桜",
       "CN": "",
-      "KR": "",
+      "KR": "연💥",
       "TW": "桜"
     }
   },
@@ -944,7 +944,7 @@
     "MultiLang": {
       "US": "Don't touch there anymore meow cheeks flushing meow (＊／ω＼＊)",
       "JP": "もうそこで触るなニャ 面红いニャ(＊／ω＼＊)",
-      "CN": "",
+      "CN": "不要再去碰那里了喵 脸红了喵(＊／ω＼＊)",
       "KR": "더는 빠르게 움직이지 마세요喵 脸红喵(＊／ω＼＊)",
       "TW": "不要再摸那裡了喵 脸紅喵(＊／ω＼＊)"
     }
@@ -962,7 +962,7 @@
   "才...才不是喜欢你呢⁄(⁄⁄•⁄ω⁄•⁄⁄)⁄礼物放在鱼桶里了喵~": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "Just... not liking you anyway⁄(⁄⁄•⁄ω⁄•⁄⁄)⁄ Gift in the fish bucket meow~",
       "JP": "才...才不是喜歡你呢⁄(⁄⁄•⁄ω⁄•⁄⁄)⁄プレゼントを魚桶に置いたね〜",
       "CN": "",
       "KR": "재...재 좋아하는 것은 아니야⁄(⁄⁄•⁄ω⁄•⁄⁄)⁄ 선물은 고기통에 놓았어<decltype(//ºù//)>~",
@@ -974,7 +974,7 @@
     "MultiLang": {
       "US": "Bro buys apples~",
       "JP": "兄さん apples 买吗~",
-      "CN": "",
+      "CN": "这位大哥要买苹果嘛~",
       "KR": "소형 사과를 살래~",
       "TW": "小哥買蘋果嘛~"
     }
@@ -985,7 +985,7 @@
       "US": "(Tree house will open in 40s)",
       "JP": "樹屋は40s後に開放されます",
       "CN": "",
-      "KR": "",
+      "KR": "(⽊집이 40초 후에 열립니다)",
       "TW": "樹屋將在40s後開放"
     }
   },
@@ -993,9 +993,9 @@
     "translation": "",
     "MultiLang": {
       "US": "(Treehouse will open in 5s)",
-      "JP": "",
+      "JP": "樹屋は5秒後開放されます",
       "CN": "",
-      "KR": "",
+      "KR": "(집게가 5초 후에 개방됩니다)",
       "TW": "樹屋將在5s後開放"
     }
   },
@@ -1004,7 +1004,7 @@
     "MultiLang": {
       "US": "(30 seconds later, the door opens!)",
       "JP": "(30秒後門開!)",
-      "CN": "",
+      "CN": "(30秒后门开！)",
       "KR": "(30초 후 문 열립니다!)",
       "TW": "(30秒後門開!)"
     }
@@ -1024,9 +1024,9 @@
     "MultiLang": {
       "US": "(20 seconds)",
       "JP": "",
-      "CN": "",
+      "CN": "(20秒) 输出",
       "KR": "(20초)",
-      "TW": ""
+      "TW": "(20秒)  輸出"
     }
   },
   "（码头25秒后开放！）": {
@@ -1034,7 +1034,7 @@
     "MultiLang": {
       "US": "(Terminal opens in 25 seconds!)",
       "JP": "（25秒後 Dock 开放！）",
-      "CN": "",
+      "CN": "（码头10秒后开放！）",
       "KR": "(25초 후碼頭開放！)",
       "TW": "（碼頭25秒後開放！）"
     }
@@ -1054,7 +1054,7 @@
     "MultiLang": {
       "US": "Ah哉！这么多床，难道是要开银趴吗",
       "JP": "あらえ！こんなにベッドがあるなんて、銀パって隠してあるの maybe",
-      "CN": "",
+      "CN": "卧槽！这么多床，难道是要开银趴吗",
       "KR": "아-League! 이렇게 많은 침대, 은파티를 열可以更好？",
       "TW": "啊嘞！那麼多張床，難道是要開銀趴嗎"
     }
@@ -1073,10 +1073,10 @@
     "translation": "",
     "MultiLang": {
       "US": "*jiangbao Mapper*",
-      "JP": "",
+      "JP": "*マッパー 蒋宝* (Mapper Jiangbao)",
       "CN": "*jiangbao*地图绘制者",
       "KR": "*맵퍼 장바오*",
-      "TW": ""
+      "TW": "*Mapper 江寶*"
     }
   },
   "九尾可爱喵~九尾可爱喵~": {
@@ -1092,41 +1092,41 @@
   "*Mapper xinjing*": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
-      "CN": "",
+      "US": "*xinjing Mapper*",
+      "JP": "*マッパー 新静*",
+      "CN": "*xinjing制图师*",
       "KR": "맵퍼 시jing",
-      "TW": ""
+      "TW": "*xinjing制图師*"
     }
   },
   "*Mapper Lucky*": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
+      "JP": "*マッパー運の良し*",
+      "CN": "*制图师幸运*",
       "KR": "*맵퍼 다크리_*",
-      "TW": ""
+      "TW": "*mapping師運氣*"
     }
   },
   "*Mapper hualian_HL*": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
+      "JP": "*マッパー 華漣_HL*",
+      "CN": "*制图者 hualian_HL*",
       "KR": "*매핑 허lian_HL*",
-      "TW": ""
+      "TW": "*mapper 花lian_HL*"
     }
   },
   "*Mapper BYD_Cat*": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
+      "JP": "*マッパー BYD_Cat*",
+      "CN": "*制图者 BYD_Cat*",
       "KR": "*맵퍼 BYD_Cat*",
-      "TW": ""
+      "TW": "*地圖繪者 BYD_Cat*"
     }
   },
   "哨站背面有一个钟": {
@@ -1154,7 +1154,7 @@
     "MultiLang": {
       "US": "Jiang Si teleports in 5s!",
       "JP": "姜絲5s後传送！",
-      "CN": "",
+      "CN": "姜丝5秒后传送！",
       "KR": "장신 5s 후 전송!",
       "TW": "姜絲5s後傳送！"
     }
@@ -1186,7 +1186,7 @@
       "JP": "(15秒後ガラス碎れる）",
       "CN": "",
       "KR": "(15초 후 유리가 깨진다)",
-      "TW": ""
+      "TW": "(玻璃在15秒后破碎)"
     }
   },
   "船舱在10秒后打开": {
@@ -1194,7 +1194,7 @@
     "MultiLang": {
       "US": "Cabin opens in 10 seconds",
       "JP": "船舱は10秒後で開きます",
-      "CN": "",
+      "CN": "船舱将于10秒后打开",
       "KR": "선실이 10초 후에 열립니다",
       "TW": "船艙在10秒後打開"
     }
@@ -1214,9 +1214,9 @@
     "MultiLang": {
       "US": "Say I never saidUncle would lie to you~",
       "JP": "就说おっちゃんは君を欺かないと約束したじゃん~",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "就说老伯伯不会骗你吧~",
+      "KR": "그래서 아저씨가 너를 속일리 없을 거라고 말하는 건가~",
+      "TW": "說大叔不會騙你的吧~"
     }
   },
   "这里可是我的秘密基地哦 快下来看看吧！": {
@@ -1243,7 +1243,7 @@
     "translation": "",
     "MultiLang": {
       "US": "(Transferred in 25s!)",
-      "JP": "",
+      "JP": "（25秒後传送！）",
       "CN": "(25s后传送！)",
       "KR": "(25s 후 전송!)",
       "TW": "(25s後傳送！)"
@@ -1253,10 +1253,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "**55秒**",
+      "CN": "**55秒**",
+      "KR": "**55초**",
+      "TW": "**55秒**"
     }
   },
   "要来一起睡午觉嘛~": {
@@ -1264,7 +1264,7 @@
     "MultiLang": {
       "US": "Want to come sleep for a nap together~",
       "JP": "一緒に昼寝する？~",
-      "CN": "",
+      "CN": "一起来睡午觉嘛~",
       "KR": "재미있게 점심잠자리 나눠봤으면~",
       "TW": "要來1起睡午覺嗎~"
     }
@@ -1273,10 +1273,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "**15秒**",
+      "CN": "**15秒**",
+      "KR": "**15초**",
+      "TW": "**15秒**"
     }
   },
   "撒旦:“怎么？你也想如他们般癫狂？”": {
@@ -1284,7 +1284,7 @@
     "MultiLang": {
       "US": "Satan: \"Why? Do you wish to go mad like them?\"",
       "JP": "サタン：“どうした？君も彼らのように狂おしい思いをしたいのか？”",
-      "CN": "",
+      "CN": "撒旦：“怎么？你也想瘋狂起来？”",
       "KR": "사단: \"왜지? 넌 그들이一样疯狂一般也想要疯狂吗?\"",
       "TW": "撒旦：“為何？你亦 wanna Like 他們1樣瘋狂？”"
     }
@@ -1294,7 +1294,7 @@
     "MultiLang": {
       "US": "Satan: \"Pray to me, humans!\"",
       "JP": "撒旦：“人類よ、私に祈れ！”",
-      "CN": "",
+      "CN": "萨丹：“祈祷吧，人类！”",
       "KR": "사단: \"인간들, 저에게 기도하거라!\"",
       "TW": "撒旦:“向我禱告吧，人類！”"
     }
@@ -1304,7 +1304,7 @@
     "MultiLang": {
       "US": "Ah well, feeling sad cut my hand meow QAQ",
       "JP": "あらえ？放棄されたようで悲しくて切ないね〜QAQ",
-      "CN": "",
+      "CN": "哎咧，被抛弃了伤心割手手喵QAQ",
       "KR": "아러레, 버려졌네 슬퍼서 커티지 Coupe",
       "TW": "啊嘞，被拋棄了傷心割手手喵QAQ"
     }
@@ -1314,7 +1314,7 @@
     "MultiLang": {
       "US": "Satan: \"Zombies? Interesting.\"",
       "JP": "サタン：“ゾンビか？興味があるな”",
-      "CN": "",
+      "CN": "撒旦：“僵尸？有点意思”",
       "KR": "사단:\"좀 재미있네요. 백.volleyball_zombie\"",
       "TW": "撒旦:“殭屍嗎？有點意思”"
     }
@@ -1344,7 +1344,7 @@
     "MultiLang": {
       "US": "Can join even with push, sounds interesting",
       "JP": "プッシュも加えられるのかな？少し興味がある",
-      "CN": "",
+      "CN": "加了推送也能进来吗，有点意思",
       "KR": "pushtags을 추가해도 들어올 수 있나요, 좀 재미있네요",
       "TW": "加了push也能進來嗎，有點意思"
     }
@@ -1373,9 +1373,9 @@
     "translation": "",
     "MultiLang": {
       "US": "You are not allowed to attend the Silver Party!!!",
-      "JP": "",
-      "CN": "",
-      "KR": "",
+      "JP": "你不許參加銀趴！！！",
+      "CN": "禁止参加银趴！！！",
+      "KR": "你不许参加银趴！！！ -> 은파에 참가하지 말아야 한다!!!",
       "TW": "你不得參加銀趴!!!!!"
     }
   },
@@ -1385,16 +1385,16 @@
       "US": "Look, a noob wants to eat pizza ʖᵒ>({：<",
       "JP": "快看，有个noob想吃披萨 clado ֊ ˂clado",
       "CN": "快看，有个新手想吃披萨 ˶ᵒ ֊ ˂elves",
-      "KR": "",
-      "TW": ""
+      "KR": "빠리 봐, 노브 하나 있어 피자 먹으려나 🤓ᵒ ֊ ˂📣",
+      "TW": "快看，有个新手想吃披薩 /Instruction: 快看，有个noob想吃披薩"
     }
   },
   "已经燃尽了...传送门进不去力！": {
     "translation": "",
     "MultiLang": {
       "US": "Already burned out... Can't enter the portal!",
-      "JP": "",
-      "CN": "",
+      "JP": "すでに燃え尽きてしまった... teleportation 不可！",
+      "CN": "已经烧光了...传送门进不去力！",
       "KR": "이미 소진되어... 전송문 사용 불가!!",
       "TW": "已經燃盡了...傳送門進不去力！"
     }
@@ -1403,38 +1403,38 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "*マッパー・ウェイウェイ ウェイ ウェイ 会*",
+      "CN": "*映射歪祎薇希会*",
+      "KR": "*맵터위이위 Xiaomi*",
+      "TW": "* Mapper 我anye無協 hội *"
     }
   },
   "*Mapper MinionsHian*": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
+      "JP": "*マッパーミニオンズ 緋庵*",
+      "CN": "*测绘仆从Hian*",
       "KR": "매핑 미니언스ヒ안",
-      "TW": ""
+      "TW": "*探路小隊員 緋安*"
     }
   },
   "*Chi7aki*": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "*チ7aki*",
+      "CN": "*奇7aki*",
+      "KR": "*치7aki*",
+      "TW": "*智7阿基*"
     }
   },
   "有小猪掉入了虚空^(*--(oo)--*)^": {
     "translation": "",
     "MultiLang": {
       "US": "A pig fell into the void^(*--(oo)--*)^",
-      "JP": "",
-      "CN": "",
+      "JP": "小pigが虚void間に落ちた^(*--(oo)--*)^",
+      "CN": "一只小猪掉入了虚空^(*--(oo)--*)^",
       "KR": "유소금이 진공에 빠졌습니다.^(*--(oo)--*)^",
       "TW": "有小豬掉入了虛無^(*--(oo)--*)^"
     }
@@ -1444,7 +1444,7 @@
     "MultiLang": {
       "US": "Sure feel like my body has gotten stronger!",
       "JP": "果然体が強くなったな！",
-      "CN": "",
+      "CN": "果然感觉身体变强壮了呢！",
       "KR": "果然 몸이 단단해졌나 보다!",
       "TW": "果然覺得身體被強健了呢！"
     }
@@ -1463,8 +1463,8 @@
     "translation": "",
     "MultiLang": {
       "US": "OMG!!! Jiangsi took your wife Mikyu away!!",
-      "JP": "",
-      "CN": "",
+      "JP": "マジかよ！！！姜丝があなたの老婆米庫を拐拐拐った！！",
+      "CN": "卧槽！！！姜丝把你老婆米库拐跑了！！",
       "KR": "OMG!!! 장시가 당신의 아내 미쿠를 빼돌렸다!!",
       "TW": "OMG!!! 姜絲把你老婆米庫拐跑啦！！"
     }
@@ -1477,6 +1477,66 @@
       "CN": "",
       "KR": "kz입니까?略微有趣",
       "TW": "kz嗎？有點意思"
+    }
+  },
+  "小魅魔:“怎么？你也想如他们般癫狂？”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Xiao Xiaomi: \"How? Do you also want to go insane like them?\"",
+      "JP": "小魅魔:“どう？お前もあの人たちみたいに狂ったつもりか？”",
+      "CN": "小魅魔：“怎么？你也想像他们一样癫狂？”",
+      "KR": "소미: “어떻게, 네도 그들처럼 미쳐버릴 거야?”",
+      "TW": "小魅魔:「怎麼？你也想如他們般癫狂？」"
+    }
+  },
+  "小魅魔:“向我祈祷吧，人类！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Xiao Xiaomi: \"Pray to me, human!\"",
+      "JP": "こみま：“向我祈祷吧，人类！”",
+      "CN": "",
+      "KR": "소멸마: \"인간에게 축복을 빌어봐!\"",
+      "TW": ""
+    }
+  },
+  "小魅魔:“僵尸吗?有点意思”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Xiao Xiaomi: \"Zombies? That's interesting.\"",
+      "JP": "こみま：“ゾンビか？　ちょっと面白いな”",
+      "CN": "",
+      "KR": "小魅魔: “좀비요? 흥미롭군요”",
+      "TW": "小魅魔:“殭屍嗎？有啲意思”"
+    }
+  },
+  "小魅魔:“哼，赏你点力量”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Xiao Xiaomi: \"Hmph, I'll reward you with some power.\"",
+      "JP": "こみま:“うっ、お前さんに少しの力を与えよう”",
+      "CN": "",
+      "KR": "小魅魔:“哼，赏你点力量” -> 미미마: \"흐흠, 널 위해 약간의 힘을 주마.\"",
+      "TW": "小魅魔:「哼，賞你點力量」"
+    }
+  },
+  "已经没有人类了喵！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "There are no humans left meow!",
+      "JP": "もう人間はいませんね、にゃ！",
+      "CN": "",
+      "KR": "이미 인간은 없네 냥!",
+      "TW": "已經沒有人類了喵！"
+    }
+  },
+  "星野酱永远沉睡在不清醒的梦里了喵": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hinata-chan is forever sleeping in hazy, unawakened dreams, meow.",
+      "JP": "ほしのしょうが ずっと ぐっすり 眠ってるのニャ",
+      "CN": "",
+      "KR": "히야오 찡은 깨지 않는 꿈 속에서 영원히 잠들어 있어 야옹",
+      "TW": "星野醬永遠沉睡在不清醒的夢裡了喵"
     }
   }
 }

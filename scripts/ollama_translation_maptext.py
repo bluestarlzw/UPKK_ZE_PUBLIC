@@ -1,12 +1,19 @@
-# 本地部署ollama 并利用 Qwen2.5:7B-Instruct (阿里千问2.5:7b)模型 进行自动化翻译
+# 本地部署ollama 并利用 google gemma3 模型 进行自动化翻译
 # 此脚本目前不会对现有翻译进行覆盖
 # 将配置和路径修改为正确的本地ollama地址 运行此脚本.
+# https://ollama.com/
 # 如具有更好的GPU算力则可以使用更大的模型以达到更精确的效果
 # ollama pull Qwen2.5:7B-Instruct
+# ollama pull gemma3:4b gemma3:12b-it-qat
 # sudo systemctl start ollama
 # sudo apt install python3
 # sudo pip install tqdm requests argparse
 # 注 基于AI推理翻译每次运行结果可能都会不同 同时可能会犯错以及不正确的翻译.
+
+# 建议使用 gemma3:12b-it-qat 模型来进行翻译
+# it：表示“instruction-tuned”（指令微调）。这是指模型经过额外的微调，以更好地理解和响应用户指令，特别适合对话、问答、任务执行等场景。相较于预训练模型（pre-trained, PT），指令微调模型在处理特定任务时表现更优，尤其是需要遵循用户提示（prompt）的场景。
+# qat：表示“Quantization-Aware Training”（量化感知训练）。这是一种在模型训练过程中引入量化操作的技术，旨在让模型适应低精度计算（如从BF16到int4），从而减少内存占用，同时尽量保持与高精度模型相似的性能。QAT通过在训练时模拟低精度运算，优化模型权重和激活值，相比传统的训练后量化（Post-Training Quantization, PTQ），QAT能显著降低量化带来的精度损失。
+# 12b：表示模型有120亿个参数，属于中等规模的Gemma 3模型。
 
 import json
 import os
@@ -20,8 +27,8 @@ from difflib import SequenceMatcher
 import logging
 
 # 配置
-OLLAMA_URL = "http://127.0.0.1:11434/api/generate"
-MODEL = "qwen2.5:7b-instruct"
+OLLAMA_URL = "http://192.168.50.7:11434/api/generate"  # 本地 Ollama服务器 地址 (使用 Apple Mac Mini) 
+MODEL = "gemma3:12b-it-qat"
 DIRECTORY = os.getcwd()  # 默认设置为当前目录
 HEADERS = {"Content-Type": "application/json"}
 
@@ -37,122 +44,131 @@ MAX_RETRIES = 5
 TIMEOUT_SECONDS = 60
 SIMILARITY_THRESHOLD = 0.88
 LOG_FILE = 'translation_log.txt'  # 日志文件路径
+SHOW_LOGS = False  # 是否显示日志
+DISABLE_FILE_LOG = True  # 是否禁用文件日志
 
 # 设置日志
-logging.basicConfig(filename=LOG_FILE, level=logging.INFO, format='%(asctime)s - %(message)s')
+def setup_logging(show_logs, disable_file_log):
+    # 清除所有已有的日志处理器
+    for handler in logging.root.handlers[:]:
+        logging.root.removeHandler(handler)
+
+    logging_handlers = []
+    if show_logs:
+        console_handler = logging.StreamHandler()
+        console_handler.setLevel(logging.INFO)
+        console_handler.setFormatter(logging.Formatter('%(asctime)s - %(message)s'))
+        logging_handlers.append(console_handler)
+    if not disable_file_log:
+        file_handler = logging.FileHandler(LOG_FILE, encoding="utf-8")  # 指定 UTF-8 编码
+        file_handler.setLevel(logging.INFO)
+        file_handler.setFormatter(logging.Formatter('%(asctime)s - %(message)s'))
+        logging_handlers.append(file_handler)
+
+    logging.basicConfig(level=logging.INFO, handlers=logging_handlers)
 
 # 检测文本是否为正确的语言
 def is_correct_language(text, lang):
-    if lang == "CN":
-        return bool(re.search(r'[\u4e00-\u9fff]', text))  # 简体中文
-    elif lang == "JP":
-        return bool(re.search(r'[\u3040-\u30ff\u31f0-\u31ff\u4e00-\u9fff]', text))  # 日文
-    elif lang == "KR":
-        return bool(re.search(r'[\uac00-\ud7af]', text))  # 韩文
-    elif lang == "TW":
-        return bool(re.search(r'[\u4e00-\u9fff]', text))  # 繁体中文
-    elif lang == "US":
-        return bool(re.search(r'[a-zA-Z]', text))  # 英文
-    return False
-
-# 用于翻译的函数
-def translate_text(original_text, lang_code, filename):
-    # 跳过仅包含符号和数字的原文
-    if is_text_symbol_or_number(original_text):
-        message = f"[Skip]: 文件: {filename} | 原文: {original_text} | 原语言: {LANGUAGE_MAP[lang_code][0]} | 目标语言: {lang_code} | 理由: 仅包含符号或数字"
-        logging.info(message)
-        print(message)  # 控制台输出
-        return None
-
-    _, lang_en_name = LANGUAGE_MAP[lang_code]
-    prompt = build_prompt(lang_en_name, original_text)
-
-    for attempt in range(1, MAX_RETRIES + 1):
-        try:
-            payload = {
-                "model": MODEL,
-                "prompt": prompt,
-                "stream": False
-            }
-            response = requests.post(OLLAMA_URL, headers=HEADERS, json=payload, timeout=TIMEOUT_SECONDS)
-            response.raise_for_status()
-            result = response.json()
-            translation = result.get('response', '').strip()
-
-            # 如果翻译成功且语言匹配，返回翻译结果
-            if is_correct_language(translation, lang_code):
-                message = f" [OK][{filename}] [{original_text}] 目标语言: {lang_en_name} - 内容: {translation}"
-                logging.info(message)
-                print(message)  # 控制台输出
-                return sanitize_text(translation)
-            else:
-                # 如果翻译失败，记录实际翻译结果内容
-                message = f"([失败] 文件: {filename} |  [{original_text}]) 目标语言: {lang_en_name} 内容: 翻译返回结果: {translation}"
-                logging.error(message)
-                print(f"[失败] {message}")
-                time.sleep(2)
-        except Exception as e:
-            message = f"(翻译失败 文件: {filename} |  [{original_text}]) 目标语言: {lang_en_name} 内容: 错误 - {e}"
-            logging.error(message)
-            print(f"[错误] 翻译失败: {e}, 第{attempt}次重试...")
-            if attempt < MAX_RETRIES:
-                time.sleep(2)
-            else:
-                print(f"[错误] 达到最大重试次数，跳过该条目。")
-                return None
-    return None
+    language_patterns = {
+        "CN": r'[\u4e00-\u9fff]',  # 简体中文
+        "JP": r'[\u3040-\u30ff\u31f0-\u31ff\u4e00-\u9fff]',  # 日语
+        "KR": r'[\uac00-\ud7af]',  # 韩语
+        "TW": r'[\u4e00-\u9fff]',  # 繁体中文
+        "US": r'[a-zA-Z]'  # 英语
+    }
+    return bool(re.search(language_patterns.get(lang, ""), text))
 
 # 判断原文是否仅包含符号或数字
 def is_text_symbol_or_number(text):
-    # 判断是否仅包含符号、数字或空白
-    return bool(re.match(r'^[\W\d_]+$', text.strip()))  # \W 匹配非字母数字符号，\d 匹配数字，_ 匹配下划线
+    return bool(re.match(r'^[\W\d_]+$', text.strip()))
+
+# 判断原文是否是英语
+def is_english(text):
+    return bool(re.match(r'^[a-zA-Z0-9\s\*\_\-\!\@\#\$\%\^\&\(\)\[\]\{\}\,\.\?\:\;\"\'\<\>\\\/\|\+\=]*$', text.strip()))
 
 # 构建翻译提示的函数
 def build_prompt(target_language, original_text):
-    # 清除翻译指令等非翻译内容
-    original_text = re.sub(r"【.*?】", "", original_text)  # 去除【开始翻译】等标记
-    prompt = (
-        f"Act as a professional game text translator.\n"
-        f"Translate the following game-related short text into {target_language}.\n"
-        f"Return ONLY the translation. DO NOT add any explanation, introduction, quotation marks, or extra words.\n"
-        f"Be concise, faithful to the original meaning, and adapt to the style of in-game texts.\n"
-        f"Keep all numbers (e.g., 1, 2, 10, 30) exactly the same. Do NOT translate numbers into words.\n"
-        f"Preserve all special symbols such as ***, >> <<, exactly as they appear.\n"
-        f"Do NOT change the sentence structure, tone, or add any embellishment.\n\n"
-        f"Text:\n{original_text}"
+    original_text = re.sub(r"【.*?】", "", original_text)  # 去除特殊标记
+    return (
+        f"Translate the following game text into {target_language}.\n"
+        f"Rules:\n"
+        f"1. If the source text is already in {target_language}, return it as is, without modification.\n"
+        f"2. If the source text is NOT in {target_language}, translate it accurately.\n"
+        f"3. Do NOT copy the source text as the translation unless it is already valid in {target_language}.\n"
+        f"4. Preserve all special symbols (e.g., ***, >> <<) and numbers exactly as they appear.\n"
+        f"5. Do not translate numbers into their corresponding words in the target language.\n"
+        f"6. Maintain the style and tone of in-game text.\n\n"
+        f"Text:\n{original_text}\n"
+        f"Output the translation in JSON format (e.g., {{\"text\": \"<translation>\"}})."
     )
-    return prompt
 
 # 清理文本（移除不需要的字符）
 def sanitize_text(text):
     if not text:
         return ""
     text = re.sub(r'\\(?![ntr"\\/])', '', text)
-    text = ''.join(c for c in text if c >= ' ' or c == '\n')
-    return text.strip()
+    return ''.join(c for c in text if c >= ' ' or c == '\n').strip()
 
-# 将处理过的翻译文本与原文本进行相似度对比，并决定是否跳过翻译
+# 计算文本相似度
 def calculate_similarity(text1, text2):
     text1_cleaned = re.sub(r'[^A-Za-z0-9\u4e00-\u9fff\u3040-\u30ff\u31f0-\u31ff\uFF00-\uFFEF\uAC00-\uD7AF]', '', text1)
     text2_cleaned = re.sub(r'[^A-Za-z0-9\u4e00-\u9fff\u3040-\u30ff\u31f0-\u31ff\uFF00-\uFFEF\uAC00-\uD7AF]', '', text2)
     sequence_matcher = SequenceMatcher(None, text1_cleaned, text2_cleaned)
     return sequence_matcher.ratio()
 
-# 处理文件并尝试翻译
+# 翻译文本
+def translate_text(original_text, lang_code):
+    if is_text_symbol_or_number(original_text):
+        return None
+
+    if lang_code == "US" and is_english(original_text):
+        return None
+
+    if lang_code == "CN" and is_correct_language(original_text, "CN"):
+        return None  # 如果文本已包含显著中文，则跳过翻译
+
+    _, lang_en_name = LANGUAGE_MAP[lang_code]
+    prompt = build_prompt(lang_en_name, original_text)
+
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            payload = {"model": MODEL, "prompt": prompt, "stream": False}
+            response = requests.post(OLLAMA_URL, headers=HEADERS, json=payload, timeout=TIMEOUT_SECONDS)
+            response.raise_for_status()
+            result = response.json()
+            raw_translation = result.get('response', '').strip()
+
+            try:
+                raw_translation = re.sub(r'^```json|```$', '', raw_translation.strip(), flags=re.MULTILINE).strip()
+                translation_json = json.loads(raw_translation)
+                translation = translation_json.get("text", "").strip()
+            except json.JSONDecodeError:
+                print(f"[JSON解析错误]: 原文: {original_text} | 目标语言: {LANGUAGE_MAP[lang_code][0]} | 尝试: {attempt}/{MAX_RETRIES}")
+                if attempt < MAX_RETRIES:  # 如果还有重试机会
+                    time.sleep(2)  # 等待后重试
+                    continue
+                translation = raw_translation  # 最后一次直接使用原始返回值作为翻译文本
+
+            if is_correct_language(translation, lang_code):
+                return sanitize_text(translation)
+        except Exception:
+            time.sleep(2)
+    return None
+
+# 处理文件
 def process_file(file_path):
     filename = os.path.basename(file_path)
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
     except Exception as e:
-        print(f"打开文件失败: {file_path}, 错误: {e}")
-        return
+        logging.error(f"文件打开失败: {filename}, 错误: {e}")
+        return False
 
     keys = list(data.keys())
-    total_keys = len(keys)
     modified = False
 
-    with tqdm(total=total_keys, desc=f"[文件] {filename}", ncols=100, unit="条", dynamic_ncols=True, leave=False) as pbar:
+    with tqdm(total=len(keys), desc=f"[文件] {filename}", ncols=100, unit="条", leave=False) as pbar:
         for key in keys:
             if not key or not isinstance(data[key].get('MultiLang'), dict):
                 pbar.update(1)
@@ -161,23 +177,17 @@ def process_file(file_path):
             original_text = key.strip()
             value = data[key]['MultiLang']
 
+            # 动态更新进度条的描述信息，仅显示当前原文片段
+            pbar.set_description(f"[文件] {filename} | 正在翻译: {original_text[:30]} ...")
+
             for lang_code in LANGUAGE_MAP.keys():
-                # 如果原文是英语，则跳过 US 语言的翻译
                 if lang_code == "US" and is_english(original_text):
-                    message = f"[Skip]: 文件: {filename} | 原文: {original_text} | 原语言: 英文 | 目标语言: US | 理由: 原文为英语"
-                    logging.info(message)
-                    print(message)  # 控制台输出
                     continue
 
-                if value.get(lang_code, "") == "":
-                    translated = translate_text(original_text, lang_code, filename)
-
-                    # 跳过翻译结果与原文相似度超过阈值的情况
-                    if translated and calculate_similarity(original_text, translated) >= SIMILARITY_THRESHOLD:
-                        continue
-
-                    # 验证有效性并处理翻译
-                    if translated:
+                if not value.get(lang_code):
+                    # 翻译文本
+                    translated = translate_text(original_text, lang_code)
+                    if translated and calculate_similarity(original_text, translated) < SIMILARITY_THRESHOLD:
                         value[lang_code] = translated
                         modified = True
 
@@ -188,52 +198,25 @@ def process_file(file_path):
             with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
         except Exception as e:
-            print(f"保存文件失败: {file_path}, 错误: {e}")
+            logging.error(f"文件保存失败: {filename}, 错误: {e}")
 
-# 判断原文是否是英语
-def is_english(text):
-    return bool(re.match(r'^[a-zA-Z0-9\s]*$', text))
+    return True
 
 # 主程序
 def main():
-    parser = argparse.ArgumentParser(description="本地批量翻译或单文件翻译脚本 (使用 Ollama + Qwen2:7b) ")
-    parser.add_argument(
-        "-f", "--file",
-        type=str,
-        help="指定单个文件进行翻译处理（可选，若不指定则默认处理整个目录）"
-    )
-    parser.add_argument(
-        "-p", "--parallel",
-        type=int,
-        default=1,
-        help="并行处理文件数（可选，默认1个）"
-    )
+    parser = argparse.ArgumentParser(description="本地批量翻译脚本 (使用 Ollama + Gemma3)")
+    parser.add_argument("-f", "--file", type=str, help="指定单个文件进行翻译处理")
+    parser.add_argument("-p", "--parallel", type=int, default=1, help="并行处理文件数")
     args = parser.parse_args()
 
-    print(f"使用模型: {MODEL} | API地址: {OLLAMA_URL}")
+    setup_logging(SHOW_LOGS, DISABLE_FILE_LOG)
 
     if args.file:
-        file_path = args.file
-        if not os.path.isfile(file_path):
-            print(f"错误: 文件不存在 -> {file_path}")
-            return
-        print(f"处理单个文件: {file_path}")
-        process_file(file_path)
+        process_file(args.file)
     else:
-        file_list = sorted(
-            [os.path.join(DIRECTORY, f) for f in os.listdir(DIRECTORY) if f.endswith('.jsonc')],
-            key=lambda x: os.path.getsize(x)
-        )
-        total_files = len(file_list)
-
-        with tqdm(total=total_files, desc="处理所有文件", ncols=100, unit="个", dynamic_ncols=True) as pbar:
-            with concurrent.futures.ThreadPoolExecutor(max_workers=args.parallel) as executor:
-                futures = [executor.submit(process_file, file_path) for file_path in file_list]
-
-                for future in concurrent.futures.as_completed(futures):
-                    pbar.update(1)
-
-        print("\n\n=== 全部完成 ===")
+        files = [os.path.join(DIRECTORY, f) for f in os.listdir(DIRECTORY) if f.endswith('.jsonc')]
+        with concurrent.futures.ThreadPoolExecutor(max_workers=args.parallel) as executor:
+            list(tqdm(executor.map(process_file, files), total=len(files), desc="Processing all files"))
 
 if __name__ == "__main__":
     main()

@@ -4305,4 +4305,124 @@
 		"updatedname"		"ze_Minecraft_Universe"
 		"OnlyNominate"		"0"
 	}
+	"ze_japans_3rd_bombing 健康版"
+	{
+		"workshop_id"		"3470919800"
+		"enabled"		"1"
+		"filename"		"ze_japans_3rd_bombing 健康版"
+		"updatedname"		"ze_japans_3rd_bombing 健康版"
+		"OnlyNominate"		"0"
+	}
+	"ze_obj_Blue_Depth"
+	{
+		"workshop_id"		"3467218688"
+		"enabled"		"1"
+		"filename"		"ze_obj_Blue_Depth"
+		"updatedname"		"ze_obj_Blue_Depth"
+		"OnlyNominate"		"0"
+	}
+	"ze_maontain_escape"
+	{
+		"workshop_id"		"3464392570"
+		"enabled"		"1"
+		"filename"		"ze_maontain_escape"
+		"updatedname"		"ze_maontain_escape"
+		"OnlyNominate"		"0"
+	}
+	"ze_rooftop_madness_p"
+	{
+		"workshop_id"		"3470854774"
+		"enabled"		"1"
+		"filename"		"ze_rooftop_madness_p"
+		"updatedname"		"ze_rooftop_madness_p"
+		"OnlyNominate"		"0"
+	}
+	"ze_yurilnier"
+	{
+		"workshop_id"		"3469287715"
+		"enabled"		"1"
+		"filename"		"ze_yurilnier"
+		"updatedname"		"ze_yurilnier"
+		"OnlyNominate"		"0"
+	}
+	"ze_lab"
+	{
+		"workshop_id"		"3472564664"
+		"enabled"		"1"
+		"filename"		"ze_lab"
+		"updatedname"		"ze_lab"
+		"OnlyNominate"		"0"
+	}
+	"ze_surf_cherry_blossom"
+	{
+		"workshop_id"		"3472820975"
+		"enabled"		"1"
+		"filename"		"ze_surf_cherry_blossom"
+		"updatedname"		"ze_surf_cherry_blossom"
+		"OnlyNominate"		"0"
+	}
+	"ze_incident_seasons"
+	{
+		"workshop_id"		"3472606171"
+		"enabled"		"1"
+		"filename"		"ze_incident_seasons"
+		"updatedname"		"ze_incident_seasons"
+		"OnlyNominate"		"0"
+	}
+	"ze_raid_ffxiv_eorzea"
+	{
+		"workshop_id"		"3474157957"
+		"enabled"		"1"
+		"filename"		"ze_raid_ffxiv_eorzea"
+		"updatedname"		"ze_raid_ffxiv_eorzea"
+		"OnlyNominate"		"0"
+	}
+	"ze_rien_z"
+	{
+		"workshop_id"		"3472980350"
+		"enabled"		"1"
+		"filename"		"ze_rien_z"
+		"updatedname"		"ze_rien_z"
+		"OnlyNominate"		"0"
+	}
+	"ze_negative_legacy"
+	{
+		"workshop_id"		"3472593113"
+		"enabled"		"1"
+		"filename"		"ze_negative_legacy"
+		"updatedname"		"ze_negative_legacy"
+		"OnlyNominate"		"0"
+	}
+	"ze_obj_eclipsis"
+	{
+		"workshop_id"		"3469187893"
+		"enabled"		"1"
+		"filename"		"ze_obj_eclipsis"
+		"updatedname"		"ze_obj_eclipsis"
+		"OnlyNominate"		"0"
+	}
+	"ze_rainbow_factory"
+	{
+		"workshop_id"		"3472829484"
+		"enabled"		"1"
+		"filename"		"ze_rainbow_factory"
+		"updatedname"		"ze_rainbow_factory"
+		"OnlyNominate"		"0"
+	}
+	"ze_lego"
+	{
+		"workshop_id"		"3471190473"
+		"enabled"		"1"
+		"filename"		"ze_lego"
+		"updatedname"		"ze_lego"
+		"OnlyNominate"		"0"
+	}
+	"ze_games_p"
+	{
+		"workshop_id"		"3480475048"
+		"enabled"		"1"
+		"filename"		"ze_games_p"
+		"updatedname"		"ze_games_p"
+		"OnlyNominate"		"0"
+	}
 }
