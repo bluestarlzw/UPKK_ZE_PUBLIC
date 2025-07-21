@@ -1,0 +1,20 @@
+name: Clean up stale auto-translate branches
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily at midnight
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete abandoned auto-translate branches
+        uses: phpdocker-io/github-actions-delete-abandoned-branches@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          allowed_prefixes: auto-translate- # Remove trailing slash to match branch names
+          last_commit_age_days: 2 # Delete branches with no commits in the last 2 days
+          ignore_branches: master # Protect master branch
+          dry_run: no # Set to 'no' to actually delete branches
+          github_base_url: https://api.github.com

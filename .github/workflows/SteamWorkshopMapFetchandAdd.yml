@@ -1,0 +1,46 @@
+name: Steam Workshop Map Fetch and Add
+
+on:
+  # 允许手动触发工作流
+  workflow_dispatch:
+  # 每24小时运行一次（使用 cron 表达式）
+  schedule:
+    - cron: '0 */12 * * *'  # 每 12 小时运行一次
+
+jobs:
+  fetch_and_add_maps:
+    runs-on: ubuntu-latest
+
+    env:
+      STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}  # Set your Steam API key as a secret in the GitHub repository
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests vdf
+
+      - name: Run the map fetching and adding script
+        run: |
+          python3 scripts/SteamWorkshopMapFetchandAdd.py --search_prefix "ze_" --map_file_path "cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt" --whitelist_file "scripts/workshop_white_steam64.txt" --blacklist_file "scripts/workshop_black_steam64.txt" --blacklist_item_file "scripts/workshop_item_black_lists.txt"  --numperpage 200 --page_count 2
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}  # Ensure the environment variable is also available to the script
+
+      - name: Create Pull Request if necessary
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          title: "自动添加创意工坊地图"
+          body: |
+            此PR自动添加了创意工坊地图。
+            请审核并确认
+          base: master
+          head: error-fix-branch

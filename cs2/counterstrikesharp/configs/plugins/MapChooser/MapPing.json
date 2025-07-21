@@ -1,5 +1,9 @@
 [
   {
+    "MapName": "ze_test23333",
+    "WorkshopId": "3075967570"
+  },
+  {
     "MapName": "ze_rooftop_runaway2_p",
     "WorkshopId": "3075967570"
   },
@@ -2262,5 +2266,173 @@
   {
     "MapName": "ze_lab_cs2_l",
     "WorkshopId": "3472564664"
+  },
+  {
+    "MapName": "ze_games_p",
+    "WorkshopId": "3480475048"
+  },
+  {
+    "MapName": "ze_misaka2_reborn",
+    "WorkshopId": "3476394764"
+  },
+  {
+    "MapName": "ze_church_of_white_ha1jk5fg2",
+    "WorkshopId": "3457593961"
+  },
+  {
+    "MapName": "ze_ultrakill",
+    "WorkshopId": "3455771581"
+  },
+  {
+    "MapName": "ze_nibui",
+    "WorkshopId": "3469117108"
+  },
+  {
+    "MapName": "ze_undersea_temple",
+    "WorkshopId": "3484586066"
+  },
+  {
+    "MapName": "ze_lorem_ipsum_p",
+    "WorkshopId": "3480565759"
+  },
+  {
+    "MapName": "ze_r_w_b_ulti",
+    "WorkshopId": "3476450406"
+  },
+  {
+    "MapName": "ze_rtx_code0_cs2",
+    "WorkshopId": "3478450356"
+  },
+  {
+    "MapName": "ze_chroma",
+    "WorkshopId": "3486786291"
+  },
+  {
+    "MapName": "ze_realm",
+    "WorkshopId": "3480319693"
+  },
+  {
+    "MapName": "ze_kebab_immigrant",
+    "WorkshopId": "3464430150"
+  },
+  {
+    "MapName": "ze_zombiemod_corporation_p",
+    "WorkshopId": "3491611168"
+  },
+  {
+    "MapName": "ze_italy_town_z",
+    "WorkshopId": "3490445810"
+  },
+  {
+    "MapName": "ze_shaurma_v3",
+    "WorkshopId": "3484229969"
+  },
+  {
+    "MapName": "ze_notredame_p",
+    "WorkshopId": "3491609761"
+  },
+  {
+    "MapName": "ze_peach_castle_n64",
+    "WorkshopId": "3493176131"
+  },
+  {
+    "MapName": "ze_random_escape_p",
+    "WorkshopId": "3491610173"
+  },
+  {
+    "MapName": "ze_chrono_trigger",
+    "WorkshopId": "3493671818"
+  },
+  {
+    "MapName": "ze_tree_story",
+    "WorkshopId": "3487344597"
+  },
+  {
+    "MapName": "ze_prototype",
+    "WorkshopId": "3492900445"
+  },
+  {
+    "MapName": "ze_neovia",
+    "WorkshopId": "3481377613"
+  },
+  {
+    "MapName": "ze_madara_temple",
+    "WorkshopId": "3492660421"
+  },
+  {
+    "MapName": "ze_minecraft_dreamland",
+    "WorkshopId": "3496709273"
+  },
+  {
+    "MapName": "ze_obj_annihilate_dd_v1",
+    "WorkshopId": "3434442059"
+  },
+  {
+    "MapName": "ze_mountain_ultimate",
+    "WorkshopId": "3495926739"
+  },
+  {
+    "MapName": "ze_payload_swarm",
+    "WorkshopId": "3500311066"
+  },
+  {
+    "MapName": "ze_castle_bridge_p",
+    "WorkshopId": "3501125080"
+  },
+  {
+    "MapName": "zm_siberia_v2_csgo_p",
+    "WorkshopId": "3260457902"
+  },
+  {
+    "MapName": "ze_error",
+    "WorkshopId": "3503421526"
+  },
+  {
+    "MapName": "ze_project_codex",
+    "WorkshopId": "3499862685"
+  },
+  {
+    "MapName": "ze_diablo",
+    "WorkshopId": "3485132292"
+  },
+  {
+    "MapName": "ze_obj_avulsion_a1",
+    "WorkshopId": "3499962464"
+  },
+  {
+    "MapName": "ze_untitled_touhou",
+    "WorkshopId": "3511418043"
+  },
+  {
+    "MapName": "ze_m0w0m_ws",
+    "WorkshopId": "3512870422"
+  },
+  {
+    "MapName": "ze_timesink",
+    "WorkshopId": "3513697564"
+  },
+  {
+    "MapName": "ze_luna_escape",
+    "WorkshopId": "3472585010"
+  },
+  {
+    "MapName": "ze_ffvii_mako_reactor_v5_p",
+    "WorkshopId": "3511906760"
+  },
+  {
+    "MapName": "ze_guye_room",
+    "WorkshopId": "3518232786"
+  },
+  {
+    "MapName": "ze_starlight_revue_cs2",
+    "WorkshopId": "3519985936"
+  },
+  {
+    "MapName": "ze_gameshow",
+    "WorkshopId": "3502458657"
+  },
+  {
+    "MapName": "ze_boatescape777",
+    "WorkshopId": "3527162200"
   }
 ]

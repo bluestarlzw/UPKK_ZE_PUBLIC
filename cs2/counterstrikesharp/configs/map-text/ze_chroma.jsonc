@@ -1,0 +1,142 @@
+{
+  "*** Map by Soft Serve ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Soft Serveによるマップ ***",
+      "CN": "*** 地图由 Soft Serve 制作 ***",
+      "KR": "*** Soft Serve 제작 지도 ***",
+      "TW": "*** 地圖由 Soft Serve 製作 ***"
+    }
+  },
+  "*** 45 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 45秒 ***",
+      "CN": "*** 45 秒 ***",
+      "KR": "*** 45초 ***",
+      "TW": "*** 45 秒 ***"
+    }
+  },
+  "*** 15 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 15秒 ***",
+      "CN": "*** 15 秒 ***",
+      "KR": "*** 15초 ***",
+      "TW": "*** 15 秒 ***"
+    }
+  },
+  "*** 5 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 5秒 ***",
+      "CN": "*** 5 秒 ***",
+      "KR": "*** 5초 ***",
+      "TW": "*** 5 秒 ***"
+    }
+  },
+  "*** Blue-Yellow has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 青-黄 が 獲得されました ***",
+      "CN": "*** 蓝黄已被获取 ***",
+      "KR": "*** 블루-옐로우를 획득했습니다 ***",
+      "TW": "*** 藍黃已被取得 ***"
+    }
+  },
+  "*** Chromatic Heal has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** クロマティック・ヒール を習得しました ***",
+      "CN": "*** 已获得色彩治疗 ***",
+      "KR": "*** 크로마틱 힐을 획득했습니다 ***",
+      "TW": "*** 已獲得 異彩治療 ***"
+    }
+  },
+  "** You have 400 seconds to kill the boss **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ボスを倒すまで残り400秒 **",
+      "CN": "** 你有 400 秒时间击杀 Boss **",
+      "KR": "** 보스 처치까지 400초 남았습니다 **",
+      "TW": "** 你有 400 秒擊敗 BOSS **"
+    }
+  },
+  "*** 3 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*** 2 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*** 1 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*** TBC ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*** Green-Magenta has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 緑-マゼンタ を 獲得しました ***",
+      "CN": "*** 绿-品红已被获取 ***",
+      "KR": "*** 그린-마젠타 획득 ***",
+      "TW": "*** 綠色-品紅色已被取得 ***"
+    }
+  },
+  "*** Red-Cyan has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Red-Cyan が獲得されました ***",
+      "CN": "*** 红-青已被获取 ***",
+      "KR": "*** Red-Cyan이 획득되었습니다 ***",
+      "TW": "*** 紅青已被取得 ***"
+    }
+  },
+  "*** Round failed! Zombies have reached the objective! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ラウンド失敗！ゾンビが目標に到達しました！ ***",
+      "CN": "*** 这一轮失败！僵尸已到达目标！ ***",
+      "KR": "*** 라운드 실패! 좀비들이 목표 지점에 도달했습니다! ***",
+      "TW": "*** 關卡失敗！殭屍已抵達目標！ ***"
+    }
+  }
+}
