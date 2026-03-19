@@ -1790,7 +1790,7 @@
 	"ze_skyheart"
 	{
 		"workshop_id" "3248313795"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_skyheart"
 		"updatedname" "ze_skyheart"
 		"OnlyNominate" "1"
@@ -1806,7 +1806,7 @@
 	"ze_omochix_cs2"
 	{
 		"workshop_id" "3238552190"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_omochi_cs2"
 		"updatedname" "ze_omochix_cs2"
 		"OnlyNominate" "1"
@@ -2196,7 +2196,7 @@
 	"ze_Lightnight"
 	{
 		"workshop_id" "3280980480"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_lightnight_v1"
 		"updatedname" "ze_lightnight_v1"
 		"OnlyNominate" "1"
@@ -2220,7 +2220,7 @@
 	"ze_shenzhimudi_initial_y"
 	{
 		"workshop_id" "3279330405"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_shenzhimudi_initial_y"
 		"updatedname" "ze_shenzhimudi_initial_y"
 		"OnlyNominate" "1"
@@ -2268,7 +2268,7 @@
 	"ze_fond_dream"
 	{
 		"workshop_id" "3285633504"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_fond_dream"
 		"updatedname" "ze_fond_dream"
 		"OnlyNominate" "1"
@@ -2300,7 +2300,7 @@
 	"ze_skzroom"
 	{
 		"workshop_id" "3291260013"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_skzroom"
 		"updatedname" "ze_skzroom"
 	}
@@ -2314,7 +2314,7 @@
 	"ze_silenthill_pt"
 	{
 		"workshop_id" "3284621426"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_silenthill_pt"
 		"updatedname" "ze_silenthill_pt"
 		"search" "寂静岭;PT"
@@ -2664,7 +2664,7 @@
 	"ze_ny_marathon_cs2"
 	{
 		"workshop_id" "3321297949"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_ny_marathon_cs2"
 		"updatedname" "ze_ny_marathon_cs2"
 	}
@@ -2760,7 +2760,7 @@
 	"ze_rt4_hessel_valley"
 	{
 		"workshop_id" "3331546631"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_rt4_hessel_valley"
 		"updatedname" "ze_rt4_hessel_valley"
 		"OnlyNominate" "1"
@@ -2968,7 +2968,7 @@
 	"ze_tear_of_tide"
 	{
 		"workshop_id" "3355621066"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_tear_of_tide"
 		"updatedname" "ze_tear_of_tide"
 		"OnlyNominate" "1"
@@ -2976,7 +2976,7 @@
 	"ze_quiver_cs2"
 	{
 		"workshop_id" "3355818753"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_quiver_cs2"
 		"updatedname" "ze_quiver_cs2"
 		"OnlyNominate" "1"
@@ -3040,7 +3040,7 @@
 	"ze_embertwin_v1"
 	{
 		"workshop_id" "3357784018"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_embertwin_v1"
 		"updatedname" "ze_embertwin_v1"
 		"OnlyNominate" "1"
@@ -3300,7 +3300,7 @@
 	"ze_SCP_Containment_Breach"
 	{
 		"workshop_id" "3374542647"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_scp_containment_breach"
 		"updatedname" "ze_scp_containment_breach"
 		"OnlyNominate" "1"
@@ -3506,7 +3506,7 @@
 	"ze_hidden_temple"
 	{
 		"workshop_id" "3389448043"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_hidden_temple"
 		"updatedname" "ze_hidden_temple"
 		"OnlyNominate" "1"
@@ -3562,7 +3562,7 @@
 	"ze_light_shadow_cs2"
 	{
 		"workshop_id" "3394921667"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_light_shadow_cs2"
 		"updatedname" "ze_light_shadow_cs2"
 		"OnlyNominate" "1"
@@ -3752,7 +3752,7 @@
 	"ze_sunkentemple"
 	{
 		"workshop_id" "3418758157"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_sunkentemple"
 		"updatedname" "ze_sunkentemple"
 		"OnlyNominate" "1"
@@ -3798,7 +3798,7 @@
 	"ze_emiya"
 	{
 		"workshop_id" "3369548103"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_emiya"
 		"updatedname" "ze_emiya"
 		"OnlyNominate" "1"
@@ -4176,7 +4176,7 @@
 	"ze_japans_3rd_bombing"
 	{
 		"workshop_id" "3470919800"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_japans_3rd_bombing"
 		"updatedname" "ze_japans_3rd_bombing"
 		"OnlyNominate" "1"
@@ -4494,7 +4494,7 @@
 	"ze_basic_geometric_test"
 	{
 		"workshop_id" "3491374746"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_basic_geometric_test"
 		"updatedname" "ze_basic_geometric_test"
 		"OnlyNominate" "0"
@@ -4694,7 +4694,7 @@
 	"ze_guye_room"
 	{
 		"workshop_id" "3518232786"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_guye_room"
 		"updatedname" "ze_guye_room"
 		"OnlyNominate" "0"
