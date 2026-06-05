@@ -1437,7 +1437,7 @@
 	"ze_surf_sahok"
 	{
 		"workshop_id" "3236908736"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_surf_sahok"
 		"updatedname" "ze_surf_sahok"
 		"search" "密室滑翔"
@@ -1790,7 +1790,7 @@
 	"ze_skyheart"
 	{
 		"workshop_id" "3248313795"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_skyheart"
 		"updatedname" "ze_skyheart"
 		"OnlyNominate" "1"
@@ -1806,7 +1806,7 @@
 	"ze_omochix_cs2"
 	{
 		"workshop_id" "3238552190"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_omochi_cs2"
 		"updatedname" "ze_omochix_cs2"
 		"OnlyNominate" "1"
@@ -2196,7 +2196,7 @@
 	"ze_Lightnight"
 	{
 		"workshop_id" "3280980480"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_lightnight_v1"
 		"updatedname" "ze_lightnight_v1"
 		"OnlyNominate" "1"
@@ -2220,7 +2220,7 @@
 	"ze_shenzhimudi_initial_y"
 	{
 		"workshop_id" "3279330405"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_shenzhimudi_initial_y"
 		"updatedname" "ze_shenzhimudi_initial_y"
 		"OnlyNominate" "1"
@@ -2268,7 +2268,7 @@
 	"ze_fond_dream"
 	{
 		"workshop_id" "3285633504"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_fond_dream"
 		"updatedname" "ze_fond_dream"
 		"OnlyNominate" "1"
@@ -2300,7 +2300,7 @@
 	"ze_skzroom"
 	{
 		"workshop_id" "3291260013"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_skzroom"
 		"updatedname" "ze_skzroom"
 	}
@@ -2314,7 +2314,7 @@
 	"ze_silenthill_pt"
 	{
 		"workshop_id" "3284621426"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_silenthill_pt"
 		"updatedname" "ze_silenthill_pt"
 		"search" "寂静岭;PT"
