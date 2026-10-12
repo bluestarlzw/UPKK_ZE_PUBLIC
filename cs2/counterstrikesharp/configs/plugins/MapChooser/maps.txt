@@ -4438,7 +4438,7 @@
 	"ze_chroma"
 	{
 		"workshop_id" "3486786291"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_chroma"
 		"updatedname" "ze_chroma"
 		"OnlyNominate" "0"
@@ -4494,7 +4494,7 @@
 	"ze_basic_geometric_test"
 	{
 		"workshop_id" "3491374746"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_basic_geometric_test"
 		"updatedname" "ze_basic_geometric_test"
 		"OnlyNominate" "0"
@@ -4694,7 +4694,7 @@
 	"ze_guye_room"
 	{
 		"workshop_id" "3518232786"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_guye_room"
 		"updatedname" "ze_guye_room"
 		"OnlyNominate" "0"
